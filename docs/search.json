@@ -1,0 +1,512 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jonathan Wiguna",
+    "section": "",
+    "text": "1 Selamat Datang di Portfolio Saya\nHalo! Saya Jonathan Wiguna, mahasiswa Sistem dan Teknologi Informasi ITB.\nIni adalah portfolio untuk mata kuliah II-2100 Komunikasi Interpersonal dan Publik.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Selamat Datang di Portfolio Saya</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#navigasi-portfolio",
+    "href": "index.html#navigasi-portfolio",
+    "title": "Jonathan Wiguna",
+    "section": "1.1 📚 Navigasi Portfolio",
+    "text": "1.1 📚 Navigasi Portfolio\nGunakan sidebar di sebelah kiri untuk menjelajahi tugas-tugas saya:\n\n1.1.1 Ujian Tengah Semester (UTS)\n\nAll About Me - Perkenalan diri saya\nMy Song for You - Lagu untuk seseorang yang tidak ada\nMy Stories for You - Cerita inspiratif dari perjalanan hidup\nMy Shapes - Laporan kepribadian dan pengalaman (Coming Soon)\nMy Personal Reviews - Telaahan pesan personal (Coming Soon)\n\n\n\n1.1.2 Ujian Akhir Semester (UAS)\n\nMy Concepts - (Coming Soon)\nMy Opinions - (Coming Soon)\nMy Innovations - (Coming Soon)\nMy Knowledge - (Coming Soon)\nMy Professional Reviews - (Coming Soon)\n\n\nTerima kasih telah mengunjungi portfolio saya!",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Selamat Datang di Portfolio Saya</span>"
+    ]
+  },
+  {
+    "objectID": "All_About_me/index.html",
+    "href": "All_About_me/index.html",
+    "title": "2  Tentang Saya",
+    "section": "",
+    "text": "2.1 Halo, Saya Jonathan\nCatatan: Tambahkan foto kamu di sini nanti (uncomment baris di atas dan ganti dengan nama file foto)",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Tentang Saya</span>"
+    ]
+  },
+  {
+    "objectID": "All_About_me/index.html#siapa-saya",
+    "href": "All_About_me/index.html#siapa-saya",
+    "title": "2  Tentang Saya",
+    "section": "2.2 Siapa Saya?",
+    "text": "2.2 Siapa Saya?\nSaya adalah Jonathan Wiguna, mahasiswa semester 7 Sistem dan Teknologi Informasi di Institut Teknologi Bandung, lahir di Indonesia tahun 2004. Pada awalnya, saya memilih jurusan ini karena saya ingin kebebasan: bekerja dari mana saja, kapan saja, dan mengejar impian saya sendiri.\nNamun setelah berpikir lebih jauh, saya menyadari bahwa ada banyak jalan lain yang juga menawarkan hal yang sama. Akhirnya, selama perkuliahan, saya menemukan ketertarikan saya pada bidang System Analyst.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Tentang Saya</span>"
+    ]
+  },
+  {
+    "objectID": "All_About_me/index.html#apa-yang-saya-sukai",
+    "href": "All_About_me/index.html#apa-yang-saya-sukai",
+    "title": "2  Tentang Saya",
+    "section": "2.3 Apa yang Saya Sukai?",
+    "text": "2.3 Apa yang Saya Sukai?\nSaya menikmati bagaimana sistem bekerja dan bagaimana kebutuhan bisnis diterjemahkan menjadi solusi teknologi yang efektif. UML (Unified Modeling Language) adalah salah satu hal yang saya pelajari dengan antusias, karena saya suka memetakan logika, alur, dan struktur sebelum sesuatu dibangun.\nDi era AI seperti sekarang, saya juga mulai mengeksplorasi bagaimana teknologi AI dapat diintegrasikan dalam analisis sistem dan automasi proses bisnis. Masih banyak yang perlu saya pelajari, tapi kombinasi antara pemikiran analitis dan teknologi baru ini adalah sesuatu yang membuat saya penasaran untuk terus belajar.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Tentang Saya</span>"
+    ]
+  },
+  {
+    "objectID": "All_About_me/index.html#kepribadian-saya",
+    "href": "All_About_me/index.html#kepribadian-saya",
+    "title": "2  Tentang Saya",
+    "section": "2.4 Kepribadian Saya",
+    "text": "2.4 Kepribadian Saya\nSaya adalah tipe orang yang introverted, lebih nyaman bekerja dengan data dan logika daripada berada di keramaian. Meski begitu, saya menyadari bahwa kemampuan berkomunikasi tetap penting, terutama untuk menjembatani pemahaman antara berbagai pihak dalam sebuah proyek.\nJujur saja, sebagai mahasiswa semester 7, saya masih sering bertanya-tanya apakah saya sudah berada di jalur yang benar. Kadang saya merasa belum cukup ahli, belum cukup percaya diri. Tapi mungkin itulah bagian dari proses belajar, bukan? (Self-deprecating humor: karena kalau tidak diakui, orang lain juga tahu kok)",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Tentang Saya</span>"
+    ]
+  },
+  {
+    "objectID": "All_About_me/index.html#penutup",
+    "href": "All_About_me/index.html#penutup",
+    "title": "2  Tentang Saya",
+    "section": "2.5 Penutup",
+    "text": "2.5 Penutup\nDi balik figur saya sebagai mahasiswa IT yang masih mencari jati diri, ada seseorang yang terus berusaha memahami dunia sistem, teknologi, dan bagaimana semuanya bisa bekerja lebih baik. Saya mungkin bukan yang paling menonjol di kelas, tapi saya percaya bahwa setiap orang punya caranya sendiri untuk berkontribusi.\n\n“The secret of happiness is to see all the marvels of the world, and never to forget the drops of oil on the spoon.”\n— Paulo Coelho, The Alchemist",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Tentang Saya</span>"
+    ]
+  },
+  {
+    "objectID": "My_Song_for_You/index.html",
+    "href": "My_Song_for_You/index.html",
+    "title": "3  A Song for Someone Who Doesn’t Exist",
+    "section": "",
+    "text": "3.1 Pengantar\nIni adalah lagu untuk seseorang yang belum (atau mungkin tidak akan pernah) saya temui. Sebuah cerita tentang harapan yang mungkin absurd, namun tetap terasa nyata di kepala.\nTerinspirasi dari gaya musik TV Girl dan Radiohead—melankolis, nostalgia, dan sedikit ironis.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>A Song for Someone Who Doesn't Exist</span>"
+    ]
+  },
+  {
+    "objectID": "My_Song_for_You/index.html#ghost-in-my-playlist",
+    "href": "My_Song_for_You/index.html#ghost-in-my-playlist",
+    "title": "3  A Song for Someone Who Doesn’t Exist",
+    "section": "3.2 “Ghost in My Playlist”",
+    "text": "3.2 “Ghost in My Playlist”\n\n3.2.1 Verse 1\nI saw you in a coffee shop that doesn't exist  \nSitting by the window with your morning mist  \nYou looked at me like you knew my name  \nBut I woke up and you were just a frame  \n\n\n3.2.2 Chorus\nYou're a ghost in my playlist  \nA song I can't forget  \nPlaying on repeat in my head  \nBut you're someone I haven't met yet  \n\nYou're the one I write about at 3 AM  \nWhen the world is quiet and I'm talking to myself again  \nI know it's pathetic, I know it's sad  \nBut you're the best conversation I never had  \n\n\n3.2.3 Verse 2\nI built you from the movies and the books I read  \nA little bit of fiction, a lot of what I need  \nYou laugh at all my jokes, you understand my silence  \nBut you live inside my mind—such a perfect alliance  \n\n\n3.2.4 Chorus\nYou're a ghost in my playlist  \nA song I can't forget  \nPlaying on repeat in my head  \nBut you're someone I haven't met yet  \n\nYou're the one I write about at 3 AM  \nWhen the world is quiet and I'm talking to myself again  \nI know it's pathetic, I know it's sad  \nBut you're the best conversation I never had  \n\n\n3.2.5 Bridge\nMaybe one day I'll find someone real  \nWho makes me forget how this feels  \nBut until then, I'll keep you here  \nIn my headphones, crystal clear  \n\n\n3.2.6 Outro\nSo here's to you, whoever you are  \nA distant light, a fading star  \nI'll keep singing this song in vain  \nUntil you show up, or I go insane",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>A Song for Someone Who Doesn't Exist</span>"
+    ]
+  },
+  {
+    "objectID": "My_Song_for_You/index.html#refleksi",
+    "href": "My_Song_for_You/index.html#refleksi",
+    "title": "3  A Song for Someone Who Doesn’t Exist",
+    "section": "3.3 Refleksi",
+    "text": "3.3 Refleksi\nYa, saya tahu ini agak menyedihkan. Menulis lagu untuk seseorang yang tidak ada terdengar seperti plot film indie yang gagal. Tapi kadang imajinasi lebih aman daripada kenyataan, kan? Setidaknya dalam imajinasi, tidak ada yang menolak atau mengecewakan.\nMungkin suatu hari nanti, seseorang yang nyata akan muncul dan membuat lagu ini terasa konyol. Atau mungkin tidak. Either way, ini adalah bagian dari siapa saya sekarang—seseorang yang masih mencari, masih berharap, dan masih cukup naif untuk percaya bahwa ada seseorang di luar sana.\nDan ya, saya sadar betapa self-deprecating ini kedengarannya. Tapi setidaknya saya jujur, bukan?\n\nCatatan: Lirik ini dibuat dalam Bahasa Inggris karena lebih cocok dengan genre musik yang terinspirasi. Jika ingin, bisa diterjemahkan atau diadaptasi ke Bahasa Indonesia dengan nuansa yang berbeda.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>A Song for Someone Who Doesn't Exist</span>"
+    ]
+  },
+  {
+    "objectID": "My_Stories_for_You/index.html",
+    "href": "My_Stories_for_You/index.html",
+    "title": "4  Cerita-Cerita yang Membentuk Saya",
+    "section": "",
+    "text": "4.1 Pengantar\nBerikut adalah dua cerita dari perjalanan saya yang mungkin terdengar biasa, tapi sangat berarti bagi saya. Cerita tentang kegagalan, penerimaan, dan momen-momen ketika saya akhirnya memahami sesuatu yang sebelumnya tidak pernah saya sadari.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Cerita-Cerita yang Membentuk Saya</span>"
+    ]
+  },
+  {
+    "objectID": "My_Stories_for_You/index.html#hari-pengumuman-snmptn",
+    "href": "My_Stories_for_You/index.html#hari-pengumuman-snmptn",
+    "title": "4  Cerita-Cerita yang Membentuk Saya",
+    "section": "5.1 Hari Pengumuman SNMPTN",
+    "text": "5.1 Hari Pengumuman SNMPTN\nMasih saya ingat dengan jelas hari pengumuman SNMPTN tahun 2022. Saya duduk di depan laptop, refresh halaman berkali-kali, berharap nama saya muncul. Tapi tidak ada.\nSementara itu, di grup chat sekolah, notifikasi terus berdatangan:\n\n“GUYS AKU LOLOS ITB!”\n“Alhamdulillah keterima UI!”\n“SNMPTN berhasil! Thanks buat doa kalian!”\n\nSaya hanya bisa diam. Mematikan notifikasi. Menatap layar kosong dengan perasaan yang sulit dijelaskan.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Cerita-Cerita yang Membentuk Saya</span>"
+    ]
+  },
+  {
+    "objectID": "My_Stories_for_You/index.html#perasaan-tertinggal",
+    "href": "My_Stories_for_You/index.html#perasaan-tertinggal",
+    "title": "4  Cerita-Cerita yang Membentuk Saya",
+    "section": "5.2 Perasaan Tertinggal",
+    "text": "5.2 Perasaan Tertinggal\nBukan cuma soal tidak lolos. Yang paling menyakitkan adalah perasaan tertinggal. Semua teman saya sudah punya kepastian, sementara saya harus memulai lagi dari nol. Mereka sudah merayakan, sementara saya harus kembali belajar untuk SBMPTN.\nSaya tidak menyalahkan siapa pun. Tapi tetap saja, ada rasa sedih yang dalam. Kenapa mereka bisa, tapi saya tidak?",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Cerita-Cerita yang Membentuk Saya</span>"
+    ]
+  },
+  {
+    "objectID": "My_Stories_for_You/index.html#keputusan-mencoba-lagi",
+    "href": "My_Stories_for_You/index.html#keputusan-mencoba-lagi",
+    "title": "4  Cerita-Cerita yang Membentuk Saya",
+    "section": "5.3 Keputusan: Mencoba Lagi",
+    "text": "5.3 Keputusan: Mencoba Lagi\nTapi saya tidak berhenti. Saya punya waktu sekitar 2 bulan untuk mempersiapkan SBMPTN. Jujur, waktu itu sangat singkat dan saya tidak terlalu yakin. Tapi saya berpikir: “Apa salahnya mencoba? Paling tidak, saya sudah berusaha.”\nSaya belajar dengan fokus. Tidak berlebihan, tapi konsisten. Dan yang paling penting, saya tidak lagi membandingkan diri saya dengan orang lain. Saya hanya fokus pada apa yang bisa saya lakukan.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Cerita-Cerita yang Membentuk Saya</span>"
+    ]
+  },
+  {
+    "objectID": "My_Stories_for_You/index.html#pengumuman-sbmptn-lolos-itb",
+    "href": "My_Stories_for_You/index.html#pengumuman-sbmptn-lolos-itb",
+    "title": "4  Cerita-Cerita yang Membentuk Saya",
+    "section": "5.4 Pengumuman SBMPTN: Lolos ITB",
+    "text": "5.4 Pengumuman SBMPTN: Lolos ITB\nKetika pengumuman SBMPTN keluar, saya hampir tidak percaya. Lolos ITB, Sistem dan Teknologi Informasi.\nRasanya seperti semua yang saya alami—kekecewaan, kesedihan, kerja keras—akhirnya membuahkan hasil. Tapi yang lebih penting dari itu, saya belajar sesuatu yang sangat berharga:\n\nTidak ada salahnya mencoba, bahkan ketika peluangnya kecil.\n\nKalau saya menyerah setelah SNMPTN, saya tidak akan ada di ITB sekarang. Kalau saya terlalu takut gagal lagi, saya tidak akan pernah tahu bahwa saya sebenarnya bisa.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Cerita-Cerita yang Membentuk Saya</span>"
+    ]
+  },
+  {
+    "objectID": "My_Stories_for_You/index.html#pelajaran",
+    "href": "My_Stories_for_You/index.html#pelajaran",
+    "title": "4  Cerita-Cerita yang Membentuk Saya",
+    "section": "5.5 Pelajaran",
+    "text": "5.5 Pelajaran\nKegagalan itu menyakitkan. Melihat orang lain berhasil sementara kita tidak, itu berat. Tapi itulah hidup. Kadang kita harus jatuh dulu sebelum bisa berdiri lebih kuat.\nDan yang terpenting: Jangan pernah berhenti mencoba hanya karena takut gagal.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Cerita-Cerita yang Membentuk Saya</span>"
+    ]
+  },
+  {
+    "objectID": "My_Stories_for_You/index.html#setelah-kuis-fisika-yang-menghancurkan",
+    "href": "My_Stories_for_You/index.html#setelah-kuis-fisika-yang-menghancurkan",
+    "title": "4  Cerita-Cerita yang Membentuk Saya",
+    "section": "6.1 Setelah Kuis Fisika yang Menghancurkan",
+    "text": "6.1 Setelah Kuis Fisika yang Menghancurkan\nSemester 2, saya baru saja selesai mengerjakan kuis Fisika Dasar yang sangat sulit. Saya keluar dari kelas dengan perasaan hancur. Saya tahu saya tidak mengerjakan dengan baik. Pikiran saya dipenuhi dengan kekhawatiran: “Apakah saya cukup pintar untuk bertahan di sini?”\nSaya berjalan keluar gedung, masih terbayang-bayang soal yang tidak bisa saya jawab.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Cerita-Cerita yang Membentuk Saya</span>"
+    ]
+  },
+  {
+    "objectID": "My_Stories_for_You/index.html#momen-di-jalan-pulang",
+    "href": "My_Stories_for_You/index.html#momen-di-jalan-pulang",
+    "title": "4  Cerita-Cerita yang Membentuk Saya",
+    "section": "6.2 Momen di Jalan Pulang",
+    "text": "6.2 Momen di Jalan Pulang\nTapi kemudian, saya berhenti sejenak. Saya melihat sekeliling.\nLangit sore itu biru dengan awan yang bergerak perlahan. Pohon-pohon di sekitar kampus bergoyang tertiup angin. Mahasiswa lain berjalan santai, tertawa, duduk di taman, atau sekadar ngobrol.\nDan tiba-tiba saya menyadari sesuatu:\n\nITB itu indah.\n\nBukan hanya gedungnya, bukan hanya prestisenya. Tapi momen-momen kecil seperti ini. Langit sore. Angin sepoi-sepoi. Kehidupan yang terus berjalan meskipun saya baru saja gagal dalam satu kuis.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Cerita-Cerita yang Membentuk Saya</span>"
+    ]
+  },
+  {
+    "objectID": "My_Stories_for_You/index.html#quote-dari-the-alchemist",
+    "href": "My_Stories_for_You/index.html#quote-dari-the-alchemist",
+    "title": "4  Cerita-Cerita yang Membentuk Saya",
+    "section": "6.3 Quote dari The Alchemist",
+    "text": "6.3 Quote dari The Alchemist\nSaat itu saya teringat sebuah cerita dari buku The Alchemist karangan Paulo Coelho. Ada cerita tentang seorang anak muda yang diberi sendok berisi minyak dan diminta berjalan keliling istana tanpa menumpahkan minyaknya.\nPertama kali, dia terlalu fokus pada sendok sehingga tidak melihat keindahan istana. Kedua kalinya, dia terlalu fokus pada istana sehingga minyaknya tumpah.\nPelajarannya:\n\n“The secret of happiness is to see all the marvels of the world, and never to forget the drops of oil on the spoon.”\n\nArtinya, kebahagiaan ada pada keseimbangan: menikmati keindahan dunia, tapi tidak melupakan tanggung jawab kita.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Cerita-Cerita yang Membentuk Saya</span>"
+    ]
+  },
+  {
+    "objectID": "My_Stories_for_You/index.html#pelajaran-yang-saya-dapat",
+    "href": "My_Stories_for_You/index.html#pelajaran-yang-saya-dapat",
+    "title": "4  Cerita-Cerita yang Membentuk Saya",
+    "section": "6.4 Pelajaran yang Saya Dapat",
+    "text": "6.4 Pelajaran yang Saya Dapat\nSelama dua semester, saya terlalu fokus pada “sendok”—nilai, tugas, ujian. Saya lupa untuk melihat “istana”—keindahan kampus, teman-teman, pengalaman belajar itu sendiri.\nHari itu, setelah kuis Fisika yang buruk, saya akhirnya menyadarinya. ITB bukan hanya tentang akademik. ITB adalah tentang proses. Tentang belajar, jatuh, bangkit, dan menikmati perjalanan.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Cerita-Cerita yang Membentuk Saya</span>"
+    ]
+  },
+  {
+    "objectID": "My_Stories_for_You/index.html#refleksi",
+    "href": "My_Stories_for_You/index.html#refleksi",
+    "title": "4  Cerita-Cerita yang Membentuk Saya",
+    "section": "6.5 Refleksi",
+    "text": "6.5 Refleksi\nSekarang, setiap kali saya merasa overwhelmed dengan tugas atau nilai, saya mencoba untuk berhenti sejenak. Melihat sekeliling. Mengingat bahwa hidup bukan hanya tentang “drops of oil” yang harus dijaga, tapi juga tentang “marvels of the world” yang harus dinikmati.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Cerita-Cerita yang Membentuk Saya</span>"
+    ]
+  },
+  {
+    "objectID": "My_Stories_for_You/index.html#penutup",
+    "href": "My_Stories_for_You/index.html#penutup",
+    "title": "4  Cerita-Cerita yang Membentuk Saya",
+    "section": "6.6 Penutup",
+    "text": "6.6 Penutup\nDua cerita ini mungkin terdengar sederhana. Tapi bagi saya, ini adalah momen-momen yang membentuk siapa saya sekarang. Saya belajar untuk tidak menyerah. Saya belajar untuk melihat keindahan di tengah kesulitan. Dan saya belajar bahwa kehidupan adalah tentang keseimbangan.\nDan ya, saya masih sering gagal menjaga keseimbangan itu. Tapi setidaknya sekarang saya tahu bahwa itu penting.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Cerita-Cerita yang Membentuk Saya</span>"
+    ]
+  },
+  {
+    "objectID": "My_Shapes/index.html",
+    "href": "My_Shapes/index.html",
+    "title": "5  UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)",
+    "section": "",
+    "text": "5.1 Sumber VIA assessment",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)</span>"
+    ]
+  },
+  {
+    "objectID": "My_Shapes/index.html#ringkasan-1-halaman",
+    "href": "My_Shapes/index.html#ringkasan-1-halaman",
+    "title": "5  UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)",
+    "section": "5.2 0) Ringkasan 1 Halaman",
+    "text": "5.2 0) Ringkasan 1 Halaman\nPeran Inti: Profesor & Elder — perancang ekosistem belajar-bernilai, pembimbing, dan pemimpin pelayanan komunitas. Misi: Mengangkat kualitas hidup melalui smart engineering dan value-oriented education, khususnya bagi lansia/keluarga/komunitas (GRACE), serta pelayanan gerejawi yang menumbuhkan kasih dan pengharapan. Kekuatan Utama: mengkonsep sistem utuh, menulis & mengajar, membangun jejaring, merancang rubrik/alat evaluasi, menggerakkan proyek lintas-disiplin. Dampak yang Dituju: karya, kurikulum, dan pelayanan yang menumbuhkan karakter, keterampilan, serta kesejahteraan berkeadilan.\nPeta SHAPE (singkat):\n\nS — Spiritual Gifts: Teaching, Shepherding/Pastoring, Leadership, Wisdom/Discernment, Exhortation/Encouragement, Administration.\nH — Heart (Minat & Cinta Pelayanan): pendidikan berorientasi nilai; kesejahteraan lansia & keluarga (GRACE); pembinaan iman; menulis kisah/novel/lirik; rekayasa cerdas & AI untuk kebaikan bersama; mentorship mahasiswa-dosen; penguatan jemaat.\nA — Abilities (Kemampuan): perancangan sistem (PSKVE/TISE), kurikulum & rubrik, riset & publikasi, menulis multi-format (Quarto/LaTeX), pemrograman (Python/R/Prolog/Modelica), komunikasi publik, memimpin kolaborasi.\nP — Personality (Gaya Kepribadian Kerja): strategis & reflektif, berorientasi visi & nilai, analitis-sistemik, kolaboratif, tenang dalam krisis, suka membangun standar & alat.\nE — Experiences (Pengalaman Kunci): dosen & peneliti lintas proyek (GRACE, Smart Engineering, pendidikan), Elder & pengorganisasi jemaat, penulis kreatif, arsitek sistem pengetahuan (Obsidian/GitHub/Quarto), penggerak sarasehan & penggalangan dukungan.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)</span>"
+    ]
+  },
+  {
+    "objectID": "My_Shapes/index.html#s-spiritual-gifts-karunia-rohani",
+    "href": "My_Shapes/index.html#s-spiritual-gifts-karunia-rohani",
+    "title": "5  UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)",
+    "section": "5.3 1) S — Spiritual Gifts (Karunia Rohani)",
+    "text": "5.3 1) S — Spiritual Gifts (Karunia Rohani)\n\nTeaching & Wisdom/Discernment: mengubah konsep kompleks menjadi peta belajar, rubrik, dan alat evaluasi yang memampukan.\nShepherding/Pastoring & Exhortation: membimbing individu/kelompok dengan empati, meneguhkan, dan memberi arah.\nLeadership & Administration: merancang ekosistem (orang–proses–alat) dengan target berdampak dan terukur.\n\nIndikator Bukti: silabus & rubrik (II-2100/EL2007), naskah pengajaran, bimbingan riset, modul/website kelas, program jemaat.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)</span>"
+    ]
+  },
+  {
+    "objectID": "My_Shapes/index.html#h-heart-minat-nilai-kepedulian",
+    "href": "My_Shapes/index.html#h-heart-minat-nilai-kepedulian",
+    "title": "5  UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)",
+    "section": "5.4 2) H — Heart (Minat, Nilai, Kepedulian)",
+    "text": "5.4 2) H — Heart (Minat, Nilai, Kepedulian)\n\nPendidikan yang mencipta nilai (CPMK↔︎rubrik↔︎artefak nyata).\nGRACE: kualitas hidup lansia/keluarga melalui sistem dukung cerdas & komunitas saling-melayani.\nGereja & Komunitas: penguatan iman, kesalingan, dan pelayanan kasih.\nKreativitas naratif: kisah/novel/lirik sebagai sarana edukasi & pengharapan.\nRekayasa cerdas & AI untuk kemaslahatan.\n\nMasalah yang ingin dipecahkan: kesenjangan antara pengetahuan–karakter–aksi; pembelajaran kurang bermakna; layanan komunitas belum terukur dampaknya.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)</span>"
+    ]
+  },
+  {
+    "objectID": "My_Shapes/index.html#a-abilities-kemampuan-andal",
+    "href": "My_Shapes/index.html#a-abilities-kemampuan-andal",
+    "title": "5  UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)",
+    "section": "5.5 3) A — Abilities (Kemampuan Andal)",
+    "text": "5.5 3) A — Abilities (Kemampuan Andal)\n\nPerancangan sistem (PSKVE/TISE), value co‑creation, finansial rekayasa, desain instrumen penilaian.\nKurikulum & pedagogi: CPMK↔︎rubrik↔︎tugas↔︎bukti; otomasi alur kerja (Python/Quarto/GitHub).\nRiset & penulisan ilmiah; karya kreatif (prosa, lirik, ceramah/khotbah).\nTeknis: Python, R, Prolog (ontologi), Modelica, Quarto/LaTeX, Obsidian, GitHub, Graphviz.\nKomunikasi & kepemimpinan: orasi publik, fasilitasi sarasehan, negosiasi kolaborasi.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)</span>"
+    ]
+  },
+  {
+    "objectID": "My_Shapes/index.html#p-personality-gaya-kerja-kolaborasi",
+    "href": "My_Shapes/index.html#p-personality-gaya-kerja-kolaborasi",
+    "title": "5  UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)",
+    "section": "5.6 4) P — Personality (Gaya Kerja & Kolaborasi)",
+    "text": "5.6 4) P — Personality (Gaya Kerja & Kolaborasi)\n\nStrategis‑sistemik (melihat gambaran besar, memetakan bagian-bagian).\nReflektif & nilai‑driven (standar etis & mutu).\nKolaboratif (membangun jejaring, memberi ruang tumbuh).\nTenang‑tangguh (fokus hasil jangka panjang).\nPembelajar & pembuat alat (suka membuat template, rubrik, pipeline).",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)</span>"
+    ]
+  },
+  {
+    "objectID": "My_Shapes/index.html#e-experiences-pengalaman-pembentuk",
+    "href": "My_Shapes/index.html#e-experiences-pengalaman-pembentuk",
+    "title": "5  UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)",
+    "section": "5.7 5) E — Experiences (Pengalaman Pembentuk)",
+    "text": "5.7 5) E — Experiences (Pengalaman Pembentuk)\n\nAkademik & Riset: merancang mata kuliah, SLR AI & transformasi digital, proyek GRACE & Smart Engineering.\nPelayanan & Organisasi: Elder GKI, fasilitator sarasehan, penggalangan dukungan jemaat, pembinaan rohani.\nKreasi Konten: penulisan novel/khotbah/lirik; produksi materi ajar multi‑format.\nInfrastruktur Pengetahuan: Obsidian–GitHub–Quarto, rubrik otomatis, bank soal.\n\nPelajaran Inti: integrasi iman–ilmu–nilai; sistem yang baik melipatgandakan orang baik; narasi menggerakkan aksi.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)</span>"
+    ]
+  },
+  {
+    "objectID": "My_Shapes/index.html#piagam-diri-selfcharter",
+    "href": "My_Shapes/index.html#piagam-diri-selfcharter",
+    "title": "5  UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)",
+    "section": "5.8 6) Piagam Diri (Self‑Charter)",
+    "text": "5.8 6) Piagam Diri (Self‑Charter)\nMisi Hidup: merancang dan menggerakkan ekosistem pembelajaran & pelayanan yang memerdekakan, bermakna, dan berkeadilan. Nilai Inti: kasih, integritas, kebijaksanaan, keberanian, mutu, keberpihakan pada yang lemah. Peran Inti: Perancang sistem nilai‑pembelajaran; Pembimbing & pengajar; Pemimpin pelayanan komunitas. Kompas Keputusan: (1) Dampak pada manusia; (2) Keselarasan nilai; (3) Keberlanjutan; (4) Kemampuan tim mengelola; (5) Bukti terukur. Janji Pelayanan: hadir dengan empati, mendengar, memberi arah praktis, membangun alat agar orang lain bertumbuh. Batasan: menolak proyek yang mengabaikan martabat manusia/etika; menjaga ritme kerja‑istirahat‑keluarga.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)</span>"
+    ]
+  },
+  {
+    "objectID": "My_Shapes/index.html#narasi-90-detik-elevator-pitch",
+    "href": "My_Shapes/index.html#narasi-90-detik-elevator-pitch",
+    "title": "5  UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)",
+    "section": "5.9 7) Narasi 90 Detik (Elevator Pitch)",
+    "text": "5.9 7) Narasi 90 Detik (Elevator Pitch)\n“Saya seorang profesor dan elder yang merancang ekosistem belajar dan pelayanan berbasis nilai. Karunia saya mengajar, membimbing, dan memimpin dengan pendekatan sistem: mengubah konsep besar menjadi peta, rubrik, dan alat yang membuat orang bertumbuh. Hati saya pada pendidikan bermakna, kesejahteraan lansia dan keluarga, serta penguatan jemaat. Dengan pengalaman lintas riset, kurikulum, dan pelayanan, saya menghubungkan ilmu, iman, dan aksi. Target saya sederhana: menghadirkan karya dan komunitas yang saling menguatkan—di kelas, di gereja, dan di masyarakat—agar lebih banyak orang hidup berkualitas, berpengharapan, dan siap melayani.”",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)</span>"
+    ]
+  },
+  {
+    "objectID": "My_Shapes/index.html#servicefit-map-tempat-saya-paling-berdampak",
+    "href": "My_Shapes/index.html#servicefit-map-tempat-saya-paling-berdampak",
+    "title": "5  UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)",
+    "section": "5.10 8) Service‑Fit Map (Tempat Saya Paling Berdampak)",
+    "text": "5.10 8) Service‑Fit Map (Tempat Saya Paling Berdampak)\n\nKampus: perancangan kurikulum & rubrik; mentorship riset; otomasi pipeline belajar; kuliah & orasi.\nJemaat: pembinaan rohani & khotbah; fasilitasi sarasehan; program lansia/keluarga (GRACE).\nRiset‑Inovasi: desain platform nilai‑ciptakan (PSKVE); publikasi; konsorsium kolaborasi.\nKreasi Naratif: kisah/lirik sebagai media edukasi & penguatan batin.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)</span>"
+    ]
+  },
+  {
+    "objectID": "My_Shapes/index.html#evidences-artefak-tautan",
+    "href": "My_Shapes/index.html#evidences-artefak-tautan",
+    "title": "5  UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)",
+    "section": "5.11 9) Evidences (Artefak & Tautan)",
+    "text": "5.11 9) Evidences (Artefak & Tautan)\n\nGanti tanda [ ] dengan tautan/berkas Anda.\n\n\nSilabus & rubrik II‑2100 / EL2007\nModul/website kelas & bank soal\nKhotbah/renungan & materi sarasehan\nPublikasi/SLR & proposal riset (GRACE, dsb.)\nNovel/lirik & materi kreatif\nPipeline otomasi (Quarto/GitHub/Obsidian)",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)</span>"
+    ]
+  },
+  {
+    "objectID": "My_Shapes/index.html#rencana-aksi-90-hari-smart",
+    "href": "My_Shapes/index.html#rencana-aksi-90-hari-smart",
+    "title": "5  UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)",
+    "section": "5.12 10) Rencana Aksi 90 Hari (SMART)",
+    "text": "5.12 10) Rencana Aksi 90 Hari (SMART)\n\nRampungkan halaman UTS (KIPP/All‑About‑Me) end‑to‑end. Outcome: semua tugas berisi bukti + rubrik; Due: T‑14 hari.\nMentor 3 tim mahasiswa menyusun artefak bernilai. Outcome: 3 proyek dengan metrik dampak; Due: T‑45 hari.\nPilot GRACE micro‑service di jemaat. Outcome: 1 layanan kecil terukur (mis. pendampingan lansia); Due: T‑90 hari.\nPublikasi ringkas (working paper) integrasi iman–ilmu–nilai. Outcome: 1 naskah pra‑cetak; Due: T‑75 hari.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)</span>"
+    ]
+  },
+  {
+    "objectID": "My_Shapes/index.html#shape-cpmk-interpersonal-public-communication",
+    "href": "My_Shapes/index.html#shape-cpmk-interpersonal-public-communication",
+    "title": "5  UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)",
+    "section": "5.13 11) SHAPE ↔︎ CPMK (Interpersonal & Public Communication)",
+    "text": "5.13 11) SHAPE ↔︎ CPMK (Interpersonal & Public Communication)\n\nSelf‑awareness & refleksi (CPMK‑S): dituangkan pada Piagam Diri & Narasi 90 detik.\nEmpati & komunikasi etis (CPMK‑E): Shepherding/Exhortation → khotbah, mentoring, review berempati.\nStorytelling & presentasi (CPMK‑P): Teaching + kreasi naratif → kuliah, cerita, lirik.\nKolaborasi & kepemimpinan (CPMK‑K): Leadership/Administration → proyek riset/komunitas terukur.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)</span>"
+    ]
+  },
+  {
+    "objectID": "My_Shapes/index.html#selfassessment-rubrik-uts4-isi-skormu",
+    "href": "My_Shapes/index.html#selfassessment-rubrik-uts4-isi-skormu",
+    "title": "5  UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)",
+    "section": "5.14 12) Self‑Assessment Rubrik UTS‑4 (isi skormu)",
+    "text": "5.14 12) Self‑Assessment Rubrik UTS‑4 (isi skormu)\n\n\n\n\n\n\n\n\n\nKriteria\nDeskripsi\nSkor (1–5)\nBukti\n\n\n\n\nKelengkapan SHAPE\nS‑H‑A‑P‑E jelas & terisi\n\n\n\n\nKoherensi Piagam Diri\nmisi‑nilai‑peran konsisten\n\n\n\n\nNarasi 90 detik\nringkas, kuat, mengundang aksi\n\n\n\n\nEvidence & Aksi 90 hari\ntautan bukti & rencana SMART\n\n\n\n\n\nTotal (maks 20): [ ] Tingkat: ☐ A (≥85%) ☐ B (70–84%) ☐ C (60–69%) ☐ D (50–59%) ☐ E (&lt;50%)",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)</span>"
+    ]
+  },
+  {
+    "objectID": "My_Shapes/index.html#versi-ultraringkas-140-kata",
+    "href": "My_Shapes/index.html#versi-ultraringkas-140-kata",
+    "title": "5  UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)",
+    "section": "5.15 13) Versi Ultra‑Ringkas (≤140 kata)",
+    "text": "5.15 13) Versi Ultra‑Ringkas (≤140 kata)\n“Saya profesor & elder dengan karunia mengajar, membimbing, dan memimpin secara sistemik. Hati saya pada pendidikan bernilai, kesejahteraan lansia/keluarga (GRACE), dan penguatan jemaat. Kemampuan saya merancang kurikulum, rubrik, dan alat otomasi belajar; menulis ilmiah & kreatif; serta menggerakkan kolaborasi. Pengalaman saya di kampus, gereja, riset, dan kreasi konten mengajarkan integrasi iman–ilmu–aksi. Misi saya menghadirkan ekosistem yang memerdekakan: di kelas melalui pembelajaran bermakna; di jemaat melalui pelayanan kasih yang terukur; dan di masyarakat melalui inovasi yang adil. Target 90 hari: menuntaskan artefak UTS, mementori 3 tim mahasiswa, memulai layanan mikro GRACE, dan menerbitkan naskah ringkas.”",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)</span>"
+    ]
+  },
+  {
+    "objectID": "My_Shapes/index.html#piagam-diri-armein-z.-r.-langi",
+    "href": "My_Shapes/index.html#piagam-diri-armein-z.-r.-langi",
+    "title": "5  UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)",
+    "section": "5.16 Piagam Diri — Armein Z. R. Langi",
+    "text": "5.16 Piagam Diri — Armein Z. R. Langi\nPernyataan Misi Saya adalah insinyur-pendidik dan penulis yang menyalakan sukacita belajar, menumbuhkan empati, dan merancang sistem cerdas yang memuliakan Tuhan serta meningkatkan kualitas hidup keluarga, kampus, dan komunitas. (Struktur mengikuti kerangka My SHAPE—Piagam Diri 1-halaman. )\nS — Signature Strengths (inti kekuatan khas) Humor, Spiritualitas, Kreativitas, Suka Belajar, Keingintahuan, Pandangan (wisdom/perspective), Bersyukur, Keadilan, Kecerdasan Sosial, Kejujuran, Kepemimpinan. (Sumber: VIA Character Strengths Profile, 13 Okt 2025. )\nH — Heart (nilai & panggilan) Empati sebagai kecerdasan tertinggi; kebaikan lebih utama daripada sekadar pintar; pencarian “The True Reality”; sukacita hidup yang mengasihi; keluarga sebagai ekosistem kasih. (Disimpulkan dari tulisan-tulisan Anda di blog: Empati: Kecerdasan Tertinggi; On Being Nice; The Truth, The True Reality; tagline blog; catatan keluarga. (Armein Z. R. Langi in the City of Eden))\nA — Aptitudes & Acquired Skills (bakat & keterampilan kunci) Perancangan & penelitian sistem/komputasi (speech compression, FPGA), rekayasa & kurikulum, kepemimpinan akademik, penulisan & penceritaan, fasilitasi pembelajaran, sistem & organisasi. (Contoh teknis: riset speech compression & desain kontrol prosesor pada awal karier. (Armein Z. R. Langi in the City of Eden))\nP — Personality (gaya kerja yang menonjol) Reflektif-analitis, empatik-inklusif, visioner, pembelajar antusias, kolaboratif; berpihak pada keadilan & integritas. (Disintesis dari pola kekuatan VIA dan tema tulisan Anda. )\nE — Experiences (jejak pembentuk identitas)\n\nKetangguhan pribadi — “The Child Who Learned to Walk at the Disneyland”: ketekunan, berjalan dalam dingin, terus melangkah menuju tujuan. (Armein Z. R. Langi in the City of Eden)\nLompatan kompetensi awal — perjalanan riset: software speech compression jadi dalam 3 bulan; desain chip kontrol di Xilinx FPGA; menulis paper. (Armein Z. R. Langi in the City of Eden)\nKeluarga & komunitas — keluarga besar sebagai sumber nilai, pelayanan, dan sukacita. (Armein Z. R. Langi in the City of Eden)\nStandar keunggulan — sensibilitas benchmarking sains & pendidikan (refleksi tentang Caltech). (Armein Z. R. Langi in the City of Eden)\n\nJanji Praktis (Operating Principles)\n\nPeople first with empathy • 2) Truth-seeking with humility • 3) Design for value & justice • 4) Teach what I practice, practice what I teach • 5) Joyful learning, faithful living. (Kerangka dan cara merangkum diadaptasi dari My SHAPE Toolkit. )",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)</span>"
+    ]
+  },
+  {
+    "objectID": "My_Shapes/index.html#narasi-diri-versi-90-detik",
+    "href": "My_Shapes/index.html#narasi-diri-versi-90-detik",
+    "title": "5  UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)",
+    "section": "5.17 Narasi Diri (versi 90 detik)",
+    "text": "5.17 Narasi Diri (versi 90 detik)\nSaya Armein—insinyur, pendidik, dan penulis—yang percaya bahwa pengetahuan hanya bermakna bila melahirkan kasih dan keadilan. Kekuatan saya adalah spiritualitas yang membumi, kreativitas rekayasa, dan kegembiraan belajar tanpa henti, yang saya pakai untuk menyalakan semangat orang lain.\nPerjalanan saya ditempa oleh pengalaman yang mengajarkan ketekunan—mulai dari “berjalan dalam dingin” hingga tuntas menyelesaikan riset komputasi dan merancang sistem sejak awal karier. Keluarga dan komunitas menjadi ekosistem kasih tempat saya belajar bahwa kebaikan lebih tinggi nilainya daripada sekadar pintar dan empati adalah kecerdasan tertinggi. (Armein Z. R. Langi in the City of Eden)\nKe depan, saya ingin terus mendesain lingkungan belajar dan sistem cerdas yang memuliakan Tuhan dan membawa berkat nyata—membentuk insan pembelajar yang jujur, adil, dan penuh syukur—seraya menjaga sukacita: joy of loving and exciting life. (Armein Z. R. Langi in the City of Eden)",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)</span>"
+    ]
+  },
+  {
+    "objectID": "My_Shapes/index.html#narasi-diri-versi-panjang-35-paragraf",
+    "href": "My_Shapes/index.html#narasi-diri-versi-panjang-35-paragraf",
+    "title": "5  UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)",
+    "section": "5.18 Narasi Diri (versi panjang, 3–5 paragraf)",
+    "text": "5.18 Narasi Diri (versi panjang, 3–5 paragraf)\nKini. Saya mengabdikan diri sebagai insinyur-pendidik yang merancang pengalaman belajar dan sistem cerdas agar manusia bertumbuh utuh: cakap teknis, peka nurani, dan gembira belajar. Kekuatan saya—spiritualitas, kreativitas, suka belajar, keingintahuan, perspektif, keadilan, dan kepemimpinan—mengarahkan cara saya memimpin, mengajar, dan menulis.\nDulu—titik balik. Saya belajar bahwa langkah kecil yang konsisten mengalahkan rintangan besar: berjalan sendirian dalam dingin—secara harfiah dan metaforis—membentuk ketahanan batin. Di laboratorium, saya menuntaskan perangkat lunak speech compression dalam waktu singkat dan merancang control unit berbasis FPGA, lalu menulis paper pertama—momen yang mengajarkan disiplin, standar mutu, dan keberanian intelektual. (Armein Z. R. Langi in the City of Eden)\nNilai yang saya pegang. Saya memilih kebaikan di atas sekadar kepintaran, menempatkan empati sebagai kecerdasan tertinggi, dan mengejar kebenaran sebagai realitas yang sesungguhnya. Keluarga besar meneguhkan panggilan itu—rumah sebagai laboratorium kasih dan keadilan. (Armein Z. R. Langi in the City of Eden)\nKe depan. Dengan kerangka My SHAPE, saya terus menyelaraskan kekuatan, nilai, keterampilan, gaya kerja, dan pengalaman untuk merancang program, riset, dan karya tulis yang berdampak—agar teknologi menjadi pelayan kemanusiaan, dan setiap ruang belajar menjadi City of Eden: tempat sukacita, kasih, dan keunggulan bertemu.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)</span>"
+    ]
+  },
+  {
+    "objectID": "My_Personal_Reviews/index.html",
+    "href": "My_Personal_Reviews/index.html",
+    "title": "6  UTS-5 My Personal Reviews",
+    "section": "",
+    "text": "7 Hasil Self-Assessment UTS (URL: ii-2100.github.io/all-about-me)\nBerikut cara saya melakukan review: mengguan chatGPT, saya mengattach file promt ChatGPT, disertai perintah :“self assess uts-1 sanpai uts-5 dari URL ‘https://ii-2100.github.io/all-about-me/’”\nChatGPT melakukan self-assessment UTS-1 s.d. UTS-5 langsung dari laman yang Anda berikan dan menilai memakai rubrik tugas UTS (skala 1–5 per kriteria). Rekap skor siap diunduh sebagai CSV: Download CSV ringkasan.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>UTS-5 My Personal Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Personal_Reviews/index.html#identifikasi",
+    "href": "My_Personal_Reviews/index.html#identifikasi",
+    "title": "6  UTS-5 My Personal Reviews",
+    "section": "7.1 Identifikasi",
+    "text": "7.1 Identifikasi\n\nNama & NIM penulis: Armein Z. R. Langi – 131902360 (tertera di halaman depan portofolio). (II 2100)\nPenilai: Self-assessment (Armein Z. R. Langi)\nCatatan cakupan: halaman beranda memuat “About Me”; navigasi ke “My Songs for You”, “My Stories for You”, “My Shapes”, dan “My Personal Reviews” tersedia. (II 2100)",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>UTS-5 My Personal Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Personal_Reviews/index.html#tinjauan-umum",
+    "href": "My_Personal_Reviews/index.html#tinjauan-umum",
+    "title": "6  UTS-5 My Personal Reviews",
+    "section": "7.2 Tinjauan Umum",
+    "text": "7.2 Tinjauan Umum\n\nUTS-1 (All About Me) hadir di beranda (“Selamat Berjumpa / About Me”). Isi memperkenalkan identitas dan latar personal secara padat. (II 2100)\nUTS-2 (My Songs for You) memuat judul karya dan tautan audio, namun lirik/isi tidak ditampilkan di halaman (file audio tidak bisa saya akses dari sini), sehingga penilaian konten terbatas pada kelengkapan presentasi. (II 2100)\nUTS-3 (My Stories for You) berisi tautan ke beberapa cerita; konten naratif kuat, terutama pada kisah keluarga “Gaun Pengantin Gladys” serta kisah inspiratif lainnya. (II 2100)\nUTS-4 (My SHAPE) saat ini halaman kosong/tanpa isi, hanya navigasi. (II 2100)\nUTS-5 (My Personal Reviews) berisi metode/tautan panduan review, namun belum ada contoh review personal yang lengkap terhadap sebuah pesan/teks. (II 2100)",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>UTS-5 My Personal Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Personal_Reviews/index.html#tinjauan-spesifik-skor-15",
+    "href": "My_Personal_Reviews/index.html#tinjauan-spesifik-skor-15",
+    "title": "6  UTS-5 My Personal Reviews",
+    "section": "7.3 Tinjauan Spesifik + Skor (1–5)",
+    "text": "7.3 Tinjauan Spesifik + Skor (1–5)\n\n7.3.1 UTS-1 — All About Me (di beranda)\nSkor per kriteria: Orisinalitas 3, Keterlibatan 3, Humor 1, Wawasan/Insight 3 → Total 10/20 (50%). Alasan singkat: Perkenalan diri faktual dan jelas, namun gaya masih informatif ketimbang naratif (minim humor dan moment “hook”). (II 2100) Saran perbaikan: Buka dengan anekdot pribadi (1–2 paragraf) yang “mengikat” (mis. titik balik karier/keluarga), tambahkan satu momen humor ringan, lalu tutup dengan refleksi singkat tentang nilai/visi diri agar aspek insight naik.\n\n\n7.3.2 UTS-2 — My Songs for You\nSkor per kriteria: Orisinalitas 2, Keterlibatan 2, Humor 1, Inspirasi 2 → Total 7/20 (35%). Alasan singkat: Halaman menampilkan judul lagu “River in my Mind”, “Heaven on Earth”, namun tanpa lirik/cerita di balik lagu sehingga sulit menilai aspek pesan, humor, dan inspirasi. (II 2100) Saran perbaikan: Tambahkan lirik lengkap, 1 paragraf cerita proses kreatif, dan 2–3 kalimat “pesan untukmu” agar inspirasi terbaca; sertakan player/tautan yang dapat diputar langsung + fallback transkrip.\n\n\n7.3.3 UTS-3 — My Stories for You\nSkor per kriteria: Orisinalitas 5, Keterlibatan 5, Pengembangan Narasi 4, Inspirasi 5 → Total 19/20 (95%). Alasan singkat: Cerita “Gaun Pengantin Gladys” dkk sangat personal, emosional, dan inspiratif; ritme bertutur hidup serta detail situasional kuat (konten ramu unsur penebusan/keluarga/iman). (II 2100) Saran perbaikan: Tambah “lead” 2–3 kalimat yang merangkum pesan kunci tiap cerita; akhiri dengan ajakan/refleksi 1–2 kalimat agar resonansi ke pembaca makin jelas.\n\n\n7.3.4 UTS-4 — My SHAPE\nSkor per kriteria: Orisinalitas 1, Keterlibatan 1, Pengembangan 1, Inspirasi 1 → Total 4/20 (20%). Alasan singkat: Konten belum tersedia. (II 2100) Saran perbaikan (prioritas):\n\nTampilkan rekap SHAPE (Spiritual gifts, Heart, Abilities, Personality, Experiences) dalam 1 tabel ringkas + 3–5 butir bukti;\nNarasikan 2 pengalaman kunci (±150 kata/each) yang menunjukkan “signature strengths”;\nTutup dengan 3 rencana aksi konkret (who/what/when).\n\n\n\n7.3.5 UTS-5 — My Personal Reviews\nSkor per kriteria: Pemahaman Konsep 2, Analisis Kritis 1, Argumentasi (Logos) 1, Etos & Empati 2, Rekomendasi 1 → Total 7/25 (28%). Alasan singkat: Halaman berisi metode cara menilai, tetapi belum ada contoh review personal yang lengkap terhadap sebuah pesan/teks sehingga aspek analisis-argumentasi tak terbaca. (II 2100) Saran perbaikan: Pilih 1 karya personal (mis. UTS-1/2/3), tulis review 400–600 kata: ringkas pesan, nilai dengan rubrik, berikan 2–3 bukti kutipan, evaluasi etos/empati, lalu tutup dengan rekomendasi perbaikan spesifik.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>UTS-5 My Personal Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Personal_Reviews/index.html#rekap-skor-ringkas",
+    "href": "My_Personal_Reviews/index.html#rekap-skor-ringkas",
+    "title": "6  UTS-5 My Personal Reviews",
+    "section": "7.4 Rekap Skor (ringkas)",
+    "text": "7.4 Rekap Skor (ringkas)\n\nUTS-1: 10/20 → 50%\nUTS-2: 7/20 → 35%\nUTS-3: 19/20 → 95%\nUTS-4: 4/20 → 20%\nUTS-5: 7/25 → 28%\n\nCSV lengkap sudah saya siapkan untuk dokumentasi dan olah lanjut: Download CSV ringkasan.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>UTS-5 My Personal Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Personal_Reviews/index.html#langkah-perbaikan-cepat-prioritas-1-minggu",
+    "href": "My_Personal_Reviews/index.html#langkah-perbaikan-cepat-prioritas-1-minggu",
+    "title": "6  UTS-5 My Personal Reviews",
+    "section": "7.5 Langkah Perbaikan Cepat (prioritas 1 minggu)",
+    "text": "7.5 Langkah Perbaikan Cepat (prioritas 1 minggu)\n\nLengkapi UTS-4 (My SHAPE) sesuai saran di atas;\nTambahkan lirik + sinopsis untuk tiap lagu di UTS-2 agar bisa dinilai isi/inspirasinya;\nTulis 1 review personal penuh (UTS-5) memakai rubrik (pilih salah satu karya Anda sendiri sebagai objek);\nRevisi UTS-1 dengan pembuka anekdot + refleksi nilai diri.\n\nJika Anda mau, saya bisa bantu merapikan UTS-4 (tabel SHAPE + narasi) dan membuat kerangka cepat untuk review di UTS-5 dari salah satu karya Anda.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>UTS-5 My Personal Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Concepts/index.html",
+    "href": "My_Concepts/index.html",
+    "title": "7  UAS-1 My Concepts",
+    "section": "",
+    "text": "Mau hidup epik ? Write your Life Story\nApa itu berkonsep?",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>UAS-1 My Concepts</span>"
+    ]
+  },
+  {
+    "objectID": "My_Opinions/index.html",
+    "href": "My_Opinions/index.html",
+    "title": "8  UAS-3 My Opinions",
+    "section": "",
+    "text": "SApa itu beropini? Opini Berpengaruh\nBagiamana menjaadi menarik? Menjadi Menarik",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>UAS-3 My Opinions</span>"
+    ]
+  },
+  {
+    "objectID": "My_Knowledge/index.html",
+    "href": "My_Knowledge/index.html",
+    "title": "10  UAS-4 My Knowledge",
+    "section": "",
+    "text": "Cara saya mengkomunikasikan sebuah pengatahuan sebagai petunjuk bagi orang lain 1) saya tulis makalah sebagai bahan utama 2) lalu saya buat transkrip ucapan lisan 3) kemudian saya kembangkan slide pendukung trnsskrip 4) lalu saya memproduksivideo audio visual",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-4 My Knowledge</span>"
+    ]
+  },
+  {
+    "objectID": "My_Professional_Reviews/index.html",
+    "href": "My_Professional_Reviews/index.html",
+    "title": "11  UAS-5 My Professional Reviews",
+    "section": "",
+    "text": "Untuk melAkukan review, seperti pada pendekatan AI, kita membutuhkan rubrik",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>UAS-5 My Professional Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "12  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  }
+]
