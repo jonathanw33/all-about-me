@@ -1,160 +1,91 @@
-# UTS-2 My Songs for You
+---
+title: "A Song for Someone Who Doesn't Exist"
+subtitle: "Sebuah lagu untuk seseorang yang mungkin tidak pernah ada"
+author: "Jonathan Wiguna"
+date: "2025-10-18"
+format:
+  html:
+    toc: false
+---
 
-Post Wedding Kawah Putih
-Lirik by Armein Z. R. Langi
-Music: SUNO
+## Pengantar
 
-{{< video https://youtu.be/KWthEImJ9mY?si=iUV8Ghhj0R3gKQyZ>}}, with lyrics
+Ini adalah lagu untuk seseorang yang belum (atau mungkin tidak akan pernah) saya temui. Sebuah cerita tentang harapan yang mungkin absurd, namun tetap terasa nyata di kepala. 
 
-Engkau
-[Intro]
-[verse1]
-Mereka bilang perlu Ribuan kata 
-untuk menyatakan cinta. 
-Tapi satu-satunya kata yang kutemukan
- adalah: engkau…
+*Terinspirasi dari gaya musik TV Girl dan Radiohead—melankolis, nostalgia, dan sedikit ironis.*
 
-[Verse 2]
-Hidup bergerak begitu deras 
-Siang malam datang dan pergi. 
-Mereka bilang semua itu 
-akan melunturkan cinta kita…
+---
 
+## **"Ghost in My Playlist"**
 
-[Chorus 1]
-Tetapi engkau masih di sini, 
-dengan tatapan cinta. 
-Engkau selalu di sini 
-dengan hati penuh kasih. 
+### Verse 1
+```
+I saw you in a coffee shop that doesn't exist  
+Sitting by the window with your morning mist  
+You looked at me like you knew my name  
+But I woke up and you were just a frame  
+```
 
-[Chorus 2]
-Tahun demi tahun berlalu
-Cintamu menjadikan semua ini 
-begitu indah, Begitu bermakna. 
-Begitu menggairahkan.
+### Chorus
+```
+You're a ghost in my playlist  
+A song I can't forget  
+Playing on repeat in my head  
+But you're someone I haven't met yet  
 
-[Verse4]
-Peristiwa menimpa seperti badai tercurah dari langit. 
-Menerjang seperti seretan sungai. 
-Melemparku ke dalam dan ke luar, ke atas dan ke bawah, 
-menghanyutkanku gelagapan ke samudera raya…
+You're the one I write about at 3 AM  
+When the world is quiet and I'm talking to myself again  
+I know it's pathetic, I know it's sad  
+But you're the best conversation I never had  
+```
 
-[Chorus 1]
-Tetapi engkau masih di sini, 
-dengan tatapan cinta. 
-Engkau selalu di sini 
-dengan hati penuh kasih. 
+### Verse 2
+```
+I built you from the movies and the books I read  
+A little bit of fiction, a lot of what I need  
+You laugh at all my jokes, you understand my silence  
+But you live inside my mind—such a perfect alliance  
+```
 
-[Chorus 2]
-Tahun demi tahun berlalu
-Cintamu menjadikan semua ini 
-begitu indah, Begitu bermakna. 
-Begitu menggairahkan.
+### Chorus
+```
+You're a ghost in my playlist  
+A song I can't forget  
+Playing on repeat in my head  
+But you're someone I haven't met yet  
 
-[Coda 1]
-Sadarkah engkau 
-bahwa engkau telah menemukan 
-hukum baru tentang cinta? 
+You're the one I write about at 3 AM  
+When the world is quiet and I'm talking to myself again  
+I know it's pathetic, I know it's sad  
+But you're the best conversation I never had  
+```
 
-[Coda 2]
-Bahwa satu tambah satu sama dengan satu
-Satu kali satu adalah tak hingga? 
-Dua kurang satu sama dengan kosong. 
-Segala sesuatu tanpa engkau adalah tiada…?
+### Bridge
+```
+Maybe one day I'll find someone real  
+Who makes me forget how this feels  
+But until then, I'll keep you here  
+In my headphones, crystal clear  
+```
 
-[Chorus 1]
-Tetapi engkau masih di sini, 
-dengan tatapan cinta. 
-Engkau selalu di sini 
-dengan hati penuh kasih. 
+### Outro
+```
+So here's to you, whoever you are  
+A distant light, a fading star  
+I'll keep singing this song in vain  
+Until you show up, or I go insane  
+```
 
-[Chorus 2]
-Tahun demi tahun berlalu
-Cintamu menjadikan semua ini 
-begitu indah, Begitu bermakna. 
-Begitu menggairahkan.
-[Outro]
+---
 
+## Refleksi
 
-Why am I singing for you? [River on my Mind](./Rivers%20In%20My%20Mind.mp3)
-, with lyrics
+Ya, saya tahu ini agak menyedihkan. Menulis lagu untuk seseorang yang tidak ada terdengar seperti plot film indie yang gagal. Tapi kadang imajinasi lebih aman daripada kenyataan, kan? Setidaknya dalam imajinasi, tidak ada yang menolak atau mengecewakan.
 
-River on my mind
-[Verse]
-I do not know what has happened with your life
-I do not know how much you have suffered
-What I know is how to be me
-And I am still learning
+Mungkin suatu hari nanti, seseorang yang nyata akan muncul dan membuat lagu ini terasa konyol. Atau mungkin tidak. Either way, ini adalah bagian dari siapa saya sekarang—seseorang yang masih mencari, masih berharap, dan masih cukup naif untuk percaya bahwa ada seseorang di luar sana.
 
-[Chorus]
-I hope you find my song beautifully caring for you
-I hope you find my song beautifully caring for you
+*Dan ya, saya sadar betapa self-deprecating ini kedengarannya. Tapi setidaknya saya jujur, bukan?*
 
-[Verse]
-You deserve a caring heart
-And all of the most beautiful parts of this world
-You deserve a gentle touch
-And a soft place to land when you fall
+---
 
-[Chorus]
-I hope you find my song beautifully caring for you
-I hope you find my song beautifully caring for you
-
-[Bridge]
-I hope you find my song beautifully caring for you
-I hope you find my song beautifully caring for you
-I hope you find my song beautifully caring for you
-I hope you find my song beautifully caring for you
-
-
-Falling in love everyday [Heaven on Earth](./Heaven%20on%20Earth.mp3), with lyrics
-
-Heaven on Earth
-[Verse]
-The breeze whispers soft to the sea
-A rhythm flows like it’s meant to be
-Every step feels lighter
-Free
-
-
-[Verse 2]
-The sunlight dances on your skin
-Every moment a new song begins
-Even the stars seem to lean in
-fresh
-
-[Chorus]
-Fall in love
-Fall in love
-Every day
-Let your heart find a brand-new way
-Heaven's here
-It’s not far above
-Life is beautiful when you love
-
-[Verse 2]
-The sunlight dances on your skin
-Every moment a new song begins
-Even the stars seem to lean in
-
-[Prechorus]
-Close your eyes
-Let it start
-Feel the world inside your heart
-
-[Chorus]
-Fall in love
-Fall in love
-Every day
-Let your heart find a brand-new way
-Heaven's here
-It’s not far above
-Life is beautiful when you love
-
-[Bridge]
-Catch the rain as it falls on your face
-Hear the laughter
-It fills every space
-Time is fleeting
-Don’t let it erase
-This heaven we chase
+**Catatan:** Lirik ini dibuat dalam Bahasa Inggris karena lebih cocok dengan genre musik yang terinspirasi. Jika ingin, bisa diterjemahkan atau diadaptasi ke Bahasa Indonesia dengan nuansa yang berbeda.

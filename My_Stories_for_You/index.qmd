@@ -1,12 +1,111 @@
-# UTS-3 My Stories for You
+---
+title: "Cerita-Cerita yang Membentuk Saya"
+subtitle: "Dua momen yang mengajarkan saya tentang kehidupan"
+author: "Jonathan Wiguna"
+date: "2025-10-18"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
 
-A story about my oldest daughter [Gaun Pemngantin Gladys](<https://azrl.wordpress.com/2020/07/18/gaun-pengantin-gladys/#comment-28004>)
+## Pengantar
 
-A message to my daughter [The Child Who Learned to Walk at the Disneyland](<https://azrl.wordpress.com/2021/10/06/the-child-who-learned-to-walk-at-the-disneyland/>)
+Berikut adalah dua cerita dari perjalanan saya yang mungkin terdengar biasa, tapi sangat berarti bagi saya. Cerita tentang kegagalan, penerimaan, dan momen-momen ketika saya akhirnya memahami sesuatu yang sebelumnya tidak pernah saya sadari.
 
-A story for my students [Fly Eagle Fly](<https://azrl.wordpress.com/2008/04/21/fly-my-eagle-fly/>)
+---
 
-A (true) story for my teachers [Sang Mahaguru, Sang Mahaputera](<https://azrl.wordpress.com/2012/11/28/perginya-sang-mahaputera-dan-mahaguru-berkemeja-putih/)
+# Cerita 1: Ketika Semua Orang Lolos, Kecuali Saya
 
-Teasing story
-{{< video https://www.youtube.com/watch?v=Dg_4PbBlBf4 >}}
+## Hari Pengumuman SNMPTN
+
+Masih saya ingat dengan jelas hari pengumuman SNMPTN tahun 2022. Saya duduk di depan laptop, refresh halaman berkali-kali, berharap nama saya muncul. Tapi tidak ada.
+
+Sementara itu, di grup chat sekolah, notifikasi terus berdatangan:
+
+> "GUYS AKU LOLOS ITB!"  
+> "Alhamdulillah keterima UI!"  
+> "SNMPTN berhasil! Thanks buat doa kalian!"
+
+Saya hanya bisa diam. Mematikan notifikasi. Menatap layar kosong dengan perasaan yang sulit dijelaskan.
+
+## Perasaan Tertinggal
+
+Bukan cuma soal tidak lolos. Yang paling menyakitkan adalah perasaan **tertinggal**. Semua teman saya sudah punya kepastian, sementara saya harus memulai lagi dari nol. Mereka sudah merayakan, sementara saya harus kembali belajar untuk SBMPTN.
+
+Saya tidak menyalahkan siapa pun. Tapi tetap saja, ada rasa sedih yang dalam. Kenapa mereka bisa, tapi saya tidak?
+
+## Keputusan: Mencoba Lagi
+
+Tapi saya tidak berhenti. Saya punya waktu sekitar **2 bulan** untuk mempersiapkan SBMPTN. Jujur, waktu itu sangat singkat dan saya tidak terlalu yakin. Tapi saya berpikir: *"Apa salahnya mencoba? Paling tidak, saya sudah berusaha."*
+
+Saya belajar dengan fokus. Tidak berlebihan, tapi konsisten. Dan yang paling penting, saya tidak lagi membandingkan diri saya dengan orang lain. Saya hanya fokus pada apa yang bisa saya lakukan.
+
+## Pengumuman SBMPTN: Lolos ITB
+
+Ketika pengumuman SBMPTN keluar, saya hampir tidak percaya. **Lolos ITB, Sistem dan Teknologi Informasi.**
+
+Rasanya seperti semua yang saya alami—kekecewaan, kesedihan, kerja keras—akhirnya membuahkan hasil. Tapi yang lebih penting dari itu, saya belajar sesuatu yang sangat berharga:
+
+> **Tidak ada salahnya mencoba, bahkan ketika peluangnya kecil.**
+
+Kalau saya menyerah setelah SNMPTN, saya tidak akan ada di ITB sekarang. Kalau saya terlalu takut gagal lagi, saya tidak akan pernah tahu bahwa saya sebenarnya bisa.
+
+## Pelajaran
+
+Kegagalan itu menyakitkan. Melihat orang lain berhasil sementara kita tidak, itu berat. Tapi itulah hidup. Kadang kita harus jatuh dulu sebelum bisa berdiri lebih kuat.
+
+Dan yang terpenting: **Jangan pernah berhenti mencoba hanya karena takut gagal.**
+
+---
+
+# Cerita 2: Hari Saya Menyadari ITB Itu Indah
+
+## Setelah Kuis Fisika yang Menghancurkan
+
+Semester 2, saya baru saja selesai mengerjakan kuis Fisika Dasar yang sangat sulit. Saya keluar dari kelas dengan perasaan hancur. Saya tahu saya tidak mengerjakan dengan baik. Pikiran saya dipenuhi dengan kekhawatiran: *"Apakah saya cukup pintar untuk bertahan di sini?"*
+
+Saya berjalan keluar gedung, masih terbayang-bayang soal yang tidak bisa saya jawab.
+
+## Momen di Jalan Pulang
+
+Tapi kemudian, saya berhenti sejenak. Saya melihat sekeliling.
+
+Langit sore itu biru dengan awan yang bergerak perlahan. Pohon-pohon di sekitar kampus bergoyang tertiup angin. Mahasiswa lain berjalan santai, tertawa, duduk di taman, atau sekadar ngobrol.
+
+Dan tiba-tiba saya menyadari sesuatu:
+
+> **ITB itu indah.**
+
+Bukan hanya gedungnya, bukan hanya prestisenya. Tapi **momen-momen kecil** seperti ini. Langit sore. Angin sepoi-sepoi. Kehidupan yang terus berjalan meskipun saya baru saja gagal dalam satu kuis.
+
+## Quote dari The Alchemist
+
+Saat itu saya teringat sebuah cerita dari buku **The Alchemist** karangan Paulo Coelho. Ada cerita tentang seorang anak muda yang diberi sendok berisi minyak dan diminta berjalan keliling istana tanpa menumpahkan minyaknya.
+
+Pertama kali, dia terlalu fokus pada sendok sehingga tidak melihat keindahan istana. Kedua kalinya, dia terlalu fokus pada istana sehingga minyaknya tumpah.
+
+Pelajarannya:
+
+> "The secret of happiness is to see all the marvels of the world, and never to forget the drops of oil on the spoon."
+
+Artinya, kebahagiaan ada pada **keseimbangan**: menikmati keindahan dunia, tapi tidak melupakan tanggung jawab kita.
+
+## Pelajaran yang Saya Dapat
+
+Selama dua semester, saya terlalu fokus pada "sendok"—nilai, tugas, ujian. Saya lupa untuk melihat "istana"—keindahan kampus, teman-teman, pengalaman belajar itu sendiri.
+
+Hari itu, setelah kuis Fisika yang buruk, saya akhirnya menyadarinya. ITB bukan hanya tentang akademik. ITB adalah tentang **proses**. Tentang belajar, jatuh, bangkit, dan menikmati perjalanan.
+
+## Refleksi
+
+Sekarang, setiap kali saya merasa overwhelmed dengan tugas atau nilai, saya mencoba untuk berhenti sejenak. Melihat sekeliling. Mengingat bahwa hidup bukan hanya tentang "drops of oil" yang harus dijaga, tapi juga tentang "marvels of the world" yang harus dinikmati.
+
+---
+
+## Penutup
+
+Dua cerita ini mungkin terdengar sederhana. Tapi bagi saya, ini adalah momen-momen yang membentuk siapa saya sekarang. Saya belajar untuk tidak menyerah. Saya belajar untuk melihat keindahan di tengah kesulitan. Dan saya belajar bahwa kehidupan adalah tentang keseimbangan.
+
+*Dan ya, saya masih sering gagal menjaga keseimbangan itu. Tapi setidaknya sekarang saya tahu bahwa itu penting.*
+
