@@ -10,9 +10,9 @@ format:
 
 ## Halo, Saya Jonathan
 
-![Foto Profil](placeholder-photo.jpg){width=300px}
+<!-- ![Foto Profil](placeholder-photo.jpg){width=300px} -->
 
-*Catatan: Ganti `placeholder-photo.jpg` dengan foto kamu sendiri*
+*Catatan: Tambahkan foto kamu di sini nanti (uncomment baris di atas dan ganti dengan nama file foto)*
 
 ---
 
