@@ -1,22 +1,27 @@
-# Selamat Berjumpa {.unnumbered}
+# Selamat Datang di Portfolio Saya
 
-![About Me](images/AZRL.png){width=950%}
+Halo! Saya **Jonathan Wiguna**, mahasiswa Sistem dan Teknologi Informasi ITB.
 
-Armein Z R Langi adalah Guru Besar di Sekolah Teknik Elektro dan Informatika ITB, dosen ITB sejak Desember 1987, mantan Rektor Universitas Kristen Maranatha, 1 Maret 2016 s/d 29 Februari 2020, mantan Kepala Pusat Penelitian Teknologi Informasi dan Komunikasi (PP-TIK) ITB November 2005 s/d Maret 2010, dan Sekretaris MWA ITB Mei 2010-Jan 2011.
+Ini adalah portfolio untuk mata kuliah **II-2100 Komunikasi Interpersonal dan Publik**.
 
-Lahir di Tomohon 1962 dari pasangan Manado dan Sunda. Saat ini tinggal di Bandung, menikah dengan Ina dan dikaruniai empat anak. Ayah dari Gladys, Kezia, Andria, dan Marco.
+## 📚 Navigasi Portfolio
 
-Sharing pikiran singkat ada di blog <https://azrl.wordpress.com>. Facebookk: armein_langi
+Gunakan **sidebar di sebelah kiri** untuk menjelajahi tugas-tugas saya:
 
-Andria, putri saya, lumayan sering membaca blog ini.  Dia juga sumber inspirasi tulisan saya.  Dia senang menceritakan jokes pada saya, dan kalau bagus saya tulis di sini, terutama seri Kocak Ala Andria.  Dan dia suka heran, karena isinya sudah berbeda.  Memang saya senang mengubah-ngubah cerita karena saya tidak suka menjiplak mentah-mentah.  Minggu lalu tidak sengaja dia memuji tulisan blog ini.
+### Ujian Tengah Semester (UTS)
+- **All About Me** - Perkenalan diri saya
+- **My Song for You** - Lagu untuk seseorang yang tidak ada
+- **My Stories for You** - Cerita inspiratif dari perjalanan hidup
+- **My Shapes** - Laporan kepribadian dan pengalaman *(Coming Soon)*
+- **My Personal Reviews** - Telaahan pesan personal *(Coming Soon)*
 
+### Ujian Akhir Semester (UAS)
+- **My Concepts** - *(Coming Soon)*
+- **My Opinions** - *(Coming Soon)*
+- **My Innovations** - *(Coming Soon)*
+- **My Knowledge** - *(Coming Soon)*
+- **My Professional Reviews** - *(Coming Soon)*
 
-“Papa… papa… “, tanyanya, “Tulisan blog papa itu copy-paste dari tulisan orang ya…?”
+---
 
-Haa? Ya nggak mungkin lah.  Kecuali lirik lagu, semua artikel di sini ditulis sendiri.
-
-“Ah bohong, soalnya tulisannya terlalu banyak….” katanya tetap tidak percaya, “Nggak mungkinlah papa tulis sendiri…”
-
-Hehe, saya tersenyum sambil membelai Andria, karena buat saya itu adalah ultimate compliment.  Thanks sweetheart…
-
-Jadi kalau orang tidak percaya bahwa sesuatu itu karya anda, anda yang buat, jangan marah.  Itu adalah pujian yang sejati.
+Terima kasih telah mengunjungi portfolio saya!
