@@ -10,9 +10,17 @@ format:
 
 ## Pengantar
 
-Ini adalah lagu untuk seseorang yang belum (atau mungkin tidak akan pernah) saya temui. Sebuah cerita tentang harapan yang mungkin absurd, namun tetap terasa nyata di kepala. 
+Ini adalah lagu tentang **limerence**—obsesi romantis yang sebenarnya adalah otak mencari dopamine hit. Bukan tentang cinta, tapi tentang addiction. Tentang knowing better tapi not doing better. Tentang memilih untuk spiral daripada menghadapi kehidupan yang kosong.
 
-*Terinspirasi dari gaya musik TV Girl dan Radiohead—melankolis, nostalgia, dan sedikit ironis.*
+*Terinspirasi dari gaya musik TV Girl dan Radiohead—melankolis, self-aware, dan brutally honest.*
+
+---
+
+::: {style="text-align: center; margin: 2rem 0;"}
+### 🎵 Listen to "Spiral"
+
+<iframe width="100%" height="315" style="max-width: 560px; border-radius: 8px;" src="https://www.youtube.com/embed/UmZESlVWAVI" title="Spiral - Jonathan Wiguna" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+:::
 
 ---
 
