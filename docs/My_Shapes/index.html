@@ -325,7 +325,17 @@ ul.task-list li input[type="checkbox"] {
 <p>Ini bagian paling sulit untuk dijawab, karena jujur saja, <strong>saya tidak yakin saya punya passion yang jelas</strong>.</p>
 <p>Ketika saya memilih Sistem dan Teknologi Informasi, alasannya pragmatis: kerja remote, fleksibilitas, gaji lumayan. Bukan karena saya “passionate” tentang IT. Dan sampai sekarang, saya masih bertanya-tanya apakah saya di jalur yang benar.</p>
 <p>Tapi kemudian saya menyadari sesuatu: <strong>Passion itu tidak selalu berbentuk “I love this so much I could do it forever.”</strong> Kadang passion itu berbentuk <strong>“This makes sense to me when nothing else does.”</strong></p>
-<p>Dan itulah yang saya rasakan dengan system analysis. Saya tidak bangun pagi dengan excited ingin bikin diagram. Tapi ketika saya duduk dan mulai memetakan sebuah sistem, <strong>ada rasa tenang yang tidak saya dapatkan dari hal lain</strong>.</p>
+<p><strong>Contoh konkret:</strong> Minggu lalu, saya menghabiskan 2 jam membuat sequence diagram untuk sistem pendaftaran mahasiswa. Apakah itu exciting? Tidak. Apakah saya enjoy? Ya, dalam cara yang aneh.</p>
+<p>Ketika saya berhasil memetakan flow dari “mahasiswa klik tombol daftar” sampai “data tersimpan di database” dengan semua edge cases-nya, ada rasa <strong>tenang</strong> yang tidak saya dapatkan dari hal lain. Seperti puzzle yang akhirnya terpecahkan.</p>
+<div style="margin: 1.5rem 0;">
+<div class="quarto-figure quarto-figure-center" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+<figure class="figure">
+<p><img src="../images/uml.jpg" class="img-fluid figure-img" style="width:100.0%"></p>
+<figcaption>Contoh diagram UML yang saya buat - ini adalah cara saya memahami sistem</figcaption>
+</figure>
+</div>
+<p><em>Diagram seperti ini yang membuat saya merasa tenang—chaos yang berubah menjadi struktur.</em></p>
+</div>
 <p>Mungkin itu bukan passion dalam pengertian tradisional. Tapi itu cukup untuk sekarang.</p>
 <p><strong>Insight:</strong> Passion tidak harus dramatis. Kadang passion adalah sesuatu yang membuat kamu merasa <strong>less lost</strong>, bukan more excited.</p>
 <hr>
@@ -335,19 +345,23 @@ ul.task-list li input[type="checkbox"] {
 <p>Berdasarkan refleksi dan feedback dari orang lain, inilah yang saya <strong>cukup kompeten</strong> lakukan:</p>
 <section id="logical-reasoning-structured-thinking" class="level3" data-number="5.3.1">
 <h3 data-number="5.3.1" class="anchored" data-anchor-id="logical-reasoning-structured-thinking"><span class="header-section-number">5.3.1</span> 1. <strong>Logical Reasoning &amp; Structured Thinking</strong></h3>
-<p>Saya bisa memecah masalah kompleks menjadi bagian-bagian yang bisa diproses. Ketika orang lain overwhelmed, saya bisa lihat pola.</p>
+<p>Saya bisa memecah masalah kompleks menjadi bagian-bagian yang bisa diproses.</p>
+<p><strong>Contoh:</strong> Ketika tim project saya overwhelmed dengan requirement yang ambiguous dari client, saya yang bikin breakdown: “Okay, kita punya 3 masalah utama. Masalah #1 bisa kita solve dengan X. Masalah #2 tergantung jawaban client tentang Y. Masalah #3 kita defer dulu sampai #1 dan #2 clear.” Suddenly, chaos jadi manageable.</p>
 </section>
 <section id="technical-documentation" class="level3" data-number="5.3.2">
 <h3 data-number="5.3.2" class="anchored" data-anchor-id="technical-documentation"><span class="header-section-number">5.3.2</span> 2. <strong>Technical Documentation</strong></h3>
-<p>Saya bisa menjelaskan konsep teknis dengan cara yang (relatif) mudah dipahami. UML, flowchart, requirements document—ini adalah bahasa kedua saya.</p>
+<p>Saya bisa menjelaskan konsep teknis dengan cara yang (relatif) mudah dipahami.</p>
+<p><strong>Contoh:</strong> Waktu presentasi system design, dosen tanya “Kenapa pakai microservices architecture?” Kebanyakan kelompok jawab dengan jargon. Saya jawab: “Bayangin kalau rumah kita cuma punya satu kamar mandi. Kalau rusak, semua orang ga bisa mandi. Microservices itu kayak setiap kamar punya kamar mandi sendiri—kalau satu rusak, yang lain tetap jalan.” He nodded. Jargon vs analogy.</p>
 </section>
 <section id="learning-new-systems-quickly" class="level3" data-number="5.3.3">
 <h3 data-number="5.3.3" class="anchored" data-anchor-id="learning-new-systems-quickly"><span class="header-section-number">5.3.3</span> 3. <strong>Learning New Systems Quickly</strong></h3>
-<p>Saya tidak expert di satu hal tertentu, tapi saya cepat adaptasi ke tool atau framework baru. Jack of all trades, master of none—tapi kadang itu yang dibutuhkan.</p>
+<p>Saya tidak expert di satu hal tertentu, tapi saya cepat adaptasi ke tool atau framework baru.</p>
+<p><strong>Contoh:</strong> Semester ini tiba-tiba harus pakai Docker untuk deployment. Saya belum pernah touch Docker sebelumnya. 2 hari baca dokumentasi + trial error, saya berhasil containerize aplikasi dan deploy ke cloud. Not perfect, tapi functional.</p>
 </section>
 <section id="critical-analysis" class="level3" data-number="5.3.4">
 <h3 data-number="5.3.4" class="anchored" data-anchor-id="critical-analysis"><span class="header-section-number">5.3.4</span> 4. <strong>Critical Analysis</strong></h3>
-<p>Saya bisa lihat gap, inconsistency, dan potential problem dalam sebuah sistem. Bukan karena saya pesimis, tapi karena otak saya wired untuk itu.</p>
+<p>Saya bisa lihat gap, inconsistency, dan potential problem dalam sebuah sistem.</p>
+<p><strong>Contoh:</strong> Di requirement document yang dikasih client, ada statement: “User bisa edit data kapan saja.” Saya langsung notice: “Wait, kalau user A dan user B edit data yang sama simultaneously, gimana? Ada locking mechanism? Atau last-write-wins?” Ternyata mereka belum kepikiran. That’s my thing—spotting the edge cases.</p>
 <p><strong>Yang TIDAK saya kuasai:</strong> - Public speaking (still learning) - Networking &amp; socializing (introvert problems) - Quick decision-making under pressure (I need time to think)</p>
 <p><strong>Insight:</strong> Abilities bukan tentang menjadi yang terbaik, tapi tentang <strong>tahu apa yang bisa kamu kontribusikan</strong> ketika orang lain butuh.</p>
 <hr>
