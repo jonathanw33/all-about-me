@@ -8,6 +8,14 @@ format:
     toc-depth: 2
 ---
 
+::: {style="text-align: center; margin: 2rem 0;"}
+![Foto Profil Jonathan Wiguna](profile-photo.jpg){width=250px style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"}
+
+*Ganti `profile-photo.jpg` dengan foto kamu. Upload file ke folder `All_About_me/`*
+:::
+
+---
+
 ## Semester 7, Pukul 3 Pagi, dan Satu Pertanyaan
 
 Ini adalah minggu ketiga semester 7. Saya baru saja selesai debugging kode yang tidak jalan selama 2 jam—ternyata hanya karena typo. Sambil menatap layar laptop, saya bertanya pada diri sendiri: *"Kenapa saya ada di sini?"*
