@@ -1,129 +1,86 @@
 # Selamat Datang {.unnumbered}
 
-::: {.landing-hero}
-# 👋 Hi, Saya Jonathan Wiguna
+## Portfolio Komunikasi Interpersonal dan Publik
 
-**Mahasiswa Sistem dan Teknologi Informasi ITB**
+**Jonathan Wiguna - Sistem dan Teknologi Informasi ITB**
 
-Portfolio Komunikasi Interpersonal dan Publik (II-2100)
-:::
+Mata Kuliah II-2100
 
 ---
 
-## 📚 Tentang Portfolio Ini
+## Tentang Portfolio Ini
 
-Portfolio ini adalah dokumentasi perjalanan saya dalam memahami komunikasi—baik secara interpersonal maupun publik. Setiap bagian merepresentasikan pembelajaran, refleksi, dan upaya saya untuk menjadi komunikator yang lebih baik.
-
-Gunakan **sidebar di sebelah kiri** untuk navigasi, atau mulai dari bagian yang paling menarik perhatian Anda.
+Portfolio ini berisi dokumentasi tugas dan refleksi untuk mata kuliah Komunikasi Interpersonal dan Publik. Gunakan sidebar di sebelah kiri untuk navigasi.
 
 ---
 
-## 🎯 Struktur Portfolio
-
-### **Ujian Tengah Semester (UTS)**
+## Ujian Tengah Semester (UTS)
 
 ::: {.portfolio-card}
-#### ✅ UTS-1: All About Me
-Perkenalan diri saya—siapa saya, apa yang saya lakukan, dan bagaimana saya melihat dunia sebagai seorang introverted analyst.
+### UTS-1: All About Me
+Perkenalan diri dan latar belakang saya sebagai mahasiswa STI ITB.
 
 <span class="status-complete">SELESAI</span>
 :::
 
 ::: {.portfolio-card}
-#### ✅ UTS-2: My Songs for You - "Spiral"
-Sebuah lagu tentang limerence, dopamine addiction, dan ironi dari being self-aware tapi tetap melakukan hal yang sama.
+### UTS-2: My Songs for You - "Spiral"
+Sebuah lagu tentang limerence dan dopamine addiction.
 
 <span class="status-complete">SELESAI</span>
 :::
 
 ::: {.portfolio-card}
-#### ✅ UTS-3: My Stories for You
-Dua cerita yang membentuk saya: kegagalan SNMPTN yang mengajarkan resilience, dan momen menyadari keindahan ITB di tengah chaos.
+### UTS-3: My Stories for You
+Dua cerita inspiratif: kegagalan SNMPTN dan menyadari keindahan ITB.
 
 <span class="status-complete">SELESAI</span>
 :::
 
 ::: {.portfolio-card}
-#### ✅ UTS-4: My SHAPE
-Perjalanan memahami diri sendiri melalui framework SHAPE—spiritual gifts, heart, abilities, personality, dan experience.
+### UTS-4: My SHAPE
+Analisis diri melalui framework SHAPE (Spiritual gifts, Heart, Abilities, Personality, Experience).
 
 <span class="status-complete">SELESAI</span>
 :::
 
 ::: {.portfolio-card}
-#### 🚧 UTS-5: My Personal Reviews
-Telaahan kritis terhadap pesan personal berdasarkan rubrik CPMK.
+### UTS-5: My Personal Reviews
+Telaahan pesan personal berdasarkan rubrik CPMK.
 
 <span class="status-pending">COMING SOON</span>
 :::
 
 ---
 
-### **Ujian Akhir Semester (UAS)**
+## Ujian Akhir Semester (UAS)
 
 ::: {.portfolio-card}
-#### 🚧 UAS-1: My Concepts
-Penjelasan konsep penting yang menunjukkan kedalaman pemahaman.
-
+### UAS-1: My Concepts
 <span class="status-pending">COMING SOON</span>
 :::
 
 ::: {.portfolio-card}
-#### 🚧 UAS-2: My Opinions
-Pandangan dan pendapat tentang isu-isu komunikasi kontemporer.
-
+### UAS-2: My Opinions
 <span class="status-pending">COMING SOON</span>
 :::
 
 ::: {.portfolio-card}
-#### 🚧 UAS-3: My Innovations
-Desain produk atau layanan yang meningkatkan kapasitas komunikasi.
-
+### UAS-3: My Innovations
 <span class="status-pending">COMING SOON</span>
 :::
 
 ::: {.portfolio-card}
-#### 🚧 UAS-4: My Knowledge
-Pengetahuan dan pembelajaran untuk dibagikan kepada masyarakat.
-
+### UAS-4: My Knowledge
 <span class="status-pending">COMING SOON</span>
 :::
 
 ::: {.portfolio-card}
-#### 🚧 UAS-5: My Professional Reviews
-Telaahan pesan publik berdasarkan rubrik profesional.
-
+### UAS-5: My Professional Reviews
 <span class="status-pending">COMING SOON</span>
 :::
 
 ---
-
-## 💡 Filosofi di Balik Portfolio
 
 > *"The secret of happiness is to see all the marvels of the world, and never to forget the drops of oil on the spoon."*  
 > — Paulo Coelho, The Alchemist
-
-Portfolio ini bukan hanya tentang memenuhi requirement akademik. Ini tentang **menemukan keseimbangan** antara:
-
-- **Kompetensi** dan **kerendahan hati**
-- **Ambisi** dan **kesadaran diri**
-- **Progress** dan **reflection**
-
-Setiap bagian adalah bukti bahwa saya masih dalam proses—dan itu adalah sesuatu yang saya terima.
-
----
-
-## 🚀 Mulai Eksplorasi
-
-Pilih salah satu bagian di sidebar, atau klik langsung:
-
-- [UTS-1: All About Me →](All_About_me/index.qmd)
-- [UTS-2: Spiral →](My_Song_for_You/index.qmd)
-- [UTS-3: My Stories →](My_Stories_for_You/index.qmd)
-- [UTS-4: My SHAPE →](My_Shapes/index.qmd)
-
----
-
-<div style="text-align: center; margin-top: 3rem; color: #666;">
-<small>Portfolio ini dibuat dengan ❤️ menggunakan Quarto</small>
-</div>

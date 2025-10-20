@@ -1,111 +1,36 @@
-/* Additional custom styles */
+/* Simple additional styles */
 
-/* Animated gradient background for landing page */
-.landing-hero {
-  background: linear-gradient(-45deg, #667eea, #764ba2, #f093fb, #4facfe);
-  background-size: 400% 400%;
-  animation: gradientShift 15s ease infinite;
-  padding: 4rem 2rem;
-  border-radius: 12px;
-  color: white;
-  text-align: center;
-  margin: 2rem 0;
-}
-
-@keyframes gradientShift {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-
-/* Hover effects for cards */
+/* Card sections */
 .portfolio-card {
   background: white;
-  border-radius: 12px;
-  padding: 2rem;
-  margin: 1.5rem 0;
-  box-shadow: 0 4px 6px rgba(0,0,0,0.07);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-.portfolio-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 12px 24px rgba(0,0,0,0.15);
-}
-
-/* Section dividers */
-.section-divider {
-  height: 3px;
-  background: linear-gradient(90deg, #667eea, #764ba2);
-  margin: 3rem 0;
-  border-radius: 2px;
-}
-
-/* Emoji enhancements */
-.emoji {
-  font-size: 1.5em;
-  vertical-align: middle;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin: 1rem 0;
 }
 
 /* Status badges */
 .status-complete {
   background: #10b981;
   color: white;
-  padding: 0.3rem 0.8rem;
-  border-radius: 20px;
-  font-size: 0.85rem;
+  padding: 0.25rem 0.75rem;
+  border-radius: 12px;
+  font-size: 0.8rem;
   font-weight: 600;
 }
 
 .status-pending {
   background: #f59e0b;
   color: white;
-  padding: 0.3rem 0.8rem;
-  border-radius: 20px;
-  font-size: 0.85rem;
+  padding: 0.25rem 0.75rem;
+  border-radius: 12px;
+  font-size: 0.8rem;
   font-weight: 600;
 }
 
-/* Typography enhancements */
-.highlight-text {
-  background: linear-gradient(120deg, #f093fb 0%, #f5576c 100%);
-  background-clip: text;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  font-weight: 700;
-}
-
-/* Reading progress bar */
-.reading-progress {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 0%;
-  height: 4px;
-  background: linear-gradient(90deg, #667eea, #764ba2);
-  z-index: 9999;
-  transition: width 0.2s ease;
-}
-
-/* Smooth scroll behavior */
-html {
-  scroll-behavior: smooth;
-}
-
-/* Enhanced focus states */
-a:focus, button:focus {
-  outline: 2px solid #667eea;
-  outline-offset: 2px;
-}
-
-/* Print styles */
-@media print {
-  .sidebar, .nav-footer {
-    display: none;
-  }
-  
-  body {
-    font-size: 12pt;
-    line-height: 1.5;
-  }
+/* Section dividers */
+.section-divider {
+  height: 2px;
+  background: #e5e7eb;
+  margin: 2rem 0;
 }
