@@ -8,41 +8,87 @@ format:
     toc-depth: 2
 ---
 
-## Halo, Saya Jonathan
+## Semester 7, Pukul 3 Pagi, dan Satu Pertanyaan
 
-<!-- ![Foto Profil](placeholder-photo.jpg){width=300px} -->
+Ini adalah minggu ketiga semester 7. Saya baru saja selesai debugging kode yang tidak jalan selama 2 jam—ternyata hanya karena typo. Sambil menatap layar laptop, saya bertanya pada diri sendiri: *"Kenapa saya ada di sini?"*
 
-*Catatan: Tambahkan foto kamu di sini nanti (uncomment baris di atas dan ganti dengan nama file foto)*
+Bukan dalam konteks filosofis yang mendalam. Maksud saya, kenapa saya memilih Sistem dan Teknologi Informasi? Kenapa saya menghabiskan Jumat malam untuk memikirkan sequence diagram? Kenapa saya merasa lebih nyaman dengan UML daripada dengan orang?
+
+Dan kemudian saya menyadari: mungkin justru karena pertanyaan-pertanyaan ini, saya ada di sini.
 
 ---
 
 ## Siapa Saya?
 
-Saya adalah **Jonathan Wiguna**, mahasiswa semester 7 Sistem dan Teknologi Informasi di Institut Teknologi Bandung, lahir di Indonesia tahun 2004. Pada awalnya, saya memilih jurusan ini karena saya ingin kebebasan: bekerja dari mana saja, kapan saja, dan mengejar impian saya sendiri. 
+Nama saya **Jonathan Wiguna**. Saya mahasiswa semester 7 Sistem dan Teknologi Informasi di Institut Teknologi Bandung, lahir di Indonesia tahun 2004.
 
-Namun setelah berpikir lebih jauh, saya menyadari bahwa ada banyak jalan lain yang juga menawarkan hal yang sama. Akhirnya, selama perkuliahan, saya menemukan ketertarikan saya pada bidang **System Analyst**.
+Kalau ditanya "apa passion kamu?", saya tidak punya jawaban dramatis. Saya tidak bangun pagi dengan excited ingin coding. Saya tidak memimpikan menjadi next Steve Jobs. Tapi ada satu hal yang konsisten: **saya merasa tenang ketika berhasil memetakan sesuatu yang chaos menjadi struktur yang masuk akal.**
 
----
+Itulah kenapa saya tertarik dengan **System Analysis**. Bukan karena saya jenius memahami teknologi, tapi karena saya menikmati proses **memecah kompleksitas menjadi bagian-bagian yang bisa dipahami**.
 
-## Apa yang Saya Sukai?
-
-Saya menikmati bagaimana sistem bekerja dan bagaimana kebutuhan bisnis diterjemahkan menjadi solusi teknologi yang efektif. **UML (Unified Modeling Language)** adalah salah satu hal yang saya pelajari dengan antusias, karena saya suka memetakan logika, alur, dan struktur sebelum sesuatu dibangun.
-
-Di era AI seperti sekarang, saya juga mulai mengeksplorasi bagaimana teknologi AI dapat diintegrasikan dalam analisis sistem dan automasi proses bisnis. Masih banyak yang perlu saya pelajari, tapi kombinasi antara pemikiran analitis dan teknologi baru ini adalah sesuatu yang membuat saya penasaran untuk terus belajar.
+UML diagrams, flowcharts, system requirements—bagi saya, itu bukan tugas yang membosankan. Itu adalah cara saya **memahami bagaimana sesuatu bekerja**.
 
 ---
 
-## Kepribadian Saya
+## Bagaimana Saya Sampai di Sini?
 
-Saya adalah tipe orang yang **introverted**, lebih nyaman bekerja dengan data dan logika daripada berada di keramaian. Meski begitu, saya menyadari bahwa kemampuan berkomunikasi tetap penting, terutama untuk menjembatani pemahaman antara berbagai pihak dalam sebuah proyek.
+Awalnya, saya memilih jurusan ini karena alasan yang pragmatis: kerja remote, fleksibilitas, prospek karir yang lumayan. Bukan karena cinta pada teknologi, tapi karena saya ingin **kebebasan**.
 
-Jujur saja, sebagai mahasiswa semester 7, saya masih sering bertanya-tanya apakah saya sudah berada di jalur yang benar. Kadang saya merasa belum cukup ahli, belum cukup percaya diri. Tapi mungkin itulah bagian dari proses belajar, bukan? *(Self-deprecating humor: karena kalau tidak diakui, orang lain juga tahu kok)*
+Tapi setelah 3.5 tahun, saya menyadari bahwa kebebasan tanpa arah itu sama frustrasinya dengan terjebak di jalur yang salah. Dan di situlah saya sekarang—**masih mencari arah, tapi setidaknya sudah tahu apa yang saya nikmati**.
+
+Di era AI seperti sekarang, saya juga mulai mengeksplorasi bagaimana teknologi AI bisa diintegrasikan dalam analisis sistem dan automasi proses bisnis. Masih banyak yang perlu dipelajari, tapi setidaknya ada sesuatu yang membuat saya penasaran.
 
 ---
 
-## Penutup
+## Kepribadian: Introvert yang Overthinking
 
-Di balik figur saya sebagai mahasiswa IT yang masih mencari jati diri, ada seseorang yang terus berusaha memahami dunia sistem, teknologi, dan bagaimana semuanya bisa bekerja lebih baik. Saya mungkin bukan yang paling menonjol di kelas, tapi saya percaya bahwa setiap orang punya caranya sendiri untuk berkontribusi.
+Saya adalah tipe orang yang **introverted** dan **detail-oriented** sampai ke level yang kadang tidak produktif. Contoh: saya bisa menghabiskan 30 menit memilih font untuk presentasi. Apakah itu penting? Tidak. Apakah saya akan tetap melakukannya? Ya.
+
+Social interaction bagi saya seperti sprint—saya bisa melakukannya, tapi saya tidak bisa lari marathon. Saya butuh waktu sendiri untuk recharge. Dan itu bukan karena saya benci orang, tapi karena otak saya butuh quiet time untuk process.
+
+Saya juga **overthinker yang self-aware**. Artinya, saya tahu saya overthink, saya tahu itu tidak produktif, tapi saya tetap melakukannya. Setidaknya kesadaran ini membantu saya manage—kadang.
+
+Dan ya, saya tahu ini semua terdengar seperti excuse untuk being socially awkward. Tapi daripada pura-pura extroverted, lebih baik jujur tentang siapa saya.
+
+---
+
+## Apa yang Saya Bisa Tawarkan?
+
+Saya tidak bilang saya jenius. Saya tidak bilang saya expert. Tapi ada beberapa hal yang saya **cukup kompeten** lakukan:
+
+### **1. Logical Reasoning**
+Saya bisa memecah masalah kompleks menjadi bagian-bagian yang bisa diproses. Ketika orang lain overwhelmed dengan banyak informasi, saya bisa melihat pola.
+
+### **2. Technical Documentation**
+Saya bisa menjelaskan konsep teknis dengan cara yang (relatif) mudah dipahami. UML, flowchart, requirements document—ini adalah bahasa kedua saya.
+
+### **3. Learning New Systems Quickly**
+Saya bukan expert di satu hal, tapi saya cepat adaptasi ke tool atau framework baru. Jack of all trades, master of none—tapi kadang itu yang dibutuhkan.
+
+### **4. Spotting Gaps**
+Saya bisa lihat inconsistency, potential problem, dan missing pieces dalam sebuah sistem. Bukan karena saya pesimis, tapi karena otak saya wired untuk notice itu.
+
+---
+
+## Apa yang Masih Saya Cari?
+
+Jujur? **Saya masih tidak 100% yakin dengan arah karir saya.**
+
+Apakah saya ingin jadi System Analyst? Mungkin. Apakah saya ingin kerja di corporate? Mungkin tidak. Apakah saya tahu apa alternatifnya? Juga tidak.
+
+Tapi saya belajar bahwa **tidak apa-apa untuk tidak tahu**. Yang penting adalah jangan berhenti bergerak hanya karena tidak yakin ke mana.
+
+Semester 7 ini terasa seperti liminal space—bukan lagi junior, belum benar-benar senior, dan deadline skripsi sudah mulai terlihat di horizon. Tapi alih-alih panik, saya mencoba menerima bahwa **uncertainty itu bagian dari proses**.
+
+---
+
+## Penutup: Work in Progress
+
+Kalau ada satu hal yang ingin saya sampaikan dari "All About Me" ini, itu adalah: **saya masih dalam proses memahami siapa saya**.
+
+Saya bukan orang yang punya semua jawaban. Saya bukan orang yang punya passion yang jelas sejak awal. Saya hanya seseorang yang mencoba memahami dunia—satu diagram, satu sistem, satu pertanyaan pada satu waktu.
+
+Dan mungkin, itu sudah cukup untuk sekarang.
 
 ---
 

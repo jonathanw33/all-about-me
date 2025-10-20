@@ -51,7 +51,9 @@ Ketika saya memilih Sistem dan Teknologi Informasi, alasannya pragmatis: kerja r
 
 Tapi kemudian saya menyadari sesuatu: **Passion itu tidak selalu berbentuk "I love this so much I could do it forever."** Kadang passion itu berbentuk **"This makes sense to me when nothing else does."**
 
-Dan itulah yang saya rasakan dengan system analysis. Saya tidak bangun pagi dengan excited ingin bikin diagram. Tapi ketika saya duduk dan mulai memetakan sebuah sistem, **ada rasa tenang yang tidak saya dapatkan dari hal lain**.
+**Contoh konkret:** Minggu lalu, saya menghabiskan 2 jam membuat sequence diagram untuk sistem pendaftaran mahasiswa. Apakah itu exciting? Tidak. Apakah saya enjoy? Ya, dalam cara yang aneh. 
+
+Ketika saya berhasil memetakan flow dari "mahasiswa klik tombol daftar" sampai "data tersimpan di database" dengan semua edge cases-nya, ada rasa **tenang** yang tidak saya dapatkan dari hal lain. Seperti puzzle yang akhirnya terpecahkan.
 
 Mungkin itu bukan passion dalam pengertian tradisional. Tapi itu cukup untuk sekarang.
 
@@ -64,16 +66,24 @@ Mungkin itu bukan passion dalam pengertian tradisional. Tapi itu cukup untuk sek
 Berdasarkan refleksi dan feedback dari orang lain, inilah yang saya **cukup kompeten** lakukan:
 
 ### 1. **Logical Reasoning & Structured Thinking**
-Saya bisa memecah masalah kompleks menjadi bagian-bagian yang bisa diproses. Ketika orang lain overwhelmed, saya bisa lihat pola.
+Saya bisa memecah masalah kompleks menjadi bagian-bagian yang bisa diproses. 
+
+**Contoh:** Ketika tim project saya overwhelmed dengan requirement yang ambiguous dari client, saya yang bikin breakdown: "Okay, kita punya 3 masalah utama. Masalah #1 bisa kita solve dengan X. Masalah #2 tergantung jawaban client tentang Y. Masalah #3 kita defer dulu sampai #1 dan #2 clear." Suddenly, chaos jadi manageable.
 
 ### 2. **Technical Documentation**
-Saya bisa menjelaskan konsep teknis dengan cara yang (relatif) mudah dipahami. UML, flowchart, requirements document—ini adalah bahasa kedua saya.
+Saya bisa menjelaskan konsep teknis dengan cara yang (relatif) mudah dipahami. 
+
+**Contoh:** Waktu presentasi system design, dosen tanya "Kenapa pakai microservices architecture?" Kebanyakan kelompok jawab dengan jargon. Saya jawab: "Bayangin kalau rumah kita cuma punya satu kamar mandi. Kalau rusak, semua orang ga bisa mandi. Microservices itu kayak setiap kamar punya kamar mandi sendiri—kalau satu rusak, yang lain tetap jalan." He nodded. Jargon vs analogy.
 
 ### 3. **Learning New Systems Quickly**
-Saya tidak expert di satu hal tertentu, tapi saya cepat adaptasi ke tool atau framework baru. Jack of all trades, master of none—tapi kadang itu yang dibutuhkan.
+Saya tidak expert di satu hal tertentu, tapi saya cepat adaptasi ke tool atau framework baru. 
+
+**Contoh:** Semester ini tiba-tiba harus pakai Docker untuk deployment. Saya belum pernah touch Docker sebelumnya. 2 hari baca dokumentasi + trial error, saya berhasil containerize aplikasi dan deploy ke cloud. Not perfect, tapi functional.
 
 ### 4. **Critical Analysis**
-Saya bisa lihat gap, inconsistency, dan potential problem dalam sebuah sistem. Bukan karena saya pesimis, tapi karena otak saya wired untuk itu.
+Saya bisa lihat gap, inconsistency, dan potential problem dalam sebuah sistem. 
+
+**Contoh:** Di requirement document yang dikasih client, ada statement: "User bisa edit data kapan saja." Saya langsung notice: "Wait, kalau user A dan user B edit data yang sama simultaneously, gimana? Ada locking mechanism? Atau last-write-wins?" Ternyata mereka belum kepikiran. That's my thing—spotting the edge cases.
 
 **Yang TIDAK saya kuasai:**
 - Public speaking (still learning)
