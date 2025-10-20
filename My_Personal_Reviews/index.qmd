@@ -1,22 +1,370 @@
 ---
-title: "My Personal Review"
-subtitle: "Telaahan Pesan Personal Berdasarkan Rubrik"
+title: "My Personal Reviews"
+subtitle: "Self-Assessment & Peer Review Portfolio II-2100"
 author: "Jonathan Wiguna"
 date: "2025-10-18"
 format:
   html:
     toc: true
+    toc-depth: 3
 ---
 
-## Coming Soon
+## Pengantar
 
-UTS-5: My Personal Review akan segera hadir.
+UTS-5 ini adalah refleksi kritis terhadap pesan personal yang telah saya buat (UTS-1 s/d UTS-4), serta review terhadap portfolio teman. Tujuannya bukan untuk self-congratulation, tapi untuk **jujur mengevaluasi** apa yang berhasil, apa yang kurang, dan bagaimana bisa lebih baik.
 
-Content akan berisi:
-- Review pesan personal berdasarkan rubrik CPMK
-- Analisis kritis terhadap komunikasi interpersonal
-- Rekomendasi perbaikan
+Penilaian menggunakan rubrik CPMK dengan skala 1-5:
+- **1**: Buruk
+- **2**: Kurang
+- **3**: Cukup
+- **4**: Baik
+- **5**: Sangat Baik
 
 ---
 
-*Placeholder - Will be updated soon*
+# Part A: Self-Assessment Portfolio Jonathan Wiguna
+
+## Metodologi Self-Assessment
+
+Saya menggunakan **ChatGPT** untuk melakukan assessment objektif terhadap portfolio saya sendiri. Berikut prosesnya:
+
+1. Upload rubrik penilaian UTS ke ChatGPT
+2. Berikan URL portfolio: `https://jonathanw33.github.io/all-about-me/`
+3. ChatGPT menganalisis UTS-1 s/d UTS-4 berdasarkan rubrik
+4. Hasil penilaian di-download sebagai CSV
+
+**Kenapa pakai ChatGPT?** Karena self-assessment manual cenderung bias. AI memberikan perspektif lebih objektif (meskipun tidak sempurna).
+
+---
+
+## Hasil Assessment ChatGPT
+
+### UTS-1: All About Me
+
+**Skor dari ChatGPT:**
+| Kriteria | Skor | Keterangan |
+|----------|------|------------|
+| Orisinalitas | 3/5 | Sudut pandang cukup personal tapi belum sangat unik |
+| Keterlibatan | 3/5 | Cukup menarik, tapi beberapa bagian terasa datar |
+| Humor | 3/5 | Ada self-deprecating humor tapi tidak konsisten |
+| Wawasan (Insight) | 4/5 | Refleksi tentang "masih mencari arah" cukup dalam |
+
+**Total: 13/20**
+
+**Refleksi Saya:**
+
+Jujur, saya setuju dengan penilaian ini. UTS-1 saya memang **safe**. Saya memperkenalkan diri tanpa terlalu banyak mengambil resiko. Ada beberapa momen vulnerability (mengakui belum yakin dengan arah karir), tapi secara keseluruhan masih **surface-level**.
+
+**Apa yang kurang:**
+- **Orisinalitas rendah**: Struktur "Hi saya X, saya suka Y, saya tipe Z" itu formula standar. Tidak ada twist atau angle yang benar-benar memorable.
+- **Keterlibatan naik-turun**: Awal menarik, tengah agak datar, akhir lumayan.
+- **Humor kurang konsisten**: Hanya ada di satu bagian, lalu hilang.
+
+**Yang seharusnya saya lakukan:**
+- Open dengan story, bukan intro generik
+- Lebih banyak specific examples instead of general statements
+- Consistency dalam tone—kalau mau pakai humor, pakai di beberapa titik
+
+---
+
+### UTS-2: My Songs for You - "Spiral"
+
+**Skor dari ChatGPT:**
+| Kriteria | Skor | Keterangan |
+|----------|------|------------|
+| Orisinalitas | 5/5 | Sangat unik—jarang ada yang eksplisit bahas limerence |
+| Keterlibatan | 4/5 | Lirik engaging, refleksi self-aware sangat menarik |
+| Humor | 4/5 | Dark humor di refleksi sangat efektif |
+| Inspirasi | 3/5 | Relatable tapi tidak benar-benar inspiring |
+
+**Total: 16/20**
+
+**Refleksi Saya:**
+
+Ini adalah bagian yang saya paling proud of—bukan karena skornya tinggi, tapi karena ini **paling jujur**.
+
+**Yang berhasil:**
+- **Vulnerability maksimal**: Saya literally mengakui ini adalah coping mechanism yang unhealthy. Kebanyakan orang akan menyembunyikan ini.
+- **Self-aware humor**: Refleksi yang mengakui "I know this is pathetic but I'll do it anyway" adalah honest dan relatable.
+- **Orisinalitas tinggi**: Topik limerence & dopamine addiction jarang diangkat secara eksplisit.
+
+**Yang kurang:**
+- **Kurang inspiratif**: Ya, memang. Ini bukan cerita sukses atau motivational. Ini cerita tentang being stuck—dan itu okay, tapi memang tidak inspiring dalam pengertian tradisional.
+
+**Apakah saya akan ubah sesuatu?** Tidak. Ini sudah sesuai dengan visi saya: **honesty over inspiration**.
+
+---
+
+### UTS-3: My Stories for You
+
+**Skor dari ChatGPT:**
+| Kriteria | Skor | Keterangan |
+|----------|------|------------|
+| Orisinalitas | 3/5 | Cerita SNMPTN-SBMPTN cukup umum, tapi eksekusi lumayan |
+| Keterlibatan | 4/5 | Narasi mengalir baik, momen-momen kuat |
+| Pengembangan Narasi | 4/5 | Dua cerita connect dengan baik via quote Alchemist |
+| Inspirasi | 4/5 | Pesan "jangan menyerah" dan "balance" cukup kuat |
+
+**Total: 15/20**
+
+**Refleksi Saya:**
+
+Ini adalah middle ground—tidak se-bold UTS-2, tapi lebih developed dari UTS-1.
+
+**Yang berhasil:**
+- **Connection antar cerita**: Cerita 1 (kegagalan) dan Cerita 2 (keindahan) di-tie back dengan quote The Alchemist. Ini memberikan coherence.
+- **Emotional arc jelas**: Dari disappointment → effort → success → realization.
+- **Relatable**: Almost everyone punya cerita rejection.
+
+**Yang kurang:**
+- **Orisinalitas**: Cerita "ditolak SNMPTN tapi lolos SBMPTN" itu super common di kalangan mahasiswa ITB. Eksekusinya yang membuat ini work, tapi topiknya sendiri tidak unik.
+
+**Yang seharusnya saya lakukan:**
+- Tambahkan detail yang lebih specific—apa yang saya rasakan **exactly** saat lihat teman-teman celebrate? Apa yang saya pikirkan saat belajar 2 bulan itu?
+- Make it less generic dengan menambahkan momen-momen kecil yang memorable.
+
+---
+
+### UTS-4: My SHAPE
+
+**Skor dari ChatGPT:**
+| Kriteria | Skor | Keterangan |
+|----------|------|------------|
+| Orisinalitas | 4/5 | Angle "menemukan pola dalam kekacauan" fresh |
+| Keterlibatan | 4/5 | Struktur story-driven, konsisten engaging |
+| Pengembangan Narasi | 5/5 | Semua bagian SHAPE connect dengan smooth |
+| Inspirasi | 4/5 | "Tidak apa-apa untuk tidak tahu" resonates well |
+
+**Total: 17/20**
+
+**Refleksi Saya:**
+
+Ini adalah yang paling **matang** dari semua UTS—bukan karena perfect, tapi karena **balance antara structure dan vulnerability**.
+
+**Yang berhasil:**
+- **Framework jelas**: SHAPE memberikan struktur, tapi saya tidak stuck di format. Narasi tetap mengalir.
+- **Connection ke tugas lain**: Saya refer back ke UTS-3 (quote Alchemist), creating coherence across portfolio.
+- **Honest uncertainty**: Mengakui "saya masih lost di semester 7" adalah risky tapi effective.
+- **Elevator pitch konkret**: 90-detik pitch yang saya tulis benar-benar bisa dipakai.
+
+**Yang kurang:**
+- **Could be more specific**: Beberapa bagian masih general (e.g., "saya suka UML")—bisa lebih powerful dengan specific examples.
+
+**Overall:** Ini proof bahwa **structure + vulnerability = effective storytelling**.
+
+---
+
+## Summary: Self-Assessment Portfolio Jonathan Wiguna
+
+| Tugas | Total Skor | Komentar Singkat |
+|-------|------------|------------------|
+| UTS-1 | 13/20 | Safe, surface-level, perlu lebih bold |
+| UTS-2 | 16/20 | Paling jujur, vulnerability maksimal |
+| UTS-3 | 15/20 | Good execution, topik kurang unik |
+| UTS-4 | 17/20 | Paling matang, balance structure & story |
+
+**Total Portfolio: 61/80 (76.25%)**
+
+---
+
+## Pembelajaran dari Self-Assessment
+
+### 1. **Vulnerability > Polish**
+UTS yang paling jujur (UTS-2) dapat skor tertinggi untuk orisinalitas dan keterlibatan. Ini proof bahwa **being real** lebih powerful daripada **being perfect**.
+
+### 2. **Structure Helps, But Don't Be Trapped By It**
+UTS-4 berhasil karena saya pakai framework SHAPE tapi tidak terjebak di format. Struktur membantu, tapi narasi tetap harus flow.
+
+### 3. **Specificity Matters**
+Semua UTS saya bisa lebih kuat kalau saya tambahkan **specific details** instead of general statements. "Saya suka system analysis" kurang powerful dibanding "Saya menghabiskan 2 jam membuat sequence diagram dan merasa tenang."
+
+### 4. **Connection Across Work**
+Portfolio yang cohesive (UTS-4 refer ke UTS-3, quote Alchemist muncul di beberapa tempat) lebih memorable.
+
+---
+
+## Action Plan: Kalau Saya Revisi
+
+**UTS-1:**
+- Open dengan specific story, bukan generic intro
+- Tambahkan 2-3 momen humor lagi untuk consistency
+- More specific examples tentang "saya suka system analysis"
+
+**UTS-2:**
+- Sudah oke, tidak perlu diubah (honesty is the point)
+
+**UTS-3:**
+- Tambahkan detail emotional yang lebih specific
+- Expand momen "menyadari keindahan ITB" dengan sensory details
+
+**UTS-4:**
+- Tambahkan 1-2 specific examples di setiap section SHAPE
+- Expand elevator pitch dengan case study singkat
+
+---
+
+# Part B: Peer Review - Portfolio [Nama Teman]
+
+## Identifikasi Reviewer & Reviewee
+
+- **Nama Reviewer:** Jonathan Wiguna
+- **NIM Reviewer:** [Isi NIM kamu]
+- **Portfolio yang Direview:** [Nama Teman]
+- **URL Portfolio:** [URL portfolio teman]
+- **Tanggal Review:** [Tanggal]
+
+---
+
+## UTS-1: All About Me
+
+**Assessment berdasarkan rubrik:**
+
+| Kriteria | Skor | Justifikasi |
+|----------|------|-------------|
+| Orisinalitas | ?/5 | [Isi analisis kamu] |
+| Keterlibatan | ?/5 | [Isi analisis kamu] |
+| Humor | ?/5 | [Isi analisis kamu] |
+| Wawasan (Insight) | ?/5 | [Isi analisis kamu] |
+
+**Total: ?/20**
+
+**Komentar:**
+
+[Isi refleksi kamu tentang UTS-1 teman. Apa yang kuat? Apa yang kurang? Bagaimana dibandingkan dengan portfolio kamu?]
+
+**Rekomendasi Perbaikan:**
+
+1. [Saran konkret #1]
+2. [Saran konkret #2]
+3. [Saran konkret #3]
+
+---
+
+## UTS-2: My Songs for You
+
+**Assessment berdasarkan rubrik:**
+
+| Kriteria | Skor | Justifikasi |
+|----------|------|-------------|
+| Orisinalitas | ?/5 | [Isi analisis kamu] |
+| Keterlibatan | ?/5 | [Isi analisis kamu] |
+| Humor | ?/5 | [Isi analisis kamu] |
+| Inspirasi | ?/5 | [Isi analisis kamu] |
+
+**Total: ?/20**
+
+**Komentar:**
+
+[Isi refleksi kamu]
+
+**Rekomendasi Perbaikan:**
+
+1. [Saran #1]
+2. [Saran #2]
+3. [Saran #3]
+
+---
+
+## UTS-3: My Stories for You
+
+**Assessment berdasarkan rubrik:**
+
+| Kriteria | Skor | Justifikasi |
+|----------|------|-------------|
+| Orisinalitas | ?/5 | [Isi analisis kamu] |
+| Keterlibatan | ?/5 | [Isi analisis kamu] |
+| Pengembangan Narasi | ?/5 | [Isi analisis kamu] |
+| Inspirasi | ?/5 | [Isi analisis kamu] |
+
+**Total: ?/20**
+
+**Komentar:**
+
+[Isi refleksi kamu]
+
+**Rekomendasi Perbaikan:**
+
+1. [Saran #1]
+2. [Saran #2]
+3. [Saran #3]
+
+---
+
+## UTS-4: My SHAPE
+
+**Assessment berdasarkan rubrik:**
+
+| Kriteria | Skor | Justifikasi |
+|----------|------|-------------|
+| Orisinalitas | ?/5 | [Isi analisis kamu] |
+| Keterlibatan | ?/5 | [Isi analisis kamu] |
+| Pengembangan Narasi | ?/5 | [Isi analisis kamu] |
+| Inspirasi | ?/5 | [Isi analisis kamu] |
+
+**Total: ?/20**
+
+**Komentar:**
+
+[Isi refleksi kamu]
+
+**Rekomendasi Perbaikan:**
+
+1. [Saran #1]
+2. [Saran #2]
+3. [Saran #3]
+
+---
+
+## Summary: Peer Review Portfolio [Nama Teman]
+
+| Tugas | Total Skor | Komentar Singkat |
+|-------|------------|------------------|
+| UTS-1 | ?/20 | [Brief comment] |
+| UTS-2 | ?/20 | [Brief comment] |
+| UTS-3 | ?/20 | [Brief comment] |
+| UTS-4 | ?/20 | [Brief comment] |
+
+**Total Portfolio: ?/80 (?%)**
+
+**Overall Impression:**
+
+[Isi overall impression kamu tentang portfolio teman. Apa strength terbesar? Apa area perbaikan utama?]
+
+**Key Takeaways untuk Saya:**
+
+[Apa yang bisa kamu pelajari dari portfolio teman? Apa yang mereka lakukan better dari kamu? Apa yang bisa kamu improve?]
+
+---
+
+# Part C: Reflection on Reviewing Process
+
+## Apa yang Saya Pelajari dari Self-Assessment?
+
+[Isi refleksi kamu tentang proses self-assessment. Apakah sulit untuk objektif? Apakah ada surprise?]
+
+## Apa yang Saya Pelajari dari Peer Review?
+
+[Isi refleksi kamu tentang proses review portfolio orang lain. Apakah membuka perspektif baru?]
+
+## How This Makes Me a Better Communicator
+
+[Isi refleksi akhir: Bagaimana proses review ini membantu kamu memahami komunikasi yang efektif?]
+
+---
+
+## Penutup
+
+Proses reviewing—baik self maupun peer—adalah latihan **empati dan kritisisme konstruktif**. Saya belajar bahwa:
+
+1. **Being honest is hard**, tapi necessary untuk improvement
+2. **Everyone has different strengths**, dan itu okay
+3. **Feedback is a gift**, bahkan ketika sulit diterima
+
+Portfolio adalah work in progress. Begitu juga dengan kemampuan komunikasi saya.
+
+---
+
+*"The secret of happiness is to see all the marvels of the world, and never to forget the drops of oil on the spoon."*  
+— Paulo Coelho, The Alchemist
+
+Dan mungkin, secret of good communication adalah **menerima bahwa kita akan selalu dalam proses belajar**.
