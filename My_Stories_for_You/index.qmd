@@ -127,7 +127,7 @@ Hari itu, setelah kuis Fisika yang buruk, saya akhirnya menyadarinya. ITB bukan 
 Sekarang, setiap kali saya merasa overwhelmed dengan tugas atau nilai, saya mencoba untuk berhenti sejenak. Melihat sekeliling. Mengingat bahwa hidup bukan hanya tentang "drops of oil" yang harus dijaga, tapi juga tentang "marvels of the world" yang harus dinikmati.
 
 ::: {style="margin: 2rem 0;"}
-![ITB - reminder untuk tidak melupakan keindahan di tengah kesibukan](../images/itb2.jpg){width=100% style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"}
+![Sudut kampus ITB yang mengingatkan untuk tetap menikmati perjalanan](../images/itb3.jpg){width=100% style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"}
 :::
 
 ---

@@ -56,9 +56,9 @@ Tapi kemudian saya menyadari sesuatu: **Passion itu tidak selalu berbentuk "I lo
 Ketika saya berhasil memetakan flow dari "mahasiswa klik tombol daftar" sampai "data tersimpan di database" dengan semua edge cases-nya, ada rasa **tenang** yang tidak saya dapatkan dari hal lain. Seperti puzzle yang akhirnya terpecahkan.
 
 ::: {style="margin: 1.5rem 0;"}
-![Contoh diagram UML yang saya buat - ini adalah cara saya memahami sistem](../images/uml.jpg){width=100% style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"}
+![Activity diagram sistem feedback/help center - memetakan alur dari user request sampai solusi tersampaikan](../images/uml.jpg){width=100% style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"}
 
-*Diagram seperti ini yang membuat saya merasa tenang—chaos yang berubah menjadi struktur.*
+*Diagram seperti ini yang membuat saya merasa tenang—chaos yang berubah menjadi struktur yang bisa dipahami.*
 :::
 
 Mungkin itu bukan passion dalam pengertian tradisional. Tapi itu cukup untuk sekarang.
