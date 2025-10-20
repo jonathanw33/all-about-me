@@ -9,16 +9,30 @@ book:
   date: "10/18/2025"
   chapters:
     - index.qmd
-    - All_About_me/index.qmd
-    - My_Song_for_You/index.qmd
-    - My_Stories_for_You/index.qmd
-    - My_Shapes/index.qmd
-    - My_Personal_Reviews/index.qmd
-    - My_Concepts/index.qmd
-    - My_Opinions/index.qmd
-    - My_Innovations/index.qmd
-    - My_Knowledge/index.qmd
-    - My_Professional_Reviews/index.qmd
+    - part: "Ujian Tengah Semester"
+      chapters:
+        - text: "UTS-1 All About Me"
+          file: All_About_me/index.qmd
+        - text: "UTS-2 My Songs for You"
+          file: My_Song_for_You/index.qmd
+        - text: "UTS-3 My Stories for You"
+          file: My_Stories_for_You/index.qmd
+        - text: "UTS-4 My SHAPE"
+          file: My_Shapes/index.qmd
+        - text: "UTS-5 My Personal Reviews"
+          file: My_Personal_Reviews/index.qmd
+    - part: "Ujian Akhir Semester"
+      chapters:
+        - text: "UAS-1 My Concepts"
+          file: My_Concepts/index.qmd
+        - text: "UAS-2 My Opinions"
+          file: My_Opinions/index.qmd
+        - text: "UAS-3 My Innovations"
+          file: My_Innovations/index.qmd
+        - text: "UAS-4 My Knowledge"
+          file: My_Knowledge/index.qmd
+        - text: "UAS-5 My Professional Reviews"
+          file: My_Professional_Reviews/index.qmd
     - summary.qmd
     - references.qmd
 
@@ -28,6 +42,13 @@ format:
   html:
     theme:
       - cosmo
-      - brand
+      - custom.scss
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    code-copy: true
+    code-overflow: wrap
+    smooth-scroll: true
+    css: styles.css
   pdf:
     documentclass: scrreprt

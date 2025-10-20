@@ -1,0 +1,272 @@
+/*-- scss:defaults --*/
+
+// Modern color palette
+$primary: #2C3E50;
+$secondary: #3498DB;
+$accent: #E74C3C;
+$text-color: #2C3E50;
+$bg-color: #FFFFFF;
+$sidebar-bg: #F8F9FA;
+
+// Typography
+$font-family-sans-serif: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+$headings-font-weight: 600;
+$body-color: $text-color;
+
+/*-- scss:rules --*/
+
+// Import modern font
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+
+// Smooth transitions
+* {
+  transition: all 0.2s ease-in-out;
+}
+
+// Body styling
+body {
+  font-family: $font-family-sans-serif;
+  line-height: 1.7;
+  color: $text-color;
+}
+
+// Header improvements
+h1, h2, h3, h4, h5, h6 {
+  font-weight: $headings-font-weight;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  color: $primary;
+}
+
+h1 {
+  font-size: 2.5rem;
+  border-bottom: 3px solid $secondary;
+  padding-bottom: 0.5rem;
+}
+
+h2 {
+  font-size: 2rem;
+  color: $secondary;
+}
+
+// Sidebar styling
+.sidebar {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  padding: 2rem 1rem;
+  box-shadow: 2px 0 10px rgba(0,0,0,0.1);
+}
+
+.sidebar-title {
+  color: white !important;
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.sidebar-subtitle {
+  color: rgba(255,255,255,0.8) !important;
+  font-size: 0.9rem;
+}
+
+// Sidebar navigation
+.sidebar-navigation {
+  margin-top: 2rem;
+}
+
+.sidebar-navigation .chapter {
+  border-left: 3px solid transparent;
+  transition: all 0.3s ease;
+}
+
+.sidebar-navigation .chapter:hover {
+  border-left-color: #FFD700;
+  background: rgba(255,255,255,0.1);
+}
+
+.sidebar-navigation .chapter.active {
+  border-left-color: #FFD700;
+  background: rgba(255,255,255,0.15);
+}
+
+.sidebar-navigation a {
+  color: white !important;
+  text-decoration: none;
+  padding: 0.7rem 1rem;
+  display: block;
+  font-weight: 500;
+}
+
+.sidebar-navigation a:hover {
+  color: #FFD700 !important;
+}
+
+// Part headers in sidebar
+.sidebar-navigation .part-header {
+  color: #FFD700 !important;
+  font-weight: 700;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+  padding: 0.5rem 1rem;
+}
+
+// Content area
+.page-columns {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+// Card-like sections
+.content-block {
+  background: white;
+  border-radius: 8px;
+  padding: 2rem;
+  margin: 2rem 0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+// Blockquotes
+blockquote {
+  border-left: 4px solid $secondary;
+  padding-left: 1.5rem;
+  margin: 2rem 0;
+  font-style: italic;
+  color: #555;
+  background: #f8f9fa;
+  padding: 1rem 1.5rem;
+  border-radius: 4px;
+}
+
+// Code blocks
+pre {
+  background: #282c34;
+  color: #abb2bf;
+  border-radius: 8px;
+  padding: 1.5rem;
+  overflow-x: auto;
+}
+
+code {
+  background: #f4f4f4;
+  padding: 0.2rem 0.4rem;
+  border-radius: 3px;
+  font-size: 0.9em;
+  color: #e74c3c;
+}
+
+// Links
+a {
+  color: $secondary;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: all 0.2s ease;
+}
+
+a:hover {
+  color: $accent;
+  border-bottom-color: $accent;
+}
+
+// Lists
+ul, ol {
+  line-height: 1.8;
+  margin: 1.5rem 0;
+}
+
+li {
+  margin: 0.5rem 0;
+}
+
+// Tables
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 2rem 0;
+}
+
+th {
+  background: $primary;
+  color: white;
+  padding: 1rem;
+  text-align: left;
+  font-weight: 600;
+}
+
+td {
+  padding: 0.8rem 1rem;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:hover {
+  background: #f8f9fa;
+}
+
+// Badges/Tags
+.badge {
+  display: inline-block;
+  padding: 0.3rem 0.8rem;
+  background: $secondary;
+  color: white;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin: 0.2rem;
+}
+
+// Images
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  margin: 1.5rem 0;
+}
+
+// Responsive
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2rem;
+  }
+  
+  h2 {
+    font-size: 1.5rem;
+  }
+  
+  .sidebar {
+    padding: 1rem;
+  }
+}
+
+// Callout boxes
+.callout {
+  padding: 1.5rem;
+  margin: 2rem 0;
+  border-radius: 8px;
+  border-left: 4px solid;
+}
+
+.callout-note {
+  background: #e3f2fd;
+  border-left-color: #2196F3;
+}
+
+.callout-warning {
+  background: #fff3e0;
+  border-left-color: #ff9800;
+}
+
+.callout-important {
+  background: #ffebee;
+  border-left-color: #f44336;
+}
+
+// Footer
+.nav-footer {
+  background: $primary;
+  color: white;
+  padding: 2rem 0;
+  margin-top: 4rem;
+  text-align: center;
+}
