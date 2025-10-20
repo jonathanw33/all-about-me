@@ -93,9 +93,7 @@ Tapi kemudian, saya berhenti. Literally berhenti berjalan.
 Di depan saya, ada taman kecil dengan beberapa bangku. Pohon-pohon besar bergoyang tertiup angin sore. Cahaya matahari mulai keemasan—golden hour yang orang-orang suka foto. Di sebelah kiri, ada mahasiswa duduk ngobrol sambil tertawa. Di kanan, ada yang main gitar dengan headset di telinga, sepertinya latihan sendiri.
 
 ::: {style="margin: 2rem 0;"}
-![Golden hour di kampus ITB - momen ketika saya menyadari keindahannya](itb-campus-photo.jpg){width=100% style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"}
-
-*Ganti `itb-campus-photo.jpg` dengan foto actual spot ITB yang kamu maksud. Upload ke folder `My_Stories_for_You/`*
+![Kampus ITB - tempat yang akhirnya saya sadari keindahannya](../images/itb1.jpg){width=100% style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"}
 :::
 
 Dan tiba-tiba, saya sadar: **ITB itu indah.**
@@ -127,6 +125,10 @@ Hari itu, setelah kuis Fisika yang buruk, saya akhirnya menyadarinya. ITB bukan 
 ## Refleksi
 
 Sekarang, setiap kali saya merasa overwhelmed dengan tugas atau nilai, saya mencoba untuk berhenti sejenak. Melihat sekeliling. Mengingat bahwa hidup bukan hanya tentang "drops of oil" yang harus dijaga, tapi juga tentang "marvels of the world" yang harus dinikmati.
+
+::: {style="margin: 2rem 0;"}
+![ITB - reminder untuk tidak melupakan keindahan di tengah kesibukan](../images/itb2.jpg){width=100% style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"}
+:::
 
 ---
 

@@ -9,9 +9,7 @@ format:
 ---
 
 ::: {style="text-align: center; margin: 2rem 0;"}
-![Foto Profil Jonathan Wiguna](profile-photo.jpg){width=250px style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"}
-
-*Ganti `profile-photo.jpg` dengan foto kamu. Upload file ke folder `All_About_me/`*
+![Foto Profil Jonathan Wiguna](../images/profilepicture.jpg){width=250px style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"}
 :::
 
 ---
