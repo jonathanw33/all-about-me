@@ -1,215 +1,178 @@
-# UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)
-
-> **Tujuan:** Merangkum rancangan diri (charter) agar saya melayani, berkarya, dan memimpin secara paling selaras dengan karunia dan pengalaman hidup saya. Dapat langsung ditempel ke halaman **UTS-4 — My SHAPE** dan dipakai sebagai acuan aksi 90 hari.
-
-Sumber [VIA assessment](StrengthsProfile-Armein-Langi.pdf)
+---
+title: "My SHAPE: Menemukan Pola dalam Kekacauan"
+subtitle: "Perjalanan memahami siapa saya sebenarnya"
+author: "Jonathan Wiguna"
+date: "2025-10-18"
+format:
+  html:
+    toc: true
+    toc-depth: 3
 ---
 
-## 0) Ringkasan 1 Halaman
+## Pengantar: Ketika Saya Tidak Tahu Siapa Saya
 
-**Peran Inti:** Profesor & Elder — perancang ekosistem belajar-bernilai, pembimbing, dan pemimpin pelayanan komunitas.
-**Misi:** Mengangkat kualitas hidup melalui *smart engineering* dan *value-oriented education*, khususnya bagi lansia/keluarga/komunitas (GRACE), serta pelayanan gerejawi yang menumbuhkan kasih dan pengharapan.
-**Kekuatan Utama:** mengkonsep sistem utuh, menulis & mengajar, membangun jejaring, merancang rubrik/alat evaluasi, menggerakkan proyek lintas-disiplin.
-**Dampak yang Dituju:** karya, kurikulum, dan pelayanan yang menumbuhkan karakter, keterampilan, serta kesejahteraan berkeadilan.
+Selama 21 tahun hidup, saya menghabiskan sebagian besar waktu **menghindari pertanyaan sederhana**: *Siapa saya sebenarnya?*
 
-**Peta SHAPE (singkat):**
+Bukan karena saya tidak peduli. Tapi karena jawabannya terasa terlalu besar, terlalu abstrak, terlalu... menakutkan. Lebih mudah untuk fokus pada hal-hal yang konkret: tugas, deadline, nilai, rencana karir. Tapi di suatu titik, semua itu terasa seperti topeng yang saya pakai tanpa pernah tahu wajah di baliknya.
 
-* **S — Spiritual Gifts:** Teaching, Shepherding/Pastoring, Leadership, Wisdom/Discernment, Exhortation/Encouragement, Administration.
-* **H — Heart (Minat & Cinta Pelayanan):** pendidikan berorientasi nilai; kesejahteraan lansia & keluarga (GRACE); pembinaan iman; menulis kisah/novel/lirik; rekayasa cerdas & AI untuk kebaikan bersama; mentorship mahasiswa-dosen; penguatan jemaat.
-* **A — Abilities (Kemampuan):** perancangan sistem (PSKVE/TISE), kurikulum & rubrik, riset & publikasi, menulis multi-format (Quarto/LaTeX), pemrograman (Python/R/Prolog/Modelica), komunikasi publik, memimpin kolaborasi.
-* **P — Personality (Gaya Kepribadian Kerja):** strategis & reflektif, berorientasi visi & nilai, analitis-sistemik, kolaboratif, tenang dalam krisis, suka membangun standar & alat.
-* **E — Experiences (Pengalaman Kunci):** dosen & peneliti lintas proyek (GRACE, Smart Engineering, pendidikan), Elder & pengorganisasi jemaat, penulis kreatif, arsitek sistem pengetahuan (Obsidian/GitHub/Quarto), penggerak sarasehan & penggalangan dukungan.
+Dan kemudian, ada tugas ini. **My SHAPE.** Sebuah framework untuk memahami diri sendiri berdasarkan lima dimensi:
 
----
+- **S**piritual Gifts (Karunia Rohani)
+- **H**eart (Passion / Hasrat)
+- **A**bilities (Kemampuan)
+- **P**ersonality (Kepribadian)
+- **E**xperience (Pengalaman Hidup)
 
-## 1) S — Spiritual Gifts (Karunia Rohani)
-
-* **Teaching & Wisdom/Discernment:** mengubah konsep kompleks menjadi peta belajar, rubrik, dan alat evaluasi yang memampukan.
-* **Shepherding/Pastoring & Exhortation:** membimbing individu/kelompok dengan empati, meneguhkan, dan memberi arah.
-* **Leadership & Administration:** merancang ekosistem (orang–proses–alat) dengan target berdampak dan terukur.
-
-**Indikator Bukti:** silabus & rubrik (II-2100/EL2007), naskah pengajaran, bimbingan riset, modul/website kelas, program jemaat.
+Awalnya, saya pikir ini hanya formalitas—mengisi lembar kerja, menulis jawaban yang "benar", selesai. Tapi ternyata, proses ini memaksa saya untuk jujur dengan diri sendiri. Dan kejujuran itu... tidak selalu menyenangkan.
 
 ---
 
-## 2) H — Heart (Minat, Nilai, Kepedulian)
+# SHAPE Analysis: Membongkar Diri Sendiri
 
-* Pendidikan yang **mencipta nilai** (CPMK↔rubrik↔artefak nyata).
-* **GRACE**: kualitas hidup lansia/keluarga melalui sistem dukung cerdas & komunitas saling-melayani.
-* **Gereja & Komunitas**: penguatan iman, kesalingan, dan pelayanan kasih.
-* **Kreativitas naratif**: kisah/novel/lirik sebagai sarana edukasi & pengharapan.
-* **Rekayasa cerdas & AI** untuk kemaslahatan.
+## S - Spiritual Gifts: Analytical Thinking & Problem-Solving
 
-**Masalah yang ingin dipecahkan:** kesenjangan antara pengetahuan–karakter–aksi; pembelajaran kurang bermakna; layanan komunitas belum terukur dampaknya.
+Saya tidak yakin apakah ini "spiritual gift" dalam pengertian religius. Tapi kalau ada satu hal yang konsisten dalam hidup saya, itu adalah **cara saya melihat dunia sebagai sistem yang bisa dipecahkan**.
 
----
+Sejak kecil, saya selalu bertanya: *Kenapa ini bekerja seperti ini? Bagaimana kalau kita ubah X, apakah Y akan berubah?* Orang bilang saya overthinking. Saya bilang itu cara otak saya bekerja.
 
-## 3) A — Abilities (Kemampuan Andal)
+Di kuliah, ini menjadi lebih jelas. Ketika teman-teman saya merasa overwhelmed dengan kompleksitas sistem informasi, saya justru merasa... **nyaman**. Bukan karena saya lebih pintar, tapi karena saya menikmati proses **memetakan chaos menjadi struktur**.
 
-* **Perancangan sistem** (PSKVE/TISE), *value co‑creation*, finansial rekayasa, desain instrumen penilaian.
-* **Kurikulum & pedagogi**: CPMK↔rubrik↔tugas↔bukti; otomasi alur kerja (Python/Quarto/GitHub).
-* **Riset & penulisan ilmiah**; **karya kreatif** (prosa, lirik, ceramah/khotbah).
-* **Teknis**: Python, R, Prolog (ontologi), Modelica, Quarto/LaTeX, Obsidian, GitHub, Graphviz.
-* **Komunikasi & kepemimpinan**: orasi publik, fasilitasi sarasehan, negosiasi kolaborasi.
+UML diagrams? Sequence diagrams? System flowcharts? Itu bukan tugas yang membosankan buat saya—itu adalah cara saya **memahami dunia**.
+
+**Insight:** Saya baru menyadari bahwa "karunia" saya bukan tentang menjadi jenius, tapi tentang **menemukan ketenangan dalam kompleksitas**. Sementara orang lain stres dengan terlalu banyak informasi, saya stres ketika informasi terlalu sedikit.
 
 ---
 
-## 4) P — Personality (Gaya Kerja & Kolaborasi)
+## H - Heart: The Paradox of Passion
 
-* **Strategis‑sistemik** (melihat gambaran besar, memetakan bagian-bagian).
-* **Reflektif & nilai‑driven** (standar etis & mutu).
-* **Kolaboratif** (membangun jejaring, memberi ruang tumbuh).
-* **Tenang‑tangguh** (fokus hasil jangka panjang).
-* **Pembelajar & pembuat alat** (suka membuat template, rubrik, pipeline).
+Ini bagian paling sulit untuk dijawab, karena jujur saja, **saya tidak yakin saya punya passion yang jelas**.
 
----
+Ketika saya memilih Sistem dan Teknologi Informasi, alasannya pragmatis: kerja remote, fleksibilitas, gaji lumayan. Bukan karena saya "passionate" tentang IT. Dan sampai sekarang, saya masih bertanya-tanya apakah saya di jalur yang benar.
 
-## 5) E — Experiences (Pengalaman Pembentuk)
+Tapi kemudian saya menyadari sesuatu: **Passion itu tidak selalu berbentuk "I love this so much I could do it forever."** Kadang passion itu berbentuk **"This makes sense to me when nothing else does."**
 
-* **Akademik & Riset:** merancang mata kuliah, SLR AI & transformasi digital, proyek GRACE & Smart Engineering.
-* **Pelayanan & Organisasi:** Elder GKI, fasilitator sarasehan, penggalangan dukungan jemaat, pembinaan rohani.
-* **Kreasi Konten:** penulisan novel/khotbah/lirik; produksi materi ajar multi‑format.
-* **Infrastruktur Pengetahuan:** Obsidian–GitHub–Quarto, rubrik otomatis, bank soal.
+Dan itulah yang saya rasakan dengan system analysis. Saya tidak bangun pagi dengan excited ingin bikin diagram. Tapi ketika saya duduk dan mulai memetakan sebuah sistem, **ada rasa tenang yang tidak saya dapatkan dari hal lain**.
 
-**Pelajaran Inti:** integrasi iman–ilmu–nilai; sistem yang baik melipatgandakan orang baik; narasi menggerakkan aksi.
+Mungkin itu bukan passion dalam pengertian tradisional. Tapi itu cukup untuk sekarang.
+
+**Insight:** Passion tidak harus dramatis. Kadang passion adalah sesuatu yang membuat kamu merasa **less lost**, bukan more excited.
 
 ---
 
-## 6) Piagam Diri (Self‑Charter)
+## A - Abilities: What I'm Actually Good At
 
-**Misi Hidup:** merancang dan menggerakkan ekosistem pembelajaran & pelayanan yang memerdekakan, bermakna, dan berkeadilan.
-**Nilai Inti:** kasih, integritas, kebijaksanaan, keberanian, mutu, keberpihakan pada yang lemah.
-**Peran Inti:** Perancang sistem nilai‑pembelajaran; Pembimbing & pengajar; Pemimpin pelayanan komunitas.
-**Kompas Keputusan:** (1) Dampak pada manusia; (2) Keselarasan nilai; (3) Keberlanjutan; (4) Kemampuan tim mengelola; (5) Bukti terukur.
-**Janji Pelayanan:** hadir dengan empati, mendengar, memberi arah praktis, membangun alat agar orang lain bertumbuh.
-**Batasan:** menolak proyek yang mengabaikan martabat manusia/etika; menjaga ritme kerja‑istirahat‑keluarga.
+Berdasarkan refleksi dan feedback dari orang lain, inilah yang saya **cukup kompeten** lakukan:
 
----
+### 1. **Logical Reasoning & Structured Thinking**
+Saya bisa memecah masalah kompleks menjadi bagian-bagian yang bisa diproses. Ketika orang lain overwhelmed, saya bisa lihat pola.
 
-## 7) Narasi 90 Detik (Elevator Pitch)
+### 2. **Technical Documentation**
+Saya bisa menjelaskan konsep teknis dengan cara yang (relatif) mudah dipahami. UML, flowchart, requirements document—ini adalah bahasa kedua saya.
 
-“Saya seorang profesor dan elder yang merancang ekosistem belajar dan pelayanan berbasis nilai. Karunia saya mengajar, membimbing, dan memimpin dengan pendekatan sistem: mengubah konsep besar menjadi peta, rubrik, dan alat yang membuat orang bertumbuh. Hati saya pada pendidikan bermakna, kesejahteraan lansia dan keluarga, serta penguatan jemaat. Dengan pengalaman lintas riset, kurikulum, dan pelayanan, saya menghubungkan ilmu, iman, dan aksi. Target saya sederhana: menghadirkan karya dan komunitas yang saling menguatkan—di kelas, di gereja, dan di masyarakat—agar lebih banyak orang hidup berkualitas, berpengharapan, dan siap melayani.”
+### 3. **Learning New Systems Quickly**
+Saya tidak expert di satu hal tertentu, tapi saya cepat adaptasi ke tool atau framework baru. Jack of all trades, master of none—tapi kadang itu yang dibutuhkan.
 
----
+### 4. **Critical Analysis**
+Saya bisa lihat gap, inconsistency, dan potential problem dalam sebuah sistem. Bukan karena saya pesimis, tapi karena otak saya wired untuk itu.
 
-## 8) Service‑Fit Map (Tempat Saya Paling Berdampak)
+**Yang TIDAK saya kuasai:**
+- Public speaking (still learning)
+- Networking & socializing (introvert problems)
+- Quick decision-making under pressure (I need time to think)
 
-* **Kampus:** perancangan kurikulum & rubrik; mentorship riset; otomasi pipeline belajar; kuliah & orasi.
-* **Jemaat:** pembinaan rohani & khotbah; fasilitasi sarasehan; program lansia/keluarga (GRACE).
-* **Riset‑Inovasi:** desain platform nilai‑ciptakan (PSKVE); publikasi; konsorsium kolaborasi.
-* **Kreasi Naratif:** kisah/lirik sebagai media edukasi & penguatan batin.
-
----
-
-## 9) Evidences (Artefak & Tautan)
-
-> Ganti tanda [ ] dengan tautan/berkas Anda.
-
-* [ ] Silabus & rubrik II‑2100 / EL2007
-* [ ] Modul/website kelas & bank soal
-* [ ] Khotbah/renungan & materi sarasehan
-* [ ] Publikasi/SLR & proposal riset (GRACE, dsb.)
-* [ ] Novel/lirik & materi kreatif
-* [ ] Pipeline otomasi (Quarto/GitHub/Obsidian)
+**Insight:** Abilities bukan tentang menjadi yang terbaik, tapi tentang **tahu apa yang bisa kamu kontribusikan** ketika orang lain butuh.
 
 ---
 
-## 10) Rencana Aksi 90 Hari (SMART)
+## P - Personality: The Introverted Analyst
 
-1. **Rampungkan halaman UTS (KIPP/All‑About‑Me) end‑to‑end.**
-   *Outcome:* semua tugas berisi bukti + rubrik; *Due:* T‑14 hari.
-2. **Mentor 3 tim mahasiswa menyusun artefak bernilai.**
-   *Outcome:* 3 proyek dengan metrik dampak; *Due:* T‑45 hari.
-3. **Pilot GRACE micro‑service di jemaat.**
-   *Outcome:* 1 layanan kecil terukur (mis. pendampingan lansia); *Due:* T‑90 hari.
-4. **Publikasi ringkas (working paper) integrasi iman–ilmu–nilai.**
-   *Outcome:* 1 naskah pra‑cetak; *Due:* T‑75 hari.
+Kalau ada satu kata yang menggambarkan kepribadian saya, itu adalah: **Introverted, detail-oriented, dan chronically overthinking**.
 
----
+### **Introvert, But Not Anti-Social**
+Saya tidak benci orang. Saya hanya butuh waktu sendiri untuk recharge. Social interaction itu seperti sprint—saya bisa lakukan, tapi saya tidak bisa lari marathon.
 
-## 11) SHAPE ↔ CPMK (Interpersonal & Public Communication)
+### **Detail-Oriented (To a Fault)**
+Saya bisa menghabiskan 30 menit untuk memilih font di presentasi. Apakah itu productive? Tidak. Apakah saya akan tetap melakukannya? Ya.
 
-* **Self‑awareness & refleksi (CPMK‑S):** dituangkan pada Piagam Diri & Narasi 90 detik.
-* **Empati & komunikasi etis (CPMK‑E):** Shepherding/Exhortation → khotbah, mentoring, review berempati.
-* **Storytelling & presentasi (CPMK‑P):** Teaching + kreasi naratif → kuliah, cerita, lirik.
-* **Kolaborasi & kepemimpinan (CPMK‑K):** Leadership/Administration → proyek riset/komunitas terukur.
+### **Overthinker yang Self-Aware**
+Ini mungkin trait yang paling defining. Saya bisa overthink keputusan sederhana sampai lumpuh. Tapi setidaknya saya **tahu** saya melakukan itu, yang membuat saya bisa manage (kadang).
+
+**Insight:** Personality bukan sesuatu yang harus "diperbaiki". Introvert bukan inferior version dari extrovert. Overthinker bukan broken version dari decisive people. Kita hanya punya cara kerja yang berbeda.
 
 ---
 
-## 12) Self‑Assessment Rubrik UTS‑4 (isi skormu)
+## E - Experience: The Moments That Shaped Me
 
-| Kriteria                | Deskripsi                      | Skor (1–5) | Bukti |
-| ----------------------- | ------------------------------ | ---------: | ----- |
-| Kelengkapan SHAPE       | S‑H‑A‑P‑E jelas & terisi       |            |       |
-| Koherensi Piagam Diri   | misi‑nilai‑peran konsisten     |            |       |
-| Narasi 90 detik         | ringkas, kuat, mengundang aksi |            |       |
-| Evidence & Aksi 90 hari | tautan bukti & rencana SMART   |            |       |
+### **Experience 1: Ditolak SNMPTN, Diterima SBMPTN**
+(Sudah saya ceritakan di My Stories for You)
 
-**Total (maks 20):** [ ]
-**Tingkat:** ☐ A (≥85%) ☐ B (70–84%) ☐ C (60–69%) ☐ D (50–59%) ☐ E (<50%)
+**Lesson:** Kegagalan bukan akhir. Kadang itu hanya redirect ke jalur yang sebenarnya lebih cocok.
 
----
+### **Experience 2: Menyadari Keindahan ITB Setelah 2 Semester**
+(Juga sudah di My Stories)
 
-## 13) Versi Ultra‑Ringkas (≤140 kata)
+**Lesson:** Kita sering terlalu fokus pada "drops of oil" (tugas, nilai, target) sampai lupa menikmati "the marvels of the world" (proses, pengalaman, momen).
 
-“Saya profesor & elder dengan karunia mengajar, membimbing, dan memimpin secara sistemik. Hati saya pada pendidikan bernilai, kesejahteraan lansia/keluarga (GRACE), dan penguatan jemaat. Kemampuan saya merancang kurikulum, rubrik, dan alat otomasi belajar; menulis ilmiah & kreatif; serta menggerakkan kolaborasi. Pengalaman saya di kampus, gereja, riset, dan kreasi konten mengajarkan integrasi iman–ilmu–aksi. Misi saya menghadirkan ekosistem yang memerdekakan: di kelas melalui pembelajaran bermakna; di jemaat melalui pelayanan kasih yang terukur; dan di masyarakat melalui inovasi yang adil. Target 90 hari: menuntaskan artefak UTS, mementori 3 tim mahasiswa, memulai layanan mikro GRACE, dan menerbitkan naskah ringkas.”
+### **Experience 3: Semester 7 dan Masih Merasa Lost**
+Ini pengalaman yang masih ongoing. Saya di semester 7, seharusnya sudah punya arah. Tapi jujur? **Saya masih tidak yakin apa yang saya mau.**
 
+Apakah saya ingin jadi System Analyst? Mungkin. Apakah saya ingin kerja di corporate? Mungkin tidak. Apakah saya tahu apa alternatifnya? Juga tidak.
 
-## Piagam Diri — Armein Z. R. Langi
-
-**Pernyataan Misi**
-Saya adalah insinyur-pendidik dan penulis yang menyalakan sukacita belajar, menumbuhkan empati, dan merancang sistem cerdas yang memuliakan Tuhan serta meningkatkan kualitas hidup keluarga, kampus, dan komunitas. (Struktur mengikuti kerangka *My SHAPE*—Piagam Diri 1-halaman. )
-
-**S — Signature Strengths (inti kekuatan khas)**
-Humor, Spiritualitas, Kreativitas, Suka Belajar, Keingintahuan, Pandangan (wisdom/perspective), Bersyukur, Keadilan, Kecerdasan Sosial, Kejujuran, Kepemimpinan. (Sumber: VIA Character Strengths Profile, 13 Okt 2025. )
-
-**H — Heart (nilai & panggilan)**
-Empati sebagai kecerdasan tertinggi; kebaikan lebih utama daripada sekadar pintar; pencarian “The True Reality”; sukacita hidup yang mengasihi; keluarga sebagai ekosistem kasih. (Disimpulkan dari tulisan-tulisan Anda di blog: *Empati: Kecerdasan Tertinggi*; *On Being Nice*; *The Truth, The True Reality*; tagline blog; catatan keluarga. ([Armein Z. R. Langi in the City of Eden][1]))
-
-**A — Aptitudes & Acquired Skills (bakat & keterampilan kunci)**
-Perancangan & penelitian sistem/komputasi (speech compression, FPGA), rekayasa & kurikulum, kepemimpinan akademik, penulisan & penceritaan, fasilitasi pembelajaran, sistem & organisasi. (Contoh teknis: riset speech compression & desain kontrol prosesor pada awal karier. ([Armein Z. R. Langi in the City of Eden][2]))
-
-**P — Personality (gaya kerja yang menonjol)**
-Reflektif-analitis, empatik-inklusif, visioner, pembelajar antusias, kolaboratif; berpihak pada keadilan & integritas. (Disintesis dari pola kekuatan VIA dan tema tulisan Anda. )
-
-**E — Experiences (jejak pembentuk identitas)**
-
-* **Ketangguhan pribadi** — “The Child Who Learned to Walk at the Disneyland”: ketekunan, berjalan dalam dingin, terus melangkah menuju tujuan. ([Armein Z. R. Langi in the City of Eden][3])
-* **Lompatan kompetensi awal** — perjalanan riset: software speech compression jadi dalam 3 bulan; desain chip kontrol di Xilinx FPGA; menulis paper. ([Armein Z. R. Langi in the City of Eden][2])
-* **Keluarga & komunitas** — keluarga besar sebagai sumber nilai, pelayanan, dan sukacita. ([Armein Z. R. Langi in the City of Eden][4])
-* **Standar keunggulan** — sensibilitas benchmarking sains & pendidikan (refleksi tentang Caltech). ([Armein Z. R. Langi in the City of Eden][5])
-
-**Janji Praktis (Operating Principles)**
-
-1. *People first with empathy* • 2) *Truth-seeking with humility* • 3) *Design for value & justice* • 4) *Teach what I practice, practice what I teach* • 5) *Joyful learning, faithful living*. (Kerangka dan cara merangkum diadaptasi dari *My SHAPE Toolkit*. )
+**Lesson (yang masih saya pelajari):** Tidak apa-apa untuk tidak tahu. Tidak apa-apa untuk masih mencari. Yang penting adalah **jangan berhenti bergerak hanya karena tidak yakin ke mana**.
 
 ---
 
-## Narasi Diri (versi 90 detik)
+# Self Charter: Piagam Diri Saya
 
-Saya Armein—insinyur, pendidik, dan penulis—yang percaya bahwa pengetahuan hanya bermakna bila melahirkan kasih dan keadilan. Kekuatan saya adalah **spiritualitas yang membumi, kreativitas rekayasa, dan kegembiraan belajar tanpa henti**, yang saya pakai untuk menyalakan semangat orang lain. 
+Setelah proses refleksi ini, saya membuat **Self Charter**—sebuah komitmen pribadi tentang siapa saya dan bagaimana saya ingin hidup:
 
-Perjalanan saya ditempa oleh pengalaman yang mengajarkan **ketekunan**—mulai dari “berjalan dalam dingin” hingga tuntas menyelesaikan riset komputasi dan merancang sistem sejak awal karier. Keluarga dan komunitas menjadi ekosistem kasih tempat saya belajar bahwa **kebaikan lebih tinggi nilainya daripada sekadar pintar** dan **empati adalah kecerdasan tertinggi**. ([Armein Z. R. Langi in the City of Eden][3])
+## **Vision Statement**
+> Menjadi seseorang yang **menemukan ketenangan dalam kompleksitas**, yang bisa **memahami sistem tanpa kehilangan humanitas**, dan yang **terus belajar meskipun tidak selalu yakin**.
 
-Ke depan, saya ingin terus **mendesain lingkungan belajar dan sistem cerdas** yang memuliakan Tuhan dan membawa berkat nyata—membentuk insan pembelajar yang jujur, adil, dan penuh syukur—seraya menjaga sukacita: *joy of loving and exciting life*. ([Armein Z. R. Langi in the City of Eden][3])
+## **Core Values**
+1. **Kejujuran dengan Diri Sendiri** - Lebih baik mengakui "saya tidak tahu" daripada berpura-pura paham.
+2. **Keseimbangan** - Kerja keras itu penting, tapi jangan sampai lupa hidup.
+3. **Growth Over Perfection** - Progress > Perfection. Better done than perfect.
+
+## **Commitments**
+- Saya berkomitmen untuk **terus belajar**, bahkan ketika tidak yakin ke mana arahnya.
+- Saya berkomitmen untuk **menjaga keseimbangan** antara ambisi dan kewarasan.
+- Saya berkomitmen untuk **tidak menyerah** hanya karena tidak yakin.
 
 ---
 
-## Narasi Diri (versi panjang, 3–5 paragraf)
+# 90-Second Elevator Pitch
 
-**Kini.** Saya mengabdikan diri sebagai insinyur-pendidik yang merancang pengalaman belajar dan sistem cerdas agar manusia bertumbuh utuh: cakap teknis, peka nurani, dan gembira belajar. Kekuatan saya—spiritualitas, kreativitas, suka belajar, keingintahuan, perspektif, keadilan, dan kepemimpinan—mengarahkan cara saya memimpin, mengajar, dan menulis. 
+*Bayangkan saya bertemu dengan seseorang di lift—ada 90 detik untuk menjelaskan siapa saya:*
 
-**Dulu—titik balik.** Saya belajar bahwa langkah kecil yang konsisten mengalahkan rintangan besar: berjalan sendirian dalam dingin—secara harfiah dan metaforis—membentuk ketahanan batin. Di laboratorium, saya menuntaskan perangkat lunak **speech compression** dalam waktu singkat dan merancang **control unit** berbasis FPGA, lalu menulis paper pertama—momen yang mengajarkan disiplin, standar mutu, dan keberanian intelektual. ([Armein Z. R. Langi in the City of Eden][3])
+> "Hi, saya Jonathan, mahasiswa semester 7 STI ITB. Kalau ditanya apa yang saya lakukan, jawabannya adalah **system analysis**—saya membantu orang memahami bagaimana sistem bekerja dan bagaimana membuatnya lebih baik.
+>
+> Tapi kalau ditanya apa yang saya **sebenarnya** lakukan, jawabannya lebih kompleks. Saya menghabiskan waktu untuk **memetakan chaos**. Entah itu sistem informasi, proses bisnis, atau bahkan cara berpikir saya sendiri—saya suka menemukan pola di tengah kekacauan.
+>
+> Kenapa ini penting? Karena di dunia yang semakin kompleks, kita butuh orang yang bisa **melihat big picture tanpa kehilangan detail**. Dan itu adalah sesuatu yang saya coba kuasai.
+>
+> Saya tidak bilang saya sudah expert. Saya masih belajar. Tapi saya punya sesuatu yang tidak bisa diajarkan: **saya nyaman dengan ketidakpastian**. Dan di era yang berubah cepat seperti sekarang, itu adalah skill yang underrated.
+>
+> So, kalau kamu butuh seseorang yang bisa **memecahkan masalah yang orang lain bahkan tidak tahu ada**, saya mungkin orang yang tepat."
 
-**Nilai yang saya pegang.** Saya memilih **kebaikan** di atas sekadar **kepintaran**, menempatkan **empati** sebagai kecerdasan tertinggi, dan mengejar **kebenaran sebagai realitas yang sesungguhnya**. Keluarga besar meneguhkan panggilan itu—rumah sebagai laboratorium kasih dan keadilan. ([Armein Z. R. Langi in the City of Eden][6])
+---
 
-**Ke depan.** Dengan kerangka **My SHAPE**, saya terus menyelaraskan kekuatan, nilai, keterampilan, gaya kerja, dan pengalaman untuk merancang program, riset, dan karya tulis yang berdampak—agar teknologi menjadi pelayan kemanusiaan, dan setiap ruang belajar menjadi *City of Eden*: tempat sukacita, kasih, dan keunggulan bertemu. 
+# Penutup: What I Learned
 
+Proses My SHAPE ini bukan tentang menemukan jawaban final. Ini tentang **memulai percakapan dengan diri sendiri**—percakapan yang seharusnya sudah dimulai sejak lama.
 
+Saya belajar bahwa:
+- **Saya tidak harus punya semua jawaban sekarang.**
+- **Passion tidak harus berbentuk excitement—kadang itu berbentuk ketenangan.**
+- **Abilities saya mungkin tidak dramatis, tapi mereka cukup untuk membuat perbedaan.**
+- **Personality saya bukan sesuatu yang harus "diperbaiki"—itu hanya cara saya bekerja.**
+- **Experience saya, meskipun tidak spektakuler, membentuk siapa saya hari ini.**
 
-[1]: https://azrl.wordpress.com/2010/04/06/empati-kecerdasan-tertinggi/?utm_source=chatgpt.com "Empati: Kecerdasan Tertinggi | Armein Z. R. Langi in the City of Eden"
-[2]: https://azrl.wordpress.com/2008/05/25/the-journey-4/?utm_source=chatgpt.com "The Journey (4) - Armein Z. R. Langi in the City of Eden"
-[3]: https://azrl.wordpress.com/?utm_source=chatgpt.com "Armein Z. R. Langi in the City of Eden | Joy of loving and ..."
-[4]: https://azrl.wordpress.com/2008/12/01/family/?utm_source=chatgpt.com "Family | Armein Z. R. Langi in the City of Eden"
-[5]: https://azrl.wordpress.com/2008/07/29/caltech/?utm_source=chatgpt.com "Caltech | Armein Z. R. Langi in the City of Eden"
-[6]: https://azrl.wordpress.com/2010/01/09/on-being-nice/?utm_source=chatgpt.com "On Being Nice | Armein Z. R. Langi in the City of Eden"
+Dan yang paling penting: **Saya masih dalam proses. Dan itu okay.**
+
+---
+
+*"The secret of happiness is to see all the marvels of the world, and never to forget the drops of oil on the spoon."*  
+— Paulo Coelho, The Alchemist
+
+Dan mungkin, secret of self-discovery adalah menerima bahwa **kita akan selalu dalam proses**—dan itu bukan bug, itu adalah feature.
