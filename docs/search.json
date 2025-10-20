@@ -131,7 +131,18 @@
     "href": "My_Song_for_You/index.html",
     "title": "2  Spiral",
     "section": "",
-    "text": "2.1 Pengantar\nIni adalah lagu untuk seseorang yang belum (atau mungkin tidak akan pernah) saya temui. Sebuah cerita tentang harapan yang mungkin absurd, namun tetap terasa nyata di kepala.\nTerinspirasi dari gaya musik TV Girl dan Radiohead—melankolis, nostalgia, dan sedikit ironis.",
+    "text": "2.1 Pengantar\nIni adalah lagu tentang limerence—obsesi romantis yang sebenarnya adalah otak mencari dopamine hit. Bukan tentang cinta, tapi tentang addiction. Tentang knowing better tapi not doing better. Tentang memilih untuk spiral daripada menghadapi kehidupan yang kosong.\nTerinspirasi dari gaya musik TV Girl dan Radiohead—melankolis, self-aware, dan brutally honest.",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>UTS-2 My Songs for You</span>"
+    ]
+  },
+  {
+    "objectID": "My_Song_for_You/index.html#pengantar",
+    "href": "My_Song_for_You/index.html#pengantar",
+    "title": "2  Spiral",
+    "section": "",
+    "text": "2.1.1 🎵 Listen to “Spiral”",
     "crumbs": [
       "Ujian Tengah Semester",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>UTS-2 My Songs for You</span>"
@@ -285,7 +296,7 @@
     "href": "My_Stories_for_You/index.html#refleksi",
     "title": "3  Cerita-Cerita yang Membentuk Saya",
     "section": "5.5 Refleksi",
-    "text": "5.5 Refleksi\nSekarang, setiap kali saya merasa overwhelmed dengan tugas atau nilai, saya mencoba untuk berhenti sejenak. Melihat sekeliling. Mengingat bahwa hidup bukan hanya tentang “drops of oil” yang harus dijaga, tapi juga tentang “marvels of the world” yang harus dinikmati.\n\n\n\n\nITB - reminder untuk tidak melupakan keindahan di tengah kesibukan",
+    "text": "5.5 Refleksi\nSekarang, setiap kali saya merasa overwhelmed dengan tugas atau nilai, saya mencoba untuk berhenti sejenak. Melihat sekeliling. Mengingat bahwa hidup bukan hanya tentang “drops of oil” yang harus dijaga, tapi juga tentang “marvels of the world” yang harus dinikmati.\n\n\n\n\nSudut kampus ITB yang mengingatkan untuk tetap menikmati perjalanan",
     "crumbs": [
       "Ujian Tengah Semester",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>UTS-3 My Stories for You</span>"
@@ -340,7 +351,7 @@
     "href": "My_Shapes/index.html#h---heart-the-paradox-of-passion",
     "title": "4  My SHAPE: Menemukan Pola dalam Kekacauan",
     "section": "5.2 H - Heart: The Paradox of Passion",
-    "text": "5.2 H - Heart: The Paradox of Passion\nIni bagian paling sulit untuk dijawab, karena jujur saja, saya tidak yakin saya punya passion yang jelas.\nKetika saya memilih Sistem dan Teknologi Informasi, alasannya pragmatis: kerja remote, fleksibilitas, gaji lumayan. Bukan karena saya “passionate” tentang IT. Dan sampai sekarang, saya masih bertanya-tanya apakah saya di jalur yang benar.\nTapi kemudian saya menyadari sesuatu: Passion itu tidak selalu berbentuk “I love this so much I could do it forever.” Kadang passion itu berbentuk “This makes sense to me when nothing else does.”\nContoh konkret: Minggu lalu, saya menghabiskan 2 jam membuat sequence diagram untuk sistem pendaftaran mahasiswa. Apakah itu exciting? Tidak. Apakah saya enjoy? Ya, dalam cara yang aneh.\nKetika saya berhasil memetakan flow dari “mahasiswa klik tombol daftar” sampai “data tersimpan di database” dengan semua edge cases-nya, ada rasa tenang yang tidak saya dapatkan dari hal lain. Seperti puzzle yang akhirnya terpecahkan.\n\n\n\n\nContoh diagram UML yang saya buat - ini adalah cara saya memahami sistem\n\n\nDiagram seperti ini yang membuat saya merasa tenang—chaos yang berubah menjadi struktur.\n\nMungkin itu bukan passion dalam pengertian tradisional. Tapi itu cukup untuk sekarang.\nInsight: Passion tidak harus dramatis. Kadang passion adalah sesuatu yang membuat kamu merasa less lost, bukan more excited.",
+    "text": "5.2 H - Heart: The Paradox of Passion\nIni bagian paling sulit untuk dijawab, karena jujur saja, saya tidak yakin saya punya passion yang jelas.\nKetika saya memilih Sistem dan Teknologi Informasi, alasannya pragmatis: kerja remote, fleksibilitas, gaji lumayan. Bukan karena saya “passionate” tentang IT. Dan sampai sekarang, saya masih bertanya-tanya apakah saya di jalur yang benar.\nTapi kemudian saya menyadari sesuatu: Passion itu tidak selalu berbentuk “I love this so much I could do it forever.” Kadang passion itu berbentuk “This makes sense to me when nothing else does.”\nContoh konkret: Minggu lalu, saya menghabiskan 2 jam membuat sequence diagram untuk sistem pendaftaran mahasiswa. Apakah itu exciting? Tidak. Apakah saya enjoy? Ya, dalam cara yang aneh.\nKetika saya berhasil memetakan flow dari “mahasiswa klik tombol daftar” sampai “data tersimpan di database” dengan semua edge cases-nya, ada rasa tenang yang tidak saya dapatkan dari hal lain. Seperti puzzle yang akhirnya terpecahkan.\n\n\n\n\nActivity diagram sistem feedback/help center - memetakan alur dari user request sampai solusi tersampaikan\n\n\nDiagram seperti ini yang membuat saya merasa tenang—chaos yang berubah menjadi struktur yang bisa dipahami.\n\nMungkin itu bukan passion dalam pengertian tradisional. Tapi itu cukup untuk sekarang.\nInsight: Passion tidak harus dramatis. Kadang passion adalah sesuatu yang membuat kamu merasa less lost, bukan more excited.",
     "crumbs": [
       "Ujian Tengah Semester",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>UTS-4 My SHAPE</span>"
