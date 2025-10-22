@@ -23,7 +23,7 @@ Dan kemudian, ada tugas ini. **My SHAPE.** Sebuah framework untuk memahami diri 
 - **P**ersonality (Kepribadian)
 - **E**xperience (Pengalaman Hidup)
 
-Awalnya, saya pikir ini hanya formalitas—mengisi lembar kerja, menulis jawaban yang "benar", selesai. Tapi ternyata, proses ini memaksa saya untuk jujur dengan diri sendiri. Dan kejujuran itu... tidak selalu menyenangkan.
+Awalnya, saya pikir ini hanya formalitas: mengisi lembar kerja, menulis jawaban yang "benar", selesai. Tapi ternyata, proses ini memaksa saya untuk jujur dengan diri sendiri. Dan kejujuran itu... tidak selalu menyenangkan.
 
 ---
 
@@ -37,7 +37,7 @@ Sejak kecil, saya selalu bertanya: *Kenapa ini bekerja seperti ini? Bagaimana ka
 
 Di kuliah, ini menjadi lebih jelas. Ketika teman-teman saya merasa overwhelmed dengan kompleksitas sistem informasi, saya justru merasa... **nyaman**. Bukan karena saya lebih pintar, tapi karena saya menikmati proses **memetakan chaos menjadi struktur**.
 
-UML diagrams? Sequence diagrams? System flowcharts? Itu bukan tugas yang membosankan buat saya—itu adalah cara saya **memahami dunia**.
+UML diagrams? Sequence diagrams? System flowcharts? Itu bukan tugas yang membosankan buat saya: itu adalah cara saya **memahami dunia**.
 
 **Insight:** Saya baru menyadari bahwa "karunia" saya bukan tentang menjadi jenius, tapi tentang **menemukan ketenangan dalam kompleksitas**. Sementara orang lain stres dengan terlalu banyak informasi, saya stres ketika informasi terlalu sedikit.
 
@@ -58,7 +58,7 @@ Ketika saya berhasil memetakan flow dari "mahasiswa klik tombol daftar" sampai "
 ::: {style="margin: 1.5rem 0;"}
 ![Activity diagram sistem feedback/help center - memetakan alur dari user request sampai solusi tersampaikan](../images/uml.jpg){width=100% style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"}
 
-*Diagram seperti ini yang membuat saya merasa tenang—chaos yang berubah menjadi struktur yang bisa dipahami.*
+*Diagram seperti ini yang membuat saya merasa tenang: chaos yang berubah menjadi struktur yang bisa dipahami.*
 :::
 
 Mungkin itu bukan passion dalam pengertian tradisional. Tapi itu cukup untuk sekarang.
@@ -79,7 +79,7 @@ Saya bisa memecah masalah kompleks menjadi bagian-bagian yang bisa diproses.
 ### 2. **Technical Documentation**
 Saya bisa menjelaskan konsep teknis dengan cara yang (relatif) mudah dipahami. 
 
-**Contoh:** Waktu presentasi system design, dosen tanya "Kenapa pakai microservices architecture?" Kebanyakan kelompok jawab dengan jargon. Saya jawab: "Bayangin kalau rumah kita cuma punya satu kamar mandi. Kalau rusak, semua orang ga bisa mandi. Microservices itu kayak setiap kamar punya kamar mandi sendiri—kalau satu rusak, yang lain tetap jalan." He nodded. Jargon vs analogy.
+**Contoh:** Waktu presentasi system design, dosen tanya "Kenapa pakai microservices architecture?" Kebanyakan kelompok jawab dengan jargon. Saya jawab: "Bayangin kalau rumah kita cuma punya satu kamar mandi. Kalau rusak, semua orang ga bisa mandi. Microservices itu kayak setiap kamar punya kamar mandi sendiri: kalau satu rusak, yang lain tetap jalan." He nodded. Jargon vs analogy.
 
 ### 3. **Learning New Systems Quickly**
 Saya tidak expert di satu hal tertentu, tapi saya cepat adaptasi ke tool atau framework baru. 
@@ -89,7 +89,7 @@ Saya tidak expert di satu hal tertentu, tapi saya cepat adaptasi ke tool atau fr
 ### 4. **Critical Analysis**
 Saya bisa lihat gap, inconsistency, dan potential problem dalam sebuah sistem. 
 
-**Contoh:** Di requirement document yang dikasih client, ada statement: "User bisa edit data kapan saja." Saya langsung notice: "Wait, kalau user A dan user B edit data yang sama simultaneously, gimana? Ada locking mechanism? Atau last-write-wins?" Ternyata mereka belum kepikiran. That's my thing—spotting the edge cases.
+**Contoh:** Di requirement document yang dikasih client, ada statement: "User bisa edit data kapan saja." Saya langsung notice: "Wait, kalau user A dan user B edit data yang sama simultaneously, gimana? Ada locking mechanism? Atau last-write-wins?" Ternyata mereka belum kepikiran. That's my thing: spotting the edge cases.
 
 **Yang TIDAK saya kuasai:**
 - Public speaking (still learning)
@@ -105,7 +105,7 @@ Saya bisa lihat gap, inconsistency, dan potential problem dalam sebuah sistem.
 Kalau ada satu kata yang menggambarkan kepribadian saya, itu adalah: **Introverted, detail-oriented, dan chronically overthinking**.
 
 ### **Introvert, But Not Anti-Social**
-Saya tidak benci orang. Saya hanya butuh waktu sendiri untuk recharge. Social interaction itu seperti sprint—saya bisa lakukan, tapi saya tidak bisa lari marathon.
+Saya tidak benci orang. Saya hanya butuh waktu sendiri untuk recharge. Social interaction itu seperti sprint: saya bisa lakukan, tapi saya tidak bisa lari marathon.
 
 ### **Detail-Oriented (To a Fault)**
 Saya bisa menghabiskan 30 menit untuk memilih font di presentasi. Apakah itu productive? Tidak. Apakah saya akan tetap melakukannya? Ya.
@@ -140,7 +140,7 @@ Apakah saya ingin jadi System Analyst? Mungkin. Apakah saya ingin kerja di corpo
 
 # Self Charter: Piagam Diri Saya
 
-Setelah proses refleksi ini, saya membuat **Self Charter**—sebuah komitmen pribadi tentang siapa saya dan bagaimana saya ingin hidup:
+Setelah proses refleksi ini, saya membuat **Self Charter**: sebuah komitmen pribadi tentang siapa saya dan bagaimana saya ingin hidup:
 
 ## **Vision Statement**
 > Menjadi seseorang yang **menemukan ketenangan dalam kompleksitas**, yang bisa **memahami sistem tanpa kehilangan humanitas**, dan yang **terus belajar meskipun tidak selalu yakin**.
@@ -159,11 +159,11 @@ Setelah proses refleksi ini, saya membuat **Self Charter**—sebuah komitmen pri
 
 # 90-Second Elevator Pitch
 
-*Bayangkan saya bertemu dengan seseorang di lift—ada 90 detik untuk menjelaskan siapa saya:*
+*Bayangkan saya bertemu dengan seseorang di lift: ada 90 detik untuk menjelaskan siapa saya:*
 
-> "Hi, saya Jonathan, mahasiswa semester 7 STI ITB. Kalau ditanya apa yang saya lakukan, jawabannya adalah **system analysis**—saya membantu orang memahami bagaimana sistem bekerja dan bagaimana membuatnya lebih baik.
+> "Hi, saya Jonathan, mahasiswa semester 7 STI ITB. Kalau ditanya apa yang saya lakukan, jawabannya adalah **system analysis**: saya membantu orang memahami bagaimana sistem bekerja dan bagaimana membuatnya lebih baik.
 >
-> Tapi kalau ditanya apa yang saya **sebenarnya** lakukan, jawabannya lebih kompleks. Saya menghabiskan waktu untuk **memetakan chaos**. Entah itu sistem informasi, proses bisnis, atau bahkan cara berpikir saya sendiri—saya suka menemukan pola di tengah kekacauan.
+> Tapi kalau ditanya apa yang saya **sebenarnya** lakukan, jawabannya lebih kompleks. Saya menghabiskan waktu untuk **memetakan chaos**. Entah itu sistem informasi, proses bisnis, atau bahkan cara berpikir saya sendiri: saya suka menemukan pola di tengah kekacauan.
 >
 > Kenapa ini penting? Karena di dunia yang semakin kompleks, kita butuh orang yang bisa **melihat big picture tanpa kehilangan detail**. Dan itu adalah sesuatu yang saya coba kuasai.
 >
@@ -175,13 +175,13 @@ Setelah proses refleksi ini, saya membuat **Self Charter**—sebuah komitmen pri
 
 # Penutup: What I Learned
 
-Proses My SHAPE ini bukan tentang menemukan jawaban final. Ini tentang **memulai percakapan dengan diri sendiri**—percakapan yang seharusnya sudah dimulai sejak lama.
+Proses My SHAPE ini bukan tentang menemukan jawaban final. Ini tentang **memulai percakapan dengan diri sendiri**: percakapan yang seharusnya sudah dimulai sejak lama.
 
 Saya belajar bahwa:
 - **Saya tidak harus punya semua jawaban sekarang.**
-- **Passion tidak harus berbentuk excitement—kadang itu berbentuk ketenangan.**
+- **Passion tidak harus berbentuk excitement: kadang itu berbentuk ketenangan.**
 - **Abilities saya mungkin tidak dramatis, tapi mereka cukup untuk membuat perbedaan.**
-- **Personality saya bukan sesuatu yang harus "diperbaiki"—itu hanya cara saya bekerja.**
+- **Personality saya bukan sesuatu yang harus "diperbaiki": itu hanya cara saya bekerja.**
 - **Experience saya, meskipun tidak spektakuler, membentuk siapa saya hari ini.**
 
 Dan yang paling penting: **Saya masih dalam proses. Dan itu okay.**
@@ -189,6 +189,6 @@ Dan yang paling penting: **Saya masih dalam proses. Dan itu okay.**
 ---
 
 *"The secret of happiness is to see all the marvels of the world, and never to forget the drops of oil on the spoon."*  
-— Paulo Coelho, The Alchemist
+:  Paulo Coelho, The Alchemist
 
-Dan mungkin, secret of self-discovery adalah menerima bahwa **kita akan selalu dalam proses**—dan itu bukan bug, itu adalah feature.
+Dan mungkin, secret of self-discovery adalah menerima bahwa **kita akan selalu dalam proses**: dan itu bukan bug, itu adalah feature.

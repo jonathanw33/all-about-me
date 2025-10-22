@@ -21,7 +21,7 @@ Berikut adalah dua cerita dari perjalanan saya yang mungkin terdengar biasa, tap
 
 **15 April 2022, Pukul 15.00 WIB.**
 
-Saya duduk di kamar, laptop di pangkuan, refresh halaman pengumuman SNMPTN setiap 30 detik. Jantung berdegup lebih cepat dari biasanya. Tangan sedikit berkeringat—klise, tapi itulah yang terjadi.
+Saya duduk di kamar, laptop di pangkuan, refresh halaman pengumuman SNMPTN setiap 30 detik. Jantung berdegup lebih cepat dari biasanya. Tangan sedikit berkeringat: klise, tapi itulah yang terjadi.
 
 Dan kemudian, hasilnya keluar. Saya scroll ke bawah. Cari nama saya.
 
@@ -64,7 +64,7 @@ Saya belajar dengan fokus. Tidak berlebihan, tapi konsisten. Dan yang paling pen
 
 Ketika pengumuman SBMPTN keluar, saya hampir tidak percaya. **Lolos ITB, Sistem dan Teknologi Informasi.**
 
-Rasanya seperti semua yang saya alami—kekecewaan, kesedihan, kerja keras—akhirnya membuahkan hasil. Tapi yang lebih penting dari itu, saya belajar sesuatu yang sangat berharga:
+Rasanya seperti semua yang saya alami: kekecewaan, kesedihan, kerja keras: akhirnya membuahkan hasil. Tapi yang lebih penting dari itu, saya belajar sesuatu yang sangat berharga:
 
 > **Tidak ada salahnya mencoba, bahkan ketika peluangnya kecil.**
 
@@ -90,7 +90,7 @@ Saya berjalan keluar gedung, masih terbayang-bayang soal yang tidak bisa saya ja
 
 Tapi kemudian, saya berhenti. Literally berhenti berjalan.
 
-Di depan saya, ada taman kecil dengan beberapa bangku. Pohon-pohon besar bergoyang tertiup angin sore. Cahaya matahari mulai keemasan—golden hour yang orang-orang suka foto. Di sebelah kiri, ada mahasiswa duduk ngobrol sambil tertawa. Di kanan, ada yang main gitar dengan headset di telinga, sepertinya latihan sendiri.
+Di depan saya, ada taman kecil dengan beberapa bangku. Pohon-pohon besar bergoyang tertiup angin sore. Cahaya matahari mulai keemasan: golden hour yang orang-orang suka foto. Di sebelah kiri, ada mahasiswa duduk ngobrol sambil tertawa. Di kanan, ada yang main gitar dengan headset di telinga, sepertinya latihan sendiri.
 
 ::: {style="margin: 2rem 0;"}
 ![Kampus ITB - tempat yang akhirnya saya sadari keindahannya](../images/itb1.jpg){width=100% style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"}
@@ -100,7 +100,7 @@ Dan tiba-tiba, saya sadar: **ITB itu indah.**
 
 Bukan dalam arti "kampus dengan gedung bagus" atau "view yang instagramable". Tapi dalam arti **kehidupan terus berjalan, meskipun saya baru saja gagal kuis**.
 
-Orang-orang di sekitar saya tidak tahu—dan tidak peduli—bahwa saya baru saja merasa bodoh karena tidak bisa jawab soal Fisika. Mereka punya masalah mereka sendiri. Mereka punya kehidupan mereka sendiri. Dan somehow, itu... menenangkan.
+Orang-orang di sekitar saya tidak tahu: dan tidak peduli: bahwa saya baru saja merasa bodoh karena tidak bisa jawab soal Fisika. Mereka punya masalah mereka sendiri. Mereka punya kehidupan mereka sendiri. Dan somehow, itu... menenangkan.
 
 Saya duduk di salah satu bangku. Melihat ke atas. Langit masih sama birunya. Awan masih bergerak. Dunia tidak berhenti karena saya gagal satu kuis.
 
@@ -118,7 +118,7 @@ Artinya, kebahagiaan ada pada **keseimbangan**: menikmati keindahan dunia, tapi 
 
 ## Pelajaran yang Saya Dapat
 
-Selama dua semester, saya terlalu fokus pada "sendok"—nilai, tugas, ujian. Saya lupa untuk melihat "istana"—keindahan kampus, teman-teman, pengalaman belajar itu sendiri.
+Selama dua semester, saya terlalu fokus pada "sendok": nilai, tugas, ujian. Saya lupa untuk melihat "istana": keindahan kampus, teman-teman, pengalaman belajar itu sendiri.
 
 Hari itu, setelah kuis Fisika yang buruk, saya akhirnya menyadarinya. ITB bukan hanya tentang akademik. ITB adalah tentang **proses**. Tentang belajar, jatuh, bangkit, dan menikmati perjalanan.
 
