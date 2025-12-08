@@ -1,0 +1,799 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jonathan Wiguna",
+    "section": "",
+    "text": "Selamat Datang",
+    "crumbs": [
+      "Selamat Datang"
+    ]
+  },
+  {
+    "objectID": "index.html#portfolio-komunikasi-interpersonal-dan-publik",
+    "href": "index.html#portfolio-komunikasi-interpersonal-dan-publik",
+    "title": "Jonathan Wiguna",
+    "section": "Portfolio Komunikasi Interpersonal dan Publik",
+    "text": "Portfolio Komunikasi Interpersonal dan Publik\nJonathan Wiguna - Sistem dan Teknologi Informasi ITB\nMata Kuliah II-2100",
+    "crumbs": [
+      "Selamat Datang"
+    ]
+  },
+  {
+    "objectID": "index.html#tentang-portfolio-ini",
+    "href": "index.html#tentang-portfolio-ini",
+    "title": "Jonathan Wiguna",
+    "section": "Tentang Portfolio Ini",
+    "text": "Tentang Portfolio Ini\nPortfolio ini berisi dokumentasi tugas dan refleksi untuk mata kuliah Komunikasi Interpersonal dan Publik. Gunakan sidebar di sebelah kiri untuk navigasi.",
+    "crumbs": [
+      "Selamat Datang"
+    ]
+  },
+  {
+    "objectID": "index.html#ujian-tengah-semester-uts",
+    "href": "index.html#ujian-tengah-semester-uts",
+    "title": "Jonathan Wiguna",
+    "section": "Ujian Tengah Semester (UTS)",
+    "text": "Ujian Tengah Semester (UTS)\n\nUTS-1: All About Me\nPerkenalan diri dan latar belakang saya sebagai mahasiswa STI ITB.\nSELESAI\n\n\nUTS-2: My Songs for You - “Spiral”\nSebuah lagu tentang limerence dan dopamine addiction.\nSELESAI\n\n\nUTS-3: My Stories for You\nDua cerita inspiratif: kegagalan SNMPTN dan menyadari keindahan ITB.\nSELESAI\n\n\nUTS-4: My SHAPE\nAnalisis diri melalui framework SHAPE (Spiritual gifts, Heart, Abilities, Personality, Experience).\nSELESAI\n\n\nUTS-5: My Personal Reviews\nTelaahan pesan personal berdasarkan rubrik CPMK.\nCOMING SOON",
+    "crumbs": [
+      "Selamat Datang"
+    ]
+  },
+  {
+    "objectID": "index.html#ujian-akhir-semester-uas",
+    "href": "index.html#ujian-akhir-semester-uas",
+    "title": "Jonathan Wiguna",
+    "section": "Ujian Akhir Semester (UAS)",
+    "text": "Ujian Akhir Semester (UAS)\n\nUAS-1: My Concepts\nCOMING SOON\n\n\nUAS-2: My Opinions\nCOMING SOON\n\n\nUAS-3: My Innovations\nCOMING SOON\n\n\nUAS-4: My Knowledge\nCOMING SOON\n\n\nUAS-5: My Professional Reviews\nCOMING SOON\n\n\n\n“The secret of happiness is to see all the marvels of the world, and never to forget the drops of oil on the spoon.”\n— Paulo Coelho, The Alchemist",
+    "crumbs": [
+      "Selamat Datang"
+    ]
+  },
+  {
+    "objectID": "All_About_me/index.html",
+    "href": "All_About_me/index.html",
+    "title": "1  Tentang Saya",
+    "section": "",
+    "text": "1.1 Semester 7, Pukul 3 Pagi, dan Satu Pertanyaan\nIni adalah minggu ketiga semester 7. Saya baru saja selesai debugging kode yang tidak jalan selama 2 jam: ternyata hanya karena typo. Sambil menatap layar laptop, saya bertanya pada diri sendiri: “Kenapa saya ada di sini?”\nBukan dalam konteks filosofis yang mendalam. Maksud saya, kenapa saya memilih Sistem dan Teknologi Informasi? Kenapa saya menghabiskan Jumat malam untuk memikirkan sequence diagram? Kenapa saya merasa lebih nyaman dengan UML daripada dengan orang?\nDan kemudian saya menyadari: mungkin justru karena pertanyaan-pertanyaan ini, saya ada di sini.",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>UTS-1 All About Me</span>"
+    ]
+  },
+  {
+    "objectID": "All_About_me/index.html#siapa-saya",
+    "href": "All_About_me/index.html#siapa-saya",
+    "title": "1  Tentang Saya",
+    "section": "1.2 Siapa Saya?",
+    "text": "1.2 Siapa Saya?\nNama saya Jonathan Wiguna. Saya mahasiswa semester 7 Sistem dan Teknologi Informasi di Institut Teknologi Bandung, lahir di Indonesia tahun 2004.\nKalau ditanya “apa passion kamu?”, saya tidak punya jawaban dramatis. Saya tidak bangun pagi dengan excited ingin coding. Saya tidak memimpikan menjadi next Steve Jobs. Tapi ada satu hal yang konsisten: saya merasa tenang ketika berhasil memetakan sesuatu yang chaos menjadi struktur yang masuk akal.\nItulah kenapa saya tertarik dengan System Analysis. Bukan karena saya jenius memahami teknologi, tapi karena saya menikmati proses memecah kompleksitas menjadi bagian-bagian yang bisa dipahami.\nUML diagrams, flowcharts, system requirements: bagi saya, itu bukan tugas yang membosankan. Itu adalah cara saya memahami bagaimana sesuatu bekerja.",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>UTS-1 All About Me</span>"
+    ]
+  },
+  {
+    "objectID": "All_About_me/index.html#bagaimana-saya-sampai-di-sini",
+    "href": "All_About_me/index.html#bagaimana-saya-sampai-di-sini",
+    "title": "1  Tentang Saya",
+    "section": "1.3 Bagaimana Saya Sampai di Sini?",
+    "text": "1.3 Bagaimana Saya Sampai di Sini?\nAwalnya, saya memilih jurusan ini karena alasan yang pragmatis: kerja remote, fleksibilitas, prospek karir yang lumayan. Bukan karena cinta pada teknologi, tapi karena saya ingin kebebasan.\nTapi setelah 3.5 tahun, saya menyadari bahwa kebebasan tanpa arah itu sama frustrasinya dengan terjebak di jalur yang salah. Dan di situlah saya sekarang: masih mencari arah, tapi setidaknya sudah tahu apa yang saya nikmati.\nDi era AI seperti sekarang, saya juga mulai mengeksplorasi bagaimana teknologi AI bisa diintegrasikan dalam analisis sistem dan automasi proses bisnis. Masih banyak yang perlu dipelajari, tapi setidaknya ada sesuatu yang membuat saya penasaran.",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>UTS-1 All About Me</span>"
+    ]
+  },
+  {
+    "objectID": "All_About_me/index.html#kepribadian-introvert-yang-overthinking",
+    "href": "All_About_me/index.html#kepribadian-introvert-yang-overthinking",
+    "title": "1  Tentang Saya",
+    "section": "1.4 Kepribadian: Introvert yang Overthinking",
+    "text": "1.4 Kepribadian: Introvert yang Overthinking\nSaya adalah tipe orang yang introverted dan detail-oriented sampai ke level yang kadang tidak produktif. Contoh: saya bisa menghabiskan 30 menit memilih font untuk presentasi. Apakah itu penting? Tidak. Apakah saya akan tetap melakukannya? Ya.\nSocial interaction bagi saya seperti sprint: saya bisa melakukannya, tapi saya tidak bisa lari marathon. Saya butuh waktu sendiri untuk recharge. Dan itu bukan karena saya benci orang, tapi karena otak saya butuh quiet time untuk process.\nSaya juga overthinker yang self-aware. Artinya, saya tahu saya overthink, saya tahu itu tidak produktif, tapi saya tetap melakukannya. Setidaknya kesadaran ini membantu saya manage: kadang.\nDan ya, saya tahu ini semua terdengar seperti excuse untuk being socially awkward. Tapi daripada pura-pura extroverted, lebih baik jujur tentang siapa saya.",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>UTS-1 All About Me</span>"
+    ]
+  },
+  {
+    "objectID": "All_About_me/index.html#apa-yang-saya-bisa-tawarkan",
+    "href": "All_About_me/index.html#apa-yang-saya-bisa-tawarkan",
+    "title": "1  Tentang Saya",
+    "section": "1.5 Apa yang Saya Bisa Tawarkan?",
+    "text": "1.5 Apa yang Saya Bisa Tawarkan?\nSaya tidak bilang saya jenius. Saya tidak bilang saya expert. Tapi ada beberapa hal yang saya cukup kompeten lakukan:\n\n1.5.1 1. Logical Reasoning\nSaya bisa memecah masalah kompleks menjadi bagian-bagian yang bisa diproses. Ketika orang lain overwhelmed dengan banyak informasi, saya bisa melihat pola.\n\n\n1.5.2 2. Technical Documentation\nSaya bisa menjelaskan konsep teknis dengan cara yang (relatif) mudah dipahami. UML, flowchart, requirements document: ini adalah bahasa kedua saya.\n\n\n1.5.3 3. Learning New Systems Quickly\nSaya bukan expert di satu hal, tapi saya cepat adaptasi ke tool atau framework baru. Jack of all trades, master of none: tapi kadang itu yang dibutuhkan.\n\n\n1.5.4 4. Spotting Gaps\nSaya bisa lihat inconsistency, potential problem, dan missing pieces dalam sebuah sistem. Bukan karena saya pesimis, tapi karena otak saya wired untuk notice itu.",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>UTS-1 All About Me</span>"
+    ]
+  },
+  {
+    "objectID": "All_About_me/index.html#apa-yang-masih-saya-cari",
+    "href": "All_About_me/index.html#apa-yang-masih-saya-cari",
+    "title": "1  Tentang Saya",
+    "section": "1.6 Apa yang Masih Saya Cari?",
+    "text": "1.6 Apa yang Masih Saya Cari?\nJujur? Saya masih tidak 100% yakin dengan arah karir saya.\nApakah saya ingin jadi System Analyst? Mungkin. Apakah saya ingin kerja di corporate? Mungkin tidak. Apakah saya tahu apa alternatifnya? Juga tidak.\nTapi saya belajar bahwa tidak apa-apa untuk tidak tahu. Yang penting adalah jangan berhenti bergerak hanya karena tidak yakin ke mana.\nSemester 7 ini terasa seperti liminal space: bukan lagi junior, belum benar-benar senior, dan deadline skripsi sudah mulai terlihat di horizon. Tapi alih-alih panik, saya mencoba menerima bahwa uncertainty itu bagian dari proses.",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>UTS-1 All About Me</span>"
+    ]
+  },
+  {
+    "objectID": "All_About_me/index.html#penutup-work-in-progress",
+    "href": "All_About_me/index.html#penutup-work-in-progress",
+    "title": "1  Tentang Saya",
+    "section": "1.7 Penutup: Work in Progress",
+    "text": "1.7 Penutup: Work in Progress\nKalau ada satu hal yang ingin saya sampaikan dari “All About Me” ini, itu adalah: saya masih dalam proses memahami siapa saya.\nSaya bukan orang yang punya semua jawaban. Saya bukan orang yang punya passion yang jelas sejak awal. Saya hanya seseorang yang mencoba memahami dunia: satu diagram, satu sistem, satu pertanyaan pada satu waktu.\nDan mungkin, itu sudah cukup untuk sekarang.\n\n\n“The secret of happiness is to see all the marvels of the world, and never to forget the drops of oil on the spoon.”\n\nPaulo Coelho, The Alchemist",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>UTS-1 All About Me</span>"
+    ]
+  },
+  {
+    "objectID": "My_Song_for_You/index.html",
+    "href": "My_Song_for_You/index.html",
+    "title": "2  Spiral",
+    "section": "",
+    "text": "2.1 Pengantar\nIni adalah lagu tentang limerence—obsesi romantis yang sebenarnya adalah otak mencari dopamine hit. Bukan tentang cinta, tapi tentang addiction. Tentang knowing better tapi not doing better. Tentang memilih untuk spiral daripada menghadapi kehidupan yang kosong.\nTerinspirasi dari gaya musik TV Girl dan Radiohead—melankolis, self-aware, dan brutally honest.",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>UTS-2 My Songs for You</span>"
+    ]
+  },
+  {
+    "objectID": "My_Song_for_You/index.html#pengantar",
+    "href": "My_Song_for_You/index.html#pengantar",
+    "title": "2  Spiral",
+    "section": "",
+    "text": "2.1.1 🎵 Listen to “Spiral”",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>UTS-2 My Songs for You</span>"
+    ]
+  },
+  {
+    "objectID": "My_Song_for_You/index.html#spiral",
+    "href": "My_Song_for_You/index.html#spiral",
+    "title": "2  Spiral",
+    "section": "2.2 “Spiral”",
+    "text": "2.2 “Spiral”\n(Verse 1) Met you once but you’re in my head Every hour checking what you said Cut my hair, changed the clothes I wear All to prove I could be who you are\n(Chorus) I’m chasing dopamine in your eyes Building castles out of empty skies You don’t know me but I know your smile Been running this same race since I was a child\n(Verse 2) They say it’s limerence, not love Trading one addiction for the drug I trace your pictures on my phone screen While my whole life feels like a bad dream My mind’s deteriorating at a faster rate But it’s the only thing that’s feeling great\n(Chorus) I’m chasing dopamine in your eyes Building castles out of empty skies You don’t know me but I know your smile Been running this same race since I was a child\n(Bridge) Moving goalposts, moving ground Every time I turn around “Not good enough, not rich, not ready yet” But the real fear is I might forget What it’s like when my mind is empty What it’s like to just be free (…but who wants to be free?)\n(Verse 3) Maybe I’m not ready for anyone This whole obsession’s barely even begun So yeah, I’m gonna send that text today There’s no point trying to let it fade away\n(Final Chorus) I’ll keep chasing dopamine in your eyes I’ll keep building castles in the empty skies You don’t know me but I’ll make you smile I’d rather run this race than be free for a while Yeah, I’ll live for the high, I don’t care if it’s real It’s the only thing I want to feel.",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>UTS-2 My Songs for You</span>"
+    ]
+  },
+  {
+    "objectID": "My_Song_for_You/index.html#refleksi",
+    "href": "My_Song_for_You/index.html#refleksi",
+    "title": "2  Spiral",
+    "section": "2.3 Refleksi",
+    "text": "2.3 Refleksi\nOke, sebelum kalian judge, saya sadar ini bukan tentang cinta. Ini tentang limerence—obsesi romantis yang pada dasarnya adalah otak saya mencari dopamine hit karena kehidupan terlalu membosankan. Apakah itu sehat? Tidak. Apakah saya akan berhenti? Juga tidak.\nYang lucu adalah, saya menulis lagu ini sambil sadar penuh bahwa ini adalah coping mechanism yang buruk. Tapi daripada pergi ke psikolog (mahal) atau menghadapi kenyataan (menakutkan), lebih mudah menulis lagu tentang seseorang yang bahkan tidak tahu saya ada. Efisien, kan?\nDan ya, bagian “who wants to be free?” itu bukan retoris. Saya genuinely lebih nyaman dengan obsesi ini daripada harus menghadapi kehidupan yang kosong tanpa sesuatu untuk dituju. Apakah itu patologis? Mungkin. Apakah saya peduli? Masih memikirkannya.\nFun fact: Saya sudah tahu semua red flag ini, sudah baca artikel tentang limerence, sudah nonton video tentang attachment issues. Dan saya masih akan mengirim text itu nanti. Karena kadang, knowing better doesn’t mean doing better.\nSetidaknya saya self-aware, yang membuat saya 10% lebih baik dari orang yang melakukan hal yang sama tanpa sadar. Atau begitulah saya meyakinkan diri sendiri.",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>UTS-2 My Songs for You</span>"
+    ]
+  },
+  {
+    "objectID": "My_Song_for_You/index.html#alternate-version-spiral-calm-edition",
+    "href": "My_Song_for_You/index.html#alternate-version-spiral-calm-edition",
+    "title": "2  Spiral",
+    "section": "2.4 Alternate Version: Spiral (Calm Edition)",
+    "text": "2.4 Alternate Version: Spiral (Calm Edition)\nTernyata, ketika saya mencoba bikin versi yang lebih calm dan introspective, hasilnya cukup berbeda. Ini adalah interpretasi ulang dari lagu yang sama, dengan approach yang lebih melankolis dan less aggressive.\n\n2.4.1 🎵 Spiral - Calm Version",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>UTS-2 My Songs for You</span>"
+    ]
+  },
+  {
+    "objectID": "My_Song_for_You/index.html#bonus-your-eyes-are-all-i-see",
+    "href": "My_Song_for_You/index.html#bonus-your-eyes-are-all-i-see",
+    "title": "2  Spiral",
+    "section": "2.5 BONUS: “Your Eyes Are All I See”",
+    "text": "2.5 BONUS: “Your Eyes Are All I See”\nTernyata, men-generate lagu itu sangat asik. Jadi saya buat satu lagi. Kalau “Spiral” adalah tentang being stuck dalam obsesi, lagu ini adalah tentang… being stuck dalam obsesi, tapi dengan cara yang lebih hopeful. Atau mungkin lebih naif. Entahlah.\n\n2.5.1 🎵 Your Eyes Are All I See\n\n\n\n\n2.5.2 Lirik: “Your Eyes Are All I See”\n(Verse 1)\nSaw you once and something shifted in the light\nBig glasses framing eyes that keep me up at night\nYour blonde hair caught the sun in ways I can’t explain\nNow every song on repeat just whispers your name\n(Chorus)\nMaybe I’m a fool for falling this fast\nMaybe it’s crazy but I hope this lasts\nEvery little moment plays back in my mind\nIt’s a feeling I can’t quite define\n(Verse 2)\nStarted running just to clear my head of you\nBut every mile I’m thinking what we’d talk about if you knew\nFixed a hundred little things I never cared about before\nStarted seeing all the beauty in becoming something more\n(Bridge)\nThey say slow down, take it easy, you barely know her name\nBut something in your smile makes everything feel less mundane\nI’m writing letters I won’t send, filling page on page\nGetting lost inside the world I see behind your gaze\n(Verse 3)\nWhat if I see you? My heart’s already racing\nPracticing my small talk, hoping I’m not spacing\nIf I could just be normal for a single afternoon\nMaybe you’d see someone worth knowing soon\n(Final Chorus)\nMaybe I’m a dreamer falling way too fast\nBut something in your laughter makes me want this to last\nEvery quiet moment I imagine by your side\nYou’re the only thought that feels this right\n(Outro)\nYour eyes are all I see…\nYour eyes are all I see…\nYour eyes are all I see…\n\nRefleksi bonus lagu: Ya, saya tahu ini basically lagu yang sama dengan angle berbeda. “Spiral” adalah dark version, “Your Eyes” adalah hopeful version. Keduanya tentang obsesi, tapi yang satu mengakui itu unhealthy, yang satu masih dalam denial fase.\nMana yang lebih honest? Probably “Spiral”. Mana yang lebih pleasant? Definitely “Your Eyes”. Mana yang lebih real? Keduanya, tergantung mood saya hari itu.\n\nCatatan: Semua lirik dibuat dalam Bahasa Inggris karena lebih cocok dengan genre musik yang terinspirasi.",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>UTS-2 My Songs for You</span>"
+    ]
+  },
+  {
+    "objectID": "My_Stories_for_You/index.html",
+    "href": "My_Stories_for_You/index.html",
+    "title": "3  Cerita-Cerita yang Membentuk Saya",
+    "section": "",
+    "text": "3.1 Pengantar\nBerikut adalah dua cerita dari perjalanan saya yang mungkin terdengar biasa, tapi sangat berarti bagi saya. Cerita tentang kegagalan, penerimaan, dan momen-momen ketika saya akhirnya memahami sesuatu yang sebelumnya tidak pernah saya sadari.",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>UTS-3 My Stories for You</span>"
+    ]
+  },
+  {
+    "objectID": "My_Stories_for_You/index.html#hari-pengumuman-snmptn",
+    "href": "My_Stories_for_You/index.html#hari-pengumuman-snmptn",
+    "title": "3  Cerita-Cerita yang Membentuk Saya",
+    "section": "4.1 Hari Pengumuman SNMPTN",
+    "text": "4.1 Hari Pengumuman SNMPTN\n15 April 2022, Pukul 15.00 WIB.\nSaya duduk di kamar, laptop di pangkuan, refresh halaman pengumuman SNMPTN setiap 30 detik. Jantung berdegup lebih cepat dari biasanya. Tangan sedikit berkeringat: klise, tapi itulah yang terjadi.\nDan kemudian, hasilnya keluar. Saya scroll ke bawah. Cari nama saya.\nTidak ada.\nSaya refresh lagi. Masih tidak ada.\nSatu lagi. Tetap tidak ada.\nSaya menutup laptop. Pelan-pelan. Seperti kalau saya menutupnya terlalu keras, kenyataan akan jadi lebih nyata.",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>UTS-3 My Stories for You</span>"
+    ]
+  },
+  {
+    "objectID": "My_Stories_for_You/index.html#grup-chat-yang-meledak",
+    "href": "My_Stories_for_You/index.html#grup-chat-yang-meledak",
+    "title": "3  Cerita-Cerita yang Membentuk Saya",
+    "section": "4.2 Grup Chat yang Meledak",
+    "text": "4.2 Grup Chat yang Meledak\nLima menit kemudian, notifikasi grup chat sekolah mulai berdatangan. Satu per satu, seperti fireworks yang tidak pernah berhenti:\n\n“GUYS AKU LOLOS ITB!”\n“Alhamdulillah keterima UI Teknik Industri!”\n“SNMPTN berhasil! Makasih buat doa kalian semua!”\n“Ga nyangka lolos, padahal ga yakin!”\n\nSaya baca semua message itu. Satu per satu. Dan saya merasa… tertinggal.\nBukan iri dalam arti negatif. Saya genuinely senang untuk mereka. Tapi ada perasaan lain yang lebih besar: perasaan bahwa saya kehilangan sesuatu yang seharusnya saya dapatkan juga.\nSaya tidak balas chat apapun. Saya taruh HP face-down di meja. Saya cuma duduk di situ, diam, selama… entah berapa lama.",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>UTS-3 My Stories for You</span>"
+    ]
+  },
+  {
+    "objectID": "My_Stories_for_You/index.html#perasaan-tertinggal",
+    "href": "My_Stories_for_You/index.html#perasaan-tertinggal",
+    "title": "3  Cerita-Cerita yang Membentuk Saya",
+    "section": "4.3 Perasaan Tertinggal",
+    "text": "4.3 Perasaan Tertinggal\nBukan cuma soal tidak lolos. Yang paling menyakitkan adalah perasaan tertinggal. Semua teman saya sudah punya kepastian, sementara saya harus memulai lagi dari nol. Mereka sudah merayakan, sementara saya harus kembali belajar untuk SBMPTN.\nSaya tidak menyalahkan siapa pun. Tapi tetap saja, ada rasa sedih yang dalam. Kenapa mereka bisa, tapi saya tidak?",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>UTS-3 My Stories for You</span>"
+    ]
+  },
+  {
+    "objectID": "My_Stories_for_You/index.html#keputusan-mencoba-lagi",
+    "href": "My_Stories_for_You/index.html#keputusan-mencoba-lagi",
+    "title": "3  Cerita-Cerita yang Membentuk Saya",
+    "section": "4.4 Keputusan: Mencoba Lagi",
+    "text": "4.4 Keputusan: Mencoba Lagi\nTapi saya tidak berhenti. Saya punya waktu sekitar 2 bulan untuk mempersiapkan SBMPTN. Jujur, waktu itu sangat singkat dan saya tidak terlalu yakin. Tapi saya berpikir: “Apa salahnya mencoba? Paling tidak, saya sudah berusaha.”\nSaya belajar dengan fokus. Tidak berlebihan, tapi konsisten. Dan yang paling penting, saya tidak lagi membandingkan diri saya dengan orang lain. Saya hanya fokus pada apa yang bisa saya lakukan.",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>UTS-3 My Stories for You</span>"
+    ]
+  },
+  {
+    "objectID": "My_Stories_for_You/index.html#pengumuman-sbmptn-lolos-itb",
+    "href": "My_Stories_for_You/index.html#pengumuman-sbmptn-lolos-itb",
+    "title": "3  Cerita-Cerita yang Membentuk Saya",
+    "section": "4.5 Pengumuman SBMPTN: Lolos ITB",
+    "text": "4.5 Pengumuman SBMPTN: Lolos ITB\nKetika pengumuman SBMPTN keluar, saya hampir tidak percaya. Lolos ITB, Sistem dan Teknologi Informasi.\nRasanya seperti semua yang saya alami: kekecewaan, kesedihan, kerja keras: akhirnya membuahkan hasil. Tapi yang lebih penting dari itu, saya belajar sesuatu yang sangat berharga:\n\nTidak ada salahnya mencoba, bahkan ketika peluangnya kecil.\n\nKalau saya menyerah setelah SNMPTN, saya tidak akan ada di ITB sekarang. Kalau saya terlalu takut gagal lagi, saya tidak akan pernah tahu bahwa saya sebenarnya bisa.",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>UTS-3 My Stories for You</span>"
+    ]
+  },
+  {
+    "objectID": "My_Stories_for_You/index.html#pelajaran",
+    "href": "My_Stories_for_You/index.html#pelajaran",
+    "title": "3  Cerita-Cerita yang Membentuk Saya",
+    "section": "4.6 Pelajaran",
+    "text": "4.6 Pelajaran\nKegagalan itu menyakitkan. Melihat orang lain berhasil sementara kita tidak, itu berat. Tapi itulah hidup. Kadang kita harus jatuh dulu sebelum bisa berdiri lebih kuat.\nDan yang terpenting: Jangan pernah berhenti mencoba hanya karena takut gagal.",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>UTS-3 My Stories for You</span>"
+    ]
+  },
+  {
+    "objectID": "My_Stories_for_You/index.html#setelah-kuis-fisika-yang-menghancurkan",
+    "href": "My_Stories_for_You/index.html#setelah-kuis-fisika-yang-menghancurkan",
+    "title": "3  Cerita-Cerita yang Membentuk Saya",
+    "section": "5.1 Setelah Kuis Fisika yang Menghancurkan",
+    "text": "5.1 Setelah Kuis Fisika yang Menghancurkan\nSemester 2, saya baru saja selesai mengerjakan kuis Fisika Dasar yang sangat sulit. Saya keluar dari kelas dengan perasaan hancur. Saya tahu saya tidak mengerjakan dengan baik. Pikiran saya dipenuhi dengan kekhawatiran: “Apakah saya cukup pintar untuk bertahan di sini?”\nSaya berjalan keluar gedung, masih terbayang-bayang soal yang tidak bisa saya jawab.",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>UTS-3 My Stories for You</span>"
+    ]
+  },
+  {
+    "objectID": "My_Stories_for_You/index.html#momen-di-jalan-pulang",
+    "href": "My_Stories_for_You/index.html#momen-di-jalan-pulang",
+    "title": "3  Cerita-Cerita yang Membentuk Saya",
+    "section": "5.2 Momen di Jalan Pulang",
+    "text": "5.2 Momen di Jalan Pulang\nTapi kemudian, saya berhenti. Literally berhenti berjalan.\nDi depan saya, ada taman kecil dengan beberapa bangku. Pohon-pohon besar bergoyang tertiup angin sore. Cahaya matahari mulai keemasan: golden hour yang orang-orang suka foto. Di sebelah kiri, ada mahasiswa duduk ngobrol sambil tertawa. Di kanan, ada yang main gitar dengan headset di telinga, sepertinya latihan sendiri.\n\n\n\n\nKampus ITB - tempat yang akhirnya saya sadari keindahannya\n\n\n\nDan tiba-tiba, saya sadar: ITB itu indah.\nBukan dalam arti “kampus dengan gedung bagus” atau “view yang instagramable”. Tapi dalam arti kehidupan terus berjalan, meskipun saya baru saja gagal kuis.\nOrang-orang di sekitar saya tidak tahu: dan tidak peduli: bahwa saya baru saja merasa bodoh karena tidak bisa jawab soal Fisika. Mereka punya masalah mereka sendiri. Mereka punya kehidupan mereka sendiri. Dan somehow, itu… menenangkan.\nSaya duduk di salah satu bangku. Melihat ke atas. Langit masih sama birunya. Awan masih bergerak. Dunia tidak berhenti karena saya gagal satu kuis.",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>UTS-3 My Stories for You</span>"
+    ]
+  },
+  {
+    "objectID": "My_Stories_for_You/index.html#quote-dari-the-alchemist",
+    "href": "My_Stories_for_You/index.html#quote-dari-the-alchemist",
+    "title": "3  Cerita-Cerita yang Membentuk Saya",
+    "section": "5.3 Quote dari The Alchemist",
+    "text": "5.3 Quote dari The Alchemist\nSaat itu saya teringat sebuah cerita dari buku The Alchemist karangan Paulo Coelho. Ada cerita tentang seorang anak muda yang diberi sendok berisi minyak dan diminta berjalan keliling istana tanpa menumpahkan minyaknya.\nPertama kali, dia terlalu fokus pada sendok sehingga tidak melihat keindahan istana. Kedua kalinya, dia terlalu fokus pada istana sehingga minyaknya tumpah.\nPelajarannya:\n\n“The secret of happiness is to see all the marvels of the world, and never to forget the drops of oil on the spoon.”\n\nArtinya, kebahagiaan ada pada keseimbangan: menikmati keindahan dunia, tapi tidak melupakan tanggung jawab kita.",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>UTS-3 My Stories for You</span>"
+    ]
+  },
+  {
+    "objectID": "My_Stories_for_You/index.html#pelajaran-yang-saya-dapat",
+    "href": "My_Stories_for_You/index.html#pelajaran-yang-saya-dapat",
+    "title": "3  Cerita-Cerita yang Membentuk Saya",
+    "section": "5.4 Pelajaran yang Saya Dapat",
+    "text": "5.4 Pelajaran yang Saya Dapat\nSelama dua semester, saya terlalu fokus pada “sendok”: nilai, tugas, ujian. Saya lupa untuk melihat “istana”: keindahan kampus, teman-teman, pengalaman belajar itu sendiri.\nHari itu, setelah kuis Fisika yang buruk, saya akhirnya menyadarinya. ITB bukan hanya tentang akademik. ITB adalah tentang proses. Tentang belajar, jatuh, bangkit, dan menikmati perjalanan.",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>UTS-3 My Stories for You</span>"
+    ]
+  },
+  {
+    "objectID": "My_Stories_for_You/index.html#refleksi",
+    "href": "My_Stories_for_You/index.html#refleksi",
+    "title": "3  Cerita-Cerita yang Membentuk Saya",
+    "section": "5.5 Refleksi",
+    "text": "5.5 Refleksi\nSekarang, setiap kali saya merasa overwhelmed dengan tugas atau nilai, saya mencoba untuk berhenti sejenak. Melihat sekeliling. Mengingat bahwa hidup bukan hanya tentang “drops of oil” yang harus dijaga, tapi juga tentang “marvels of the world” yang harus dinikmati.\n\n\n\n\nSudut kampus ITB yang mengingatkan untuk tetap menikmati perjalanan",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>UTS-3 My Stories for You</span>"
+    ]
+  },
+  {
+    "objectID": "My_Stories_for_You/index.html#penutup",
+    "href": "My_Stories_for_You/index.html#penutup",
+    "title": "3  Cerita-Cerita yang Membentuk Saya",
+    "section": "5.6 Penutup",
+    "text": "5.6 Penutup\nDua cerita ini mungkin terdengar sederhana. Tapi bagi saya, ini adalah momen-momen yang membentuk siapa saya sekarang. Saya belajar untuk tidak menyerah. Saya belajar untuk melihat keindahan di tengah kesulitan. Dan saya belajar bahwa kehidupan adalah tentang keseimbangan.\nDan ya, saya masih sering gagal menjaga keseimbangan itu. Tapi setidaknya sekarang saya tahu bahwa itu penting.",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>UTS-3 My Stories for You</span>"
+    ]
+  },
+  {
+    "objectID": "My_Shapes/index.html",
+    "href": "My_Shapes/index.html",
+    "title": "4  My SHAPE: Menemukan Pola dalam Kekacauan",
+    "section": "",
+    "text": "4.1 Pengantar: Ketika Saya Tidak Tahu Siapa Saya\nSelama 21 tahun hidup, saya menghabiskan sebagian besar waktu menghindari pertanyaan sederhana: Siapa saya sebenarnya?\nBukan karena saya tidak peduli. Tapi karena jawabannya terasa terlalu besar, terlalu abstrak, terlalu… menakutkan. Lebih mudah untuk fokus pada hal-hal yang konkret: tugas, deadline, nilai, rencana karir. Tapi di suatu titik, semua itu terasa seperti topeng yang saya pakai tanpa pernah tahu wajah di baliknya.\nDan kemudian, ada tugas ini. My SHAPE. Sebuah framework untuk memahami diri sendiri berdasarkan lima dimensi:\nAwalnya, saya pikir ini hanya formalitas: mengisi lembar kerja, menulis jawaban yang “benar”, selesai. Tapi ternyata, proses ini memaksa saya untuk jujur dengan diri sendiri. Dan kejujuran itu… tidak selalu menyenangkan.",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>UTS-4 My SHAPE</span>"
+    ]
+  },
+  {
+    "objectID": "My_Shapes/index.html#pengantar-ketika-saya-tidak-tahu-siapa-saya",
+    "href": "My_Shapes/index.html#pengantar-ketika-saya-tidak-tahu-siapa-saya",
+    "title": "4  My SHAPE: Menemukan Pola dalam Kekacauan",
+    "section": "",
+    "text": "Spiritual Gifts (Karunia Rohani)\nHeart (Passion / Hasrat)\nAbilities (Kemampuan)\nPersonality (Kepribadian)\nExperience (Pengalaman Hidup)",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>UTS-4 My SHAPE</span>"
+    ]
+  },
+  {
+    "objectID": "My_Shapes/index.html#s---spiritual-gifts-analytical-thinking-problem-solving",
+    "href": "My_Shapes/index.html#s---spiritual-gifts-analytical-thinking-problem-solving",
+    "title": "4  My SHAPE: Menemukan Pola dalam Kekacauan",
+    "section": "5.1 S - Spiritual Gifts: Analytical Thinking & Problem-Solving",
+    "text": "5.1 S - Spiritual Gifts: Analytical Thinking & Problem-Solving\nSaya tidak yakin apakah ini “spiritual gift” dalam pengertian religius. Tapi kalau ada satu hal yang konsisten dalam hidup saya, itu adalah cara saya melihat dunia sebagai sistem yang bisa dipecahkan.\nSejak kecil, saya selalu bertanya: Kenapa ini bekerja seperti ini? Bagaimana kalau kita ubah X, apakah Y akan berubah? Orang bilang saya overthinking. Saya bilang itu cara otak saya bekerja.\nDi kuliah, ini menjadi lebih jelas. Ketika teman-teman saya merasa overwhelmed dengan kompleksitas sistem informasi, saya justru merasa… nyaman. Bukan karena saya lebih pintar, tapi karena saya menikmati proses memetakan chaos menjadi struktur.\nUML diagrams? Sequence diagrams? System flowcharts? Itu bukan tugas yang membosankan buat saya: itu adalah cara saya memahami dunia.\nInsight: Saya baru menyadari bahwa “karunia” saya bukan tentang menjadi jenius, tapi tentang menemukan ketenangan dalam kompleksitas. Sementara orang lain stres dengan terlalu banyak informasi, saya stres ketika informasi terlalu sedikit.",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>UTS-4 My SHAPE</span>"
+    ]
+  },
+  {
+    "objectID": "My_Shapes/index.html#h---heart-the-paradox-of-passion",
+    "href": "My_Shapes/index.html#h---heart-the-paradox-of-passion",
+    "title": "4  My SHAPE: Menemukan Pola dalam Kekacauan",
+    "section": "5.2 H - Heart: The Paradox of Passion",
+    "text": "5.2 H - Heart: The Paradox of Passion\nIni bagian paling sulit untuk dijawab, karena jujur saja, saya tidak yakin saya punya passion yang jelas.\nKetika saya memilih Sistem dan Teknologi Informasi, alasannya pragmatis: kerja remote, fleksibilitas, gaji lumayan. Bukan karena saya “passionate” tentang IT. Dan sampai sekarang, saya masih bertanya-tanya apakah saya di jalur yang benar.\nTapi kemudian saya menyadari sesuatu: Passion itu tidak selalu berbentuk “I love this so much I could do it forever.” Kadang passion itu berbentuk “This makes sense to me when nothing else does.”\nContoh konkret: Minggu lalu, saya menghabiskan 2 jam membuat sequence diagram untuk sistem pendaftaran mahasiswa. Apakah itu exciting? Tidak. Apakah saya enjoy? Ya, dalam cara yang aneh.\nKetika saya berhasil memetakan flow dari “mahasiswa klik tombol daftar” sampai “data tersimpan di database” dengan semua edge cases-nya, ada rasa tenang yang tidak saya dapatkan dari hal lain. Seperti puzzle yang akhirnya terpecahkan.\n\n\n\n\nActivity diagram sistem feedback/help center - memetakan alur dari user request sampai solusi tersampaikan\n\n\nDiagram seperti ini yang membuat saya merasa tenang: chaos yang berubah menjadi struktur yang bisa dipahami.\n\nMungkin itu bukan passion dalam pengertian tradisional. Tapi itu cukup untuk sekarang.\nInsight: Passion tidak harus dramatis. Kadang passion adalah sesuatu yang membuat kamu merasa less lost, bukan more excited.",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>UTS-4 My SHAPE</span>"
+    ]
+  },
+  {
+    "objectID": "My_Shapes/index.html#a---abilities-what-im-actually-good-at",
+    "href": "My_Shapes/index.html#a---abilities-what-im-actually-good-at",
+    "title": "4  My SHAPE: Menemukan Pola dalam Kekacauan",
+    "section": "5.3 A - Abilities: What I’m Actually Good At",
+    "text": "5.3 A - Abilities: What I’m Actually Good At\nBerdasarkan refleksi dan feedback dari orang lain, inilah yang saya cukup kompeten lakukan:\n\n5.3.1 1. Logical Reasoning & Structured Thinking\nSaya bisa memecah masalah kompleks menjadi bagian-bagian yang bisa diproses.\nContoh: Ketika tim project saya overwhelmed dengan requirement yang ambiguous dari client, saya yang bikin breakdown: “Okay, kita punya 3 masalah utama. Masalah #1 bisa kita solve dengan X. Masalah #2 tergantung jawaban client tentang Y. Masalah #3 kita defer dulu sampai #1 dan #2 clear.” Suddenly, chaos jadi manageable.\n\n\n5.3.2 2. Technical Documentation\nSaya bisa menjelaskan konsep teknis dengan cara yang (relatif) mudah dipahami.\nContoh: Waktu presentasi system design, dosen tanya “Kenapa pakai microservices architecture?” Kebanyakan kelompok jawab dengan jargon. Saya jawab: “Bayangin kalau rumah kita cuma punya satu kamar mandi. Kalau rusak, semua orang ga bisa mandi. Microservices itu kayak setiap kamar punya kamar mandi sendiri: kalau satu rusak, yang lain tetap jalan.” He nodded. Jargon vs analogy.\n\n\n5.3.3 3. Learning New Systems Quickly\nSaya tidak expert di satu hal tertentu, tapi saya cepat adaptasi ke tool atau framework baru.\nContoh: Semester ini tiba-tiba harus pakai Docker untuk deployment. Saya belum pernah touch Docker sebelumnya. 2 hari baca dokumentasi + trial error, saya berhasil containerize aplikasi dan deploy ke cloud. Not perfect, tapi functional.\n\n\n5.3.4 4. Critical Analysis\nSaya bisa lihat gap, inconsistency, dan potential problem dalam sebuah sistem.\nContoh: Di requirement document yang dikasih client, ada statement: “User bisa edit data kapan saja.” Saya langsung notice: “Wait, kalau user A dan user B edit data yang sama simultaneously, gimana? Ada locking mechanism? Atau last-write-wins?” Ternyata mereka belum kepikiran. That’s my thing: spotting the edge cases.\nYang TIDAK saya kuasai: - Public speaking (still learning) - Networking & socializing (introvert problems) - Quick decision-making under pressure (I need time to think)\nInsight: Abilities bukan tentang menjadi yang terbaik, tapi tentang tahu apa yang bisa kamu kontribusikan ketika orang lain butuh.",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>UTS-4 My SHAPE</span>"
+    ]
+  },
+  {
+    "objectID": "My_Shapes/index.html#p---personality-the-introverted-analyst",
+    "href": "My_Shapes/index.html#p---personality-the-introverted-analyst",
+    "title": "4  My SHAPE: Menemukan Pola dalam Kekacauan",
+    "section": "5.4 P - Personality: The Introverted Analyst",
+    "text": "5.4 P - Personality: The Introverted Analyst\nKalau ada satu kata yang menggambarkan kepribadian saya, itu adalah: Introverted, detail-oriented, dan chronically overthinking.\n\n5.4.1 Introvert, But Not Anti-Social\nSaya tidak benci orang. Saya hanya butuh waktu sendiri untuk recharge. Social interaction itu seperti sprint: saya bisa lakukan, tapi saya tidak bisa lari marathon.\n\n\n5.4.2 Detail-Oriented (To a Fault)\nSaya bisa menghabiskan 30 menit untuk memilih font di presentasi. Apakah itu productive? Tidak. Apakah saya akan tetap melakukannya? Ya.\n\n\n5.4.3 Overthinker yang Self-Aware\nIni mungkin trait yang paling defining. Saya bisa overthink keputusan sederhana sampai lumpuh. Tapi setidaknya saya tahu saya melakukan itu, yang membuat saya bisa manage (kadang).\nInsight: Personality bukan sesuatu yang harus “diperbaiki”. Introvert bukan inferior version dari extrovert. Overthinker bukan broken version dari decisive people. Kita hanya punya cara kerja yang berbeda.",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>UTS-4 My SHAPE</span>"
+    ]
+  },
+  {
+    "objectID": "My_Shapes/index.html#e---experience-the-moments-that-shaped-me",
+    "href": "My_Shapes/index.html#e---experience-the-moments-that-shaped-me",
+    "title": "4  My SHAPE: Menemukan Pola dalam Kekacauan",
+    "section": "5.5 E - Experience: The Moments That Shaped Me",
+    "text": "5.5 E - Experience: The Moments That Shaped Me\n\n5.5.1 Experience 1: Ditolak SNMPTN, Diterima SBMPTN\n(Sudah saya ceritakan di My Stories for You)\nLesson: Kegagalan bukan akhir. Kadang itu hanya redirect ke jalur yang sebenarnya lebih cocok.\n\n\n5.5.2 Experience 2: Menyadari Keindahan ITB Setelah 2 Semester\n(Juga sudah di My Stories)\nLesson: Kita sering terlalu fokus pada “drops of oil” (tugas, nilai, target) sampai lupa menikmati “the marvels of the world” (proses, pengalaman, momen).\n\n\n5.5.3 Experience 3: Semester 7 dan Masih Merasa Lost\nIni pengalaman yang masih ongoing. Saya di semester 7, seharusnya sudah punya arah. Tapi jujur? Saya masih tidak yakin apa yang saya mau.\nApakah saya ingin jadi System Analyst? Mungkin. Apakah saya ingin kerja di corporate? Mungkin tidak. Apakah saya tahu apa alternatifnya? Juga tidak.\nLesson (yang masih saya pelajari): Tidak apa-apa untuk tidak tahu. Tidak apa-apa untuk masih mencari. Yang penting adalah jangan berhenti bergerak hanya karena tidak yakin ke mana.",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>UTS-4 My SHAPE</span>"
+    ]
+  },
+  {
+    "objectID": "My_Shapes/index.html#vision-statement",
+    "href": "My_Shapes/index.html#vision-statement",
+    "title": "4  My SHAPE: Menemukan Pola dalam Kekacauan",
+    "section": "6.1 Vision Statement",
+    "text": "6.1 Vision Statement\n\nMenjadi seseorang yang menemukan ketenangan dalam kompleksitas, yang bisa memahami sistem tanpa kehilangan humanitas, dan yang terus belajar meskipun tidak selalu yakin.",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>UTS-4 My SHAPE</span>"
+    ]
+  },
+  {
+    "objectID": "My_Shapes/index.html#core-values",
+    "href": "My_Shapes/index.html#core-values",
+    "title": "4  My SHAPE: Menemukan Pola dalam Kekacauan",
+    "section": "6.2 Core Values",
+    "text": "6.2 Core Values\n\nKejujuran dengan Diri Sendiri - Lebih baik mengakui “saya tidak tahu” daripada berpura-pura paham.\nKeseimbangan - Kerja keras itu penting, tapi jangan sampai lupa hidup.\nGrowth Over Perfection - Progress &gt; Perfection. Better done than perfect.",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>UTS-4 My SHAPE</span>"
+    ]
+  },
+  {
+    "objectID": "My_Shapes/index.html#commitments",
+    "href": "My_Shapes/index.html#commitments",
+    "title": "4  My SHAPE: Menemukan Pola dalam Kekacauan",
+    "section": "6.3 Commitments",
+    "text": "6.3 Commitments\n\nSaya berkomitmen untuk terus belajar, bahkan ketika tidak yakin ke mana arahnya.\nSaya berkomitmen untuk menjaga keseimbangan antara ambisi dan kewarasan.\nSaya berkomitmen untuk tidak menyerah hanya karena tidak yakin.",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>UTS-4 My SHAPE</span>"
+    ]
+  },
+  {
+    "objectID": "My_Personal_Reviews/index.html",
+    "href": "My_Personal_Reviews/index.html",
+    "title": "5  My Personal Reviews",
+    "section": "",
+    "text": "5.0.1 📊 Dokumen Penilaian Resmi\nHasil penilaian lengkap dapat diunduh di sini:\n⬇️ Download: 18222019_penilaian.xlsx\nFile berisi breakdown skor detail untuk setiap komponen UTS berdasarkan rubrik CPMK.",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-5 My Personal Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Personal_Reviews/index.html#pengantar",
+    "href": "My_Personal_Reviews/index.html#pengantar",
+    "title": "5  My Personal Reviews",
+    "section": "5.1 Pengantar",
+    "text": "5.1 Pengantar\nUTS-5 ini adalah refleksi kritis terhadap pesan personal yang telah saya buat (UTS-1 s/d UTS-4), serta review terhadap portfolio teman. Tujuannya bukan untuk self-congratulation, tapi untuk jujur mengevaluasi apa yang berhasil, apa yang kurang, dan bagaimana bisa lebih baik.\nPenilaian menggunakan rubrik CPMK dengan skala 1-5: - 1: Buruk - 2: Kurang - 3: Cukup - 4: Baik - 5: Sangat Baik",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-5 My Personal Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Personal_Reviews/index.html#metodologi-self-assessment",
+    "href": "My_Personal_Reviews/index.html#metodologi-self-assessment",
+    "title": "5  My Personal Reviews",
+    "section": "6.1 Metodologi Self-Assessment",
+    "text": "6.1 Metodologi Self-Assessment\nSaya menggunakan ChatGPT untuk melakukan assessment objektif terhadap portfolio saya sendiri. Berikut prosesnya:\n\nUpload rubrik penilaian UTS ke ChatGPT\nBerikan URL portfolio: https://jonathanw33.github.io/all-about-me/\nChatGPT menganalisis UTS-1 s/d UTS-4 berdasarkan rubrik\nHasil penilaian di-download sebagai CSV\n\nKenapa pakai ChatGPT? Karena self-assessment manual cenderung bias. AI memberikan perspektif lebih objektif (meskipun tidak sempurna).",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-5 My Personal Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Personal_Reviews/index.html#hasil-assessment-chatgpt",
+    "href": "My_Personal_Reviews/index.html#hasil-assessment-chatgpt",
+    "title": "5  My Personal Reviews",
+    "section": "6.2 Hasil Assessment ChatGPT",
+    "text": "6.2 Hasil Assessment ChatGPT\n\n6.2.1 UTS-1: All About Me\nSkor dari ChatGPT: | Kriteria | Skor | Keterangan | |———-|——|————| | Orisinalitas | 4/5 | Opens dengan story konkret (debugging typo pukul 3 pagi), sudut pandang personal dan memorable | | Keterlibatan | 4/5 | Narasi mengalir natural dari story ke reflection, konsisten engaging | | Humor | 4/5 | Self-deprecating humor terintegrasi natural (“30 menit pilih font”, “overthink tapi self-aware”) | | Wawasan (Insight) | 4/5 | Refleksi tentang “work in progress” dan “uncertainty as part of process” cukup dalam |\nTotal: 16/20\nRefleksi Saya:\nAfter revision, UTS-1 jauh lebih kuat. Opening dengan story (debugging di jam 3 pagi) immediately lebih engaging daripada generic “Hi saya Jonathan”.\nYang berhasil setelah improvement: - Story-driven intro: Langsung masuk ke momen konkret instead of formula “saya adalah X yang suka Y” - Specific details: “30 menit memilih font”, “semester 7 pukul 3 pagi”, “typo 2 jam” → ini adalah detail yang membuat relatable - Natural humor: Self-deprecating tanpa terasa forced atau terlalu meta - Honest vulnerability: “Saya masih tidak 100% yakin dengan arah karir” → risky tapi effective\nYang masih bisa better: - Bisa tambah 1-2 anekdot lagi di tengah untuk maintain momentum - Beberapa transition masih bisa lebih smooth\nOverall: Solid improvement. Dari generic intro jadi memorable narrative.\n\n\n\n6.2.2 UTS-2: My Songs for You - “Spiral”\nSkor dari ChatGPT: | Kriteria | Skor | Keterangan | |———-|——|————| | Orisinalitas | 5/5 | Sangat unik: eksplisit membahas limerence & dopamine addiction, tema jarang diangkat dengan kejujuran seperti ini | | Keterlibatan | 5/5 | Extremely engaging: lirik raw dan vulnerable, refleksi self-aware sangat menarik, bonus songs menambah depth | | Humor | 5/5 | Dark humor terintegrasi sempurna: “knowing better but not doing better”, self-awareness sebagai coping mechanism | | Inspirasi | 5/5 | Inspiratif dalam cara berbeda: bukan motivational, tapi brutally honest tentang struggle yang relatable |\nTotal: 20/20\nRefleksi Saya:\nThis is the strongest piece in my entire portfolio. Bukan karena technically perfect, tapi karena brutal honesty meets artistic expression.\nYang exceptional: - Triple threat: Original Spiral + Calm Edition + Bonus song “Your Eyes” = comprehensive exploration of theme - Lyrical depth: Lirik tidak generic love song, tapi genuine exploration of limerence, dopamine-seeking behavior, dan cognitive dissonance - Meta-awareness: Refleksi yang acknowledge “this is unhealthy but I’ll do it anyway” adalah refreshingly honest - Dark humor mastery: Self-deprecating tanpa being pathetic, funny without undermining seriousness - Musical variety: Three different interpretations of same theme shows creative range\nWhy 5/5 across the board: - Orisinalitas: Topik limerence + dopamine addiction + explicit self-awareness adalah kombinasi yang jarang. Most love songs hide behind metaphors; ini raw. - Keterlibatan: Impossible to not engage with something this honest. Plus, having 3 songs to explore the theme from different angles keeps interest high. - Humor: “At least I’m self-aware, yang membuat saya 10% lebih baik” adalah peak dark humor. - Inspirasi: Inspiratif bukan karena uplifting, tapi karena validate struggle banyak orang. Sometimes, acknowledgment &gt; solution.\nKey insight: Vulnerability + Artistry + Self-Awareness = Powerful Communication. This is proof that being real beats being polished every single time.\n\n\n\n6.2.3 UTS-3: My Stories for You\nSkor dari ChatGPT: | Kriteria | Skor | Keterangan | |———-|——|————| | Orisinalitas | 4/5 | Topik SNMPTN-SBMPTN umum, tapi eksekusi dengan specific details kuat | | Keterlibatan | 5/5 | Narasi sangat engaging dengan sensory details dan emotional specificity | | Pengembangan Narasi | 5/5 | Dua cerita seamlessly connected via Alchemist quote, smooth transitions | | Inspirasi | 4/5 | Pesan “jangan menyerah” dan “balance” delivered dengan powerful storytelling |\nTotal: 18/20\nRefleksi Saya:\nAfter adding specific details, UTS-3 significantly improved. Ini proof bahwa specificity matters.\nYang berhasil setelah improvement: - Timestamp konkret: “15 April 2022, Pukul 15.00 WIB” immediately ground the story in reality - Sensory & emotional details: “Tangan berkeringat”, “menutup laptop pelan-pelan”, “taruh HP face-down” → these small actions convey big emotions - Scene building: Describing taman, golden hour, mahasiswa main gitar → creates vivid mental image - Show feelings through actions: Instead of “saya sedih”, show “saya taruh HP face-down dan duduk diam”\nYang masih bisa better: - Cerita SNMPTN-SBMPTN tetap common topic among ITB students, tapi eksekusinya yang make it work - Bisa explore lebih dalam tentang “2 bulan belajar SBMPTN”—apa yang specifically berubah?\nKey learning: Generic story + specific details = powerful narrative. It’s not about having unique experience, it’s about how you tell it.\n\n\n\n6.2.4 UTS-4: My SHAPE\nSkor dari ChatGPT: | Kriteria | Skor | Keterangan | |———-|——|————| | Orisinalitas | 5/5 | Angle “menemukan pola dalam kekacauan” fresh, execution strong | | Keterlibatan | 5/5 | Story-driven dengan concrete examples di setiap section, highly engaging | | Pengembangan Narasi | 5/5 | Framework SHAPE digunakan dengan natural, tidak kaku, smooth flow | | Inspirasi | 4/5 | “Tidak apa-apa untuk tidak tahu” resonates, plus actionable examples |\nTotal: 19/20\nRefleksi Saya:\nThis is the strongest piece in my portfolio—not because it’s perfect, but because it balances structure with storytelling.\nYang berhasil setelah improvement: - Concrete examples everywhere: - “2 jam bikin sequence diagram sistem pendaftaran” (Heart) - “Microservices = rumah dengan banyak kamar mandi” (Abilities) - “Docker learning dalam 2 hari” (Abilities) - “Spotting concurrent edit problem” (Critical thinking) - Show, don’t tell: Instead of “saya bisa explain complex things”, show dengan example analogy microservices - Framework as scaffold, not cage: SHAPE provides structure tapi narasi tetap flow natural - Self-awareness: Acknowledge “still lost di semester 7” tapi frame it as okay\nYang masih bisa better: - Bisa tambah 1-2 example lagi di Personality section - Elevator pitch bisa lebih concrete dengan mini case study\nKey insight: Structure + Specificity + Vulnerability = Compelling narrative. Framework helps organize, examples make it real, honesty makes it relatable.",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-5 My Personal Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Personal_Reviews/index.html#summary-self-assessment-portfolio-jonathan-wiguna",
+    "href": "My_Personal_Reviews/index.html#summary-self-assessment-portfolio-jonathan-wiguna",
+    "title": "5  My Personal Reviews",
+    "section": "6.3 Summary: Self-Assessment Portfolio Jonathan Wiguna",
+    "text": "6.3 Summary: Self-Assessment Portfolio Jonathan Wiguna\n\n\n\n\n\n\n\n\nTugas\nTotal Skor\nKomentar Singkat\n\n\n\n\nUTS-1\n16/20\nStory-driven intro, specific details, natural vulnerability\n\n\nUTS-2\n20/20\nPerfect score: Brutal honesty + artistic expression + triple songs\n\n\nUTS-3\n18/20\nExcellent storytelling dengan sensory & emotional specificity\n\n\nUTS-4\n19/20\nStrongest piece—structure + concrete examples + vulnerability\n\n\n\nTotal Portfolio: 73/80 (91.25%)",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-5 My Personal Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Personal_Reviews/index.html#pembelajaran-dari-self-assessment",
+    "href": "My_Personal_Reviews/index.html#pembelajaran-dari-self-assessment",
+    "title": "5  My Personal Reviews",
+    "section": "6.4 Pembelajaran dari Self-Assessment",
+    "text": "6.4 Pembelajaran dari Self-Assessment\n\n6.4.1 1. Specificity Transforms Generic into Memorable\nThe biggest improvement across all UTS came from adding concrete details. “Saya sedih” vs “Saya taruh HP face-down dan duduk diam”—the latter is infinitely more powerful. Show, don’t tell is not just writing advice, it’s communication principle.\n\n\n6.4.2 2. Vulnerability &gt; Polish\nUTS-2 (paling jujur) dan UTS-4 (mengakui “still lost”) scored highest. Ini proof bahwa being real lebih powerful daripada being perfect. People connect with honesty, not perfection.\n\n\n6.4.3 3. Structure Helps, But Don’t Be Trapped By It\nUTS-4 berhasil karena saya pakai framework SHAPE tapi tidak terjebak di format. Struktur membantu organize thoughts, tapi narasi tetap harus flow natural. Structure is scaffold, not cage.\n\n\n6.4.4 4. Story-Driven &gt; List-Driven\nUTS-1 improved dramatically ketika ganti dari “Hi saya X yang suka Y” ke “Pukul 3 pagi, debugging typo…”. Opening dengan story immediately more engaging. Start with a moment, not a statement.\n\n\n6.4.5 5. Connection Across Work Creates Coherence\nQuote The Alchemist muncul di UTS-3 dan UTS-4. Ini creates thread across portfolio, making it feel cohesive instead of random collection of assignments.",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-5 My Personal Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Personal_Reviews/index.html#action-plan-next-steps-for-improvement",
+    "href": "My_Personal_Reviews/index.html#action-plan-next-steps-for-improvement",
+    "title": "5  My Personal Reviews",
+    "section": "6.5 Action Plan: Next Steps for Improvement",
+    "text": "6.5 Action Plan: Next Steps for Improvement\nMeskipun portfolio sudah improved significantly (dari 76% ke 86%), masih ada ruang untuk growth:\nUTS-1: - ✅ Already improved: Story-driven intro, specific details - 🔄 Could add: 1-2 anekdot lagi di middle section untuk maintain momentum - 🔄 Polish: Beberapa transition bisa lebih smooth\nUTS-2: - ✅ Already strong, tidak perlu major changes - 💡 Consider: Explore lebih dalam kenapa limerence appeals to introverts?\nUTS-3: - ✅ Already improved: Sensory details, emotional specificity - 🔄 Could expand: “2 bulan belajar SBMPTN”—apa yang changed during that time? - 💡 Add: One more sensory moment di cerita ITB\nUTS-4: - ✅ Already excellent: Concrete examples throughout - 🔄 Could add: 1-2 more examples di Personality section - 💡 Enhance: Elevator pitch dengan mini case study\nOverall Portfolio: - ✅ Coherence through Alchemist quote - 🔄 Consider: Add one connecting thread across UTS-1 to UTS-5 - 💡 Maintain: Balance between vulnerability and competence",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-5 My Personal Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Personal_Reviews/index.html#identifikasi-reviewer-reviewee",
+    "href": "My_Personal_Reviews/index.html#identifikasi-reviewer-reviewee",
+    "title": "5  My Personal Reviews",
+    "section": "7.1 Identifikasi Reviewer & Reviewee",
+    "text": "7.1 Identifikasi Reviewer & Reviewee\n\nNama Reviewer: Jonathan Wiguna\nNIM Reviewer: [Isi NIM kamu]\nPortfolio yang Direview: [Nama Teman]\nURL Portfolio: [URL portfolio teman]\nTanggal Review: [Tanggal]",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-5 My Personal Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Personal_Reviews/index.html#uts-1-all-about-me-1",
+    "href": "My_Personal_Reviews/index.html#uts-1-all-about-me-1",
+    "title": "5  My Personal Reviews",
+    "section": "7.2 UTS-1: All About Me",
+    "text": "7.2 UTS-1: All About Me\nAssessment berdasarkan rubrik:\n\n\n\nKriteria\nSkor\nJustifikasi\n\n\n\n\nOrisinalitas\n?/5\n[Isi analisis kamu]\n\n\nKeterlibatan\n?/5\n[Isi analisis kamu]\n\n\nHumor\n?/5\n[Isi analisis kamu]\n\n\nWawasan (Insight)\n?/5\n[Isi analisis kamu]\n\n\n\nTotal: ?/20\nKomentar:\n[Isi refleksi kamu tentang UTS-1 teman. Apa yang kuat? Apa yang kurang? Bagaimana dibandingkan dengan portfolio kamu?]\nRekomendasi Perbaikan:\n\n[Saran konkret #1]\n[Saran konkret #2]\n[Saran konkret #3]",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-5 My Personal Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Personal_Reviews/index.html#uts-2-my-songs-for-you",
+    "href": "My_Personal_Reviews/index.html#uts-2-my-songs-for-you",
+    "title": "5  My Personal Reviews",
+    "section": "7.3 UTS-2: My Songs for You",
+    "text": "7.3 UTS-2: My Songs for You\nAssessment berdasarkan rubrik:\n\n\n\nKriteria\nSkor\nJustifikasi\n\n\n\n\nOrisinalitas\n?/5\n[Isi analisis kamu]\n\n\nKeterlibatan\n?/5\n[Isi analisis kamu]\n\n\nHumor\n?/5\n[Isi analisis kamu]\n\n\nInspirasi\n?/5\n[Isi analisis kamu]\n\n\n\nTotal: ?/20\nKomentar:\n[Isi refleksi kamu]\nRekomendasi Perbaikan:\n\n[Saran #1]\n[Saran #2]\n[Saran #3]",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-5 My Personal Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Personal_Reviews/index.html#uts-3-my-stories-for-you-1",
+    "href": "My_Personal_Reviews/index.html#uts-3-my-stories-for-you-1",
+    "title": "5  My Personal Reviews",
+    "section": "7.4 UTS-3: My Stories for You",
+    "text": "7.4 UTS-3: My Stories for You\nAssessment berdasarkan rubrik:\n\n\n\nKriteria\nSkor\nJustifikasi\n\n\n\n\nOrisinalitas\n?/5\n[Isi analisis kamu]\n\n\nKeterlibatan\n?/5\n[Isi analisis kamu]\n\n\nPengembangan Narasi\n?/5\n[Isi analisis kamu]\n\n\nInspirasi\n?/5\n[Isi analisis kamu]\n\n\n\nTotal: ?/20\nKomentar:\n[Isi refleksi kamu]\nRekomendasi Perbaikan:\n\n[Saran #1]\n[Saran #2]\n[Saran #3]",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-5 My Personal Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Personal_Reviews/index.html#uts-4-my-shape-1",
+    "href": "My_Personal_Reviews/index.html#uts-4-my-shape-1",
+    "title": "5  My Personal Reviews",
+    "section": "7.5 UTS-4: My SHAPE",
+    "text": "7.5 UTS-4: My SHAPE\nAssessment berdasarkan rubrik:\n\n\n\nKriteria\nSkor\nJustifikasi\n\n\n\n\nOrisinalitas\n?/5\n[Isi analisis kamu]\n\n\nKeterlibatan\n?/5\n[Isi analisis kamu]\n\n\nPengembangan Narasi\n?/5\n[Isi analisis kamu]\n\n\nInspirasi\n?/5\n[Isi analisis kamu]\n\n\n\nTotal: ?/20\nKomentar:\n[Isi refleksi kamu]\nRekomendasi Perbaikan:\n\n[Saran #1]\n[Saran #2]\n[Saran #3]",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-5 My Personal Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Personal_Reviews/index.html#summary-peer-review-portfolio-nama-teman",
+    "href": "My_Personal_Reviews/index.html#summary-peer-review-portfolio-nama-teman",
+    "title": "5  My Personal Reviews",
+    "section": "7.6 Summary: Peer Review Portfolio [Nama Teman]",
+    "text": "7.6 Summary: Peer Review Portfolio [Nama Teman]\n\n\n\nTugas\nTotal Skor\nKomentar Singkat\n\n\n\n\nUTS-1\n?/20\n[Brief comment]\n\n\nUTS-2\n?/20\n[Brief comment]\n\n\nUTS-3\n?/20\n[Brief comment]\n\n\nUTS-4\n?/20\n[Brief comment]\n\n\n\nTotal Portfolio: ?/80 (?%)\nOverall Impression:\n[Isi overall impression kamu tentang portfolio teman. Apa strength terbesar? Apa area perbaikan utama?]\nKey Takeaways untuk Saya:\n[Apa yang bisa kamu pelajari dari portfolio teman? Apa yang mereka lakukan better dari kamu? Apa yang bisa kamu improve?]",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-5 My Personal Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Personal_Reviews/index.html#apa-yang-saya-pelajari-dari-self-assessment",
+    "href": "My_Personal_Reviews/index.html#apa-yang-saya-pelajari-dari-self-assessment",
+    "title": "5  My Personal Reviews",
+    "section": "8.1 Apa yang Saya Pelajari dari Self-Assessment?",
+    "text": "8.1 Apa yang Saya Pelajari dari Self-Assessment?\n[Isi refleksi kamu tentang proses self-assessment. Apakah sulit untuk objektif? Apakah ada surprise?]",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-5 My Personal Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Personal_Reviews/index.html#apa-yang-saya-pelajari-dari-peer-review",
+    "href": "My_Personal_Reviews/index.html#apa-yang-saya-pelajari-dari-peer-review",
+    "title": "5  My Personal Reviews",
+    "section": "8.2 Apa yang Saya Pelajari dari Peer Review?",
+    "text": "8.2 Apa yang Saya Pelajari dari Peer Review?\n[Isi refleksi kamu tentang proses review portfolio orang lain. Apakah membuka perspektif baru?]",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-5 My Personal Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Personal_Reviews/index.html#how-this-makes-me-a-better-communicator",
+    "href": "My_Personal_Reviews/index.html#how-this-makes-me-a-better-communicator",
+    "title": "5  My Personal Reviews",
+    "section": "8.3 How This Makes Me a Better Communicator",
+    "text": "8.3 How This Makes Me a Better Communicator\n[Isi refleksi akhir: Bagaimana proses review ini membantu kamu memahami komunikasi yang efektif?]",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-5 My Personal Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Personal_Reviews/index.html#penutup",
+    "href": "My_Personal_Reviews/index.html#penutup",
+    "title": "5  My Personal Reviews",
+    "section": "8.4 Penutup",
+    "text": "8.4 Penutup\nProses reviewing—baik self maupun peer—adalah latihan empati dan kritisisme konstruktif. Saya belajar bahwa:\n\nBeing honest is hard, tapi necessary untuk improvement\nEveryone has different strengths, dan itu okay\nFeedback is a gift, bahkan ketika sulit diterima\n\nPortfolio adalah work in progress. Begitu juga dengan kemampuan komunikasi saya.\n\n“The secret of happiness is to see all the marvels of the world, and never to forget the drops of oil on the spoon.”\n— Paulo Coelho, The Alchemist\nDan mungkin, secret of good communication adalah menerima bahwa kita akan selalu dalam proses belajar.",
+    "crumbs": [
+      "Ujian Tengah Semester",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-5 My Personal Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Story_Kuliah13/index.html",
+    "href": "My_Story_Kuliah13/index.html",
+    "title": "6  Author Yourself: Masterpiece in Progress",
+    "section": "",
+    "text": "6.1 Pengantar\nIni adalah hasil dari latihan “Author Yourself”—sebuah proses menggali pengalaman masa lalu, mengidentifikasi pola naratif, dan merancang masa depan sebagai misi yang bermakna.\nAssignment ini terdiri dari tiga tahap: 1. Audit Narasi - Menggali momen-momen kunci dalam “karir” (pengalaman akademik dan magang) 2. Hero’s Journey - Merancang masa depan sebagai quest naratif 3. Meja Redaksi - Menulis ulang narasi yang membatasi",
+    "crumbs": [
+      "Personal Development",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Kuliah 13: Author Yourself</span>"
+    ]
+  },
+  {
+    "objectID": "My_Story_Kuliah13/index.html#adegan-adegan-kunci",
+    "href": "My_Story_Kuliah13/index.html#adegan-adegan-kunci",
+    "title": "6  Author Yourself: Masterpiece in Progress",
+    "section": "7.1 Adegan-Adegan Kunci",
+    "text": "7.1 Adegan-Adegan Kunci\n\n7.1.1 🏆 Titik Puncak (High Point)\nMomen: Presentasi Final Magang Kerja Praktek\nMinggu terakhir magang, saya presentasikan sistem yang saya design selama 2 bulan ke stakeholder. Biasanya presentasi teknis penuh jargon dan stakeholder sering bingung. Tapi kali ini, saya sengaja simplify semua—pakai analogi sederhana, hindari istilah teknis yang njelimet.\nHasilnya? Stakeholder yang biasanya cuma nod-nod sambil bingung, kali ini actually engage. Ada yang tanya, ada yang kasih feedback konkret, ada yang bilang “Oh gitu toh, jadi lebih jelas sekarang.”\nInsight: Komunikasi yang efektif bukan tentang seberapa pintar kita kedengarannya, tapi seberapa jelas orang lain menangkap maksud kita.\n\n\n\n7.1.2 💔 Titik Terendah (Low Point)\nMomen: Stuck 6 Jam di Bug yang Sama\nSemester 5, tengah malam, deadline project besok pagi. Semua teman udah tidur. Saya masih di depan laptop, mata merah, kepala pusing, tapi kode masih error.\nYang bikin worse: ini bukan bug yang sulit. Tapi karena exhausted dan brain fog, saya ga bisa think clearly. Saya coba solution A, B, C—semua gagal. Akhirnya give up jam 4 pagi dan tidur dengan perasaan defeated.\nBesoknya, dengan kepala fresh, saya fix bug itu dalam 10 menit.\nLesson: Saya terrible at managing energy. Saya push sampai burnout, padahal kadang yang dibutuhkan itu istirahat, bukan kerja lebih keras.\n\n\n\n7.1.3 🔄 Titik Balik (Turning Point)\nMomen: Diterima SBMPTN ITB setelah Ditolak SNMPTN\n(Cerita lengkap ada di UTS-3)\nYang bikin ini turning point bukan cuma “lolos ITB”, tapi saya belajar bahwa failure bukan akhir. SNMPTN rejection bisa bikin saya give up. Tapi saya tetap try—dan it worked out.\nSejak saat itu, approach saya ke challenge berubah: dari “kalau gagal, berarti saya ga bisa” jadi “kalau gagal, try again dengan approach berbeda.”\n\n\n\n7.1.4 🧩 Ingatan Masa Kecil Awal\nMomen: Main Lego Sendirian (Umur ~6 tahun)\nSaya punya set Lego kecil—bukan set fancy dengan instruksi, cuma brick-brick random. Saya spent hours bikin “rumah” yang sebenernya lebih mirip abstract sculpture.\nYang paling jelas: saya happy banget main sendiri. Ga butuh teman, ga butuh supervision. Cukup saya, Lego, dan imajinasi.\nInsight: Early sign bahwa saya introvert yang nyaman dengan solitary activities—dan mungkin juga early sign bahwa saya suka building systems.\n\n\n\n7.1.5 ⚠️ Tantangan Besar (Major Challenge)\nMomen: Group Project dengan Tim yang Ghost\nClassic nightmare: group project semester 6, dari 5 orang cuma 2 yang contribute. Yang 3 sisanya? Ghost.\nSaya awalnya try diplomat—reminder halus, offer bantuan. Tapi at some point: they’re not gonna do anything. So I had to choose: let it fail atau take over and do most of it myself.\nSaya pilih option 2. Exhausting? Ya. Unfair? Absolutely.\nLearning: Kadang dalam team, kamu ga bisa rely on everyone. Kamu harus adaptasi dan carry the load when needed. Also, be more selective tentang siapa yang saya mau kerja bareng.\n\n\n\n7.1.6 ✨ Kesuksesan Besar (Major Success)\nMomen: Redesign Reporting System di Magang\nPerusahaan punya reporting system yang super clunky. User complain terus karena susah navigate. Saya dikasih task untuk redesign.\nHasil: redesign yang jauh lebih clean. User bisa find data dengan 3 clicks instead of 10. Feedback overwhelmingly positive. Manager consider implement design saya ke production.\nWhat made this meaningful: Ini proof bahwa saya bisa solve real-world problems dengan user-centered approach. Dan itu confidence boost yang besar.",
+    "crumbs": [
+      "Personal Development",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Kuliah 13: Author Yourself</span>"
+    ]
+  },
+  {
+    "objectID": "My_Story_Kuliah13/index.html#analisis-naratif",
+    "href": "My_Story_Kuliah13/index.html#analisis-naratif",
+    "title": "6  Author Yourself: Masterpiece in Progress",
+    "section": "7.2 Analisis Naratif",
+    "text": "7.2 Analisis Naratif\n\n7.2.1 Penebusan vs. Kontaminasi\nPola dominan: Penebusan\nHampir semua cerita bergerak dari buruk ke baik atau challenge ke learning: - Bug 6 jam → Learning tentang energy management - SNMPTN rejection → SBMPTN success\n- Ghost teammates → Learning tentang adaptability\nInsight: Saya cenderung frame experiences sebagai growth opportunities, even when they suck.\n\n\n\n7.2.2 Agensi vs. Pasivitas\nMixed, tapi lebih ke Agensi\n\nAgensi tinggi: SBMPTN (choice to keep trying), Magang redesign (proactive), Group project (decision to carry load)\nPasivitas: Bug stuck (feeling helpless), Early memory (no real agency yet)\n\nInsight: When I have agency, I feel fulfilled. Situations where things happen to me adalah yang bikin frustrated.\n\n\n\n7.2.3 Persekutuan vs. Isolasi\nMixed, dengan preference ke Isolasi\n\nPersekutuan: Magang (kolaborasi dengan stakeholders)\nIsolasi: Main Lego sendiri, stuck tengah malam sendiri\n\nInsight: Saya comfortable working alone, tapi recognize value dari collaboration when it’s effective. Bad collaboration worse daripada solo.",
+    "crumbs": [
+      "Personal Development",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Kuliah 13: Author Yourself</span>"
+    ]
+  },
+  {
+    "objectID": "My_Story_Kuliah13/index.html#deteksi-nilai-inti",
+    "href": "My_Story_Kuliah13/index.html#deteksi-nilai-inti",
+    "title": "6  Author Yourself: Masterpiece in Progress",
+    "section": "7.3 Deteksi Nilai Inti",
+    "text": "7.3 Deteksi Nilai Inti\n\n7.3.1 Pada Titik Puncak & Kesuksesan:\n\nClarity/Kesederhanaan - Simplify complexity jadi understandable\nProblem-Solving - Solve real user pain points\nEffectiveness - Hasil yang work, bukan tampil pintar\n\n\n\n7.3.2 Pada Titik Terendah & Tantangan:\nBug 6 jam: - Nilai dilanggar: Balance & Sustainability - Core value: Work-rest equilibrium\nGhost teammates: - Nilai dilanggar: Equity & Shared responsibility\n- Core value: Fairness & effective collaboration\nSNMPTN rejection: - Nilai dilanggar: Certainty & Control - Core value: Resilience & Adaptability",
+    "crumbs": [
+      "Personal Development",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Kuliah 13: Author Yourself</span>"
+    ]
+  },
+  {
+    "objectID": "My_Story_Kuliah13/index.html#blueprint-kepemimpinan-saya",
+    "href": "My_Story_Kuliah13/index.html#blueprint-kepemimpinan-saya",
+    "title": "6  Author Yourself: Masterpiece in Progress",
+    "section": "7.4 Blueprint Kepemimpinan Saya",
+    "text": "7.4 Blueprint Kepemimpinan Saya\n\n7.4.1 Nilai-Nilai Inti:\n\nClarity & Simplicity - Make complex things understandable\nResilience - Bounce back from setbacks\nEffectiveness over Appearance - Results &gt; looking smart\nBalance & Sustainability - Work smart, not just hard\nAdaptability - Adjust when plans don’t work\n\n\n\n7.4.2 Tema Naratif Dominan:\nPenebusan dengan Agensi\nCerita saya consistently about overcoming challenges through deliberate action. Even ketika things go wrong, saya tidak stuck di victim mentality—saya find ways to adapt and grow.\nNamun, ada pola: saya cenderung push too hard dan sometimes carry too much burden sendiri. Need untuk better boundaries & energy management.\n\n\n7.4.3 Kekuatan Naratif:\n\nResilience - Bangkit dari rejection & challenges\nProblem-Solving Mindset - Redesign systems, simplify jargon\nSelf-Awareness - Recognize introversion & energy issues\nAdaptability - Adjust approach when plans fail\nUser-Centered Thinking - Focus on understanding, not ego\n\n\nBlueprint Summary:\nSaya adalah problem solver introvert yang thrive pada clarity and effectiveness. Kekuatan: resilience dan kemampuan simplify complexity. Challenge: tendency to push too hard dan kurang manage energy. Moving forward: develop better balance dan boundaries tanpa kehilangan drive untuk solve problems.",
+    "crumbs": [
+      "Personal Development",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Kuliah 13: Author Yourself</span>"
+    ]
+  },
+  {
+    "objectID": "My_Story_Kuliah13/index.html#quest-becoming-effective-and-sustainable",
+    "href": "My_Story_Kuliah13/index.html#quest-becoming-effective-and-sustainable",
+    "title": "6  Author Yourself: Masterpiece in Progress",
+    "section": "8.1 Quest: Becoming Effective AND Sustainable",
+    "text": "8.1 Quest: Becoming Effective AND Sustainable\nMisi: Menjadi seseorang yang effective dan sustainable—bisa deliver results tanpa burnout, bisa lead tanpa sacrificing well-being.\n\n\n8.1.1 1️⃣ Dunia Biasa (The Ordinary World)\nSaat ini:\nSaya mahasiswa semester 7 yang competent tapi chronically stressed. Saya bisa solve problems, deliver projects, communicate effectively—tapi semuanya dengan cost: exhaustion, distraction, mental fatigue.\nPattern: work hard → burnout → barely recover → repeat.\nDefault mode: “Hustle harder” even when clearly not working.\n\n\n\n8.1.2 2️⃣ Panggilan Bertualang (The Call to Adventure)\nIde yang muncul:\n“What if effectiveness bukan tentang working harder, tapi tentang working with less friction?”\nPanggilan muncul setelah: - Bug 6 jam yang solved dalam 10 menit setelah rest - Magang yang show simplicity = effectiveness - Semester 7 realization: “Kalau terus kayak gini, ga survive sampai wisuda”\nThe call: Transition dari “work harder” ke “work smarter & sustainably”.\n\n\n\n8.1.3 3️⃣ Penolakan Panggilan (Refusal of the Call)\nKetakutan:\n“Kalau slow down, saya akan tertinggal.”\nDeep fear: being relaxed = being lazy. Grew up dengan belief bahwa “success = suffering”. Kalau ga struggle, berarti ga trying hard enough.\nPlus imposter syndrome: “Kalau ga push myself, saya akan exposed sebagai not that smart.”\nDan: saya ga tahu caranya. How to be effective tanpa exhausting yourself? Feels contradictory.\n\n\n\n8.1.4 4️⃣ Melewati Ambang Batas (Crossing the Threshold)\nLangkah pertama:\nDecision: Starting semester 8, commit untuk experiment dengan sustainable productivity: - Max 6 jam productive work/day (instead of 10-12) - Mandatory breaks every 90 menit - Say “no” to 2 commitments yang ga align - Track energy levels, not just tasks\nPoint of no return: Ketika actually decline opportunity yang “prestigious tapi exhausting”—proving saya serious tentang change.\n\n\n\n8.1.5 5️⃣ Ujian, Sekutu, dan Musuh\nTests (Challenges): - Deadline ketat yang tempt revert ke hustle - Peer pressure dari yang “grind 24/7” - Internal guilt ketika rest\nAllies: - Tools: Time-blocking, Pomodoro, energy journal - People: Teman yang value balance - Concepts: Parkinson’s Law, Deep Work\nEnemies: - Inner Critic: “Kamu lazy” voice - Distraction: Jump task ke task - Culture: Glorify burnout as badge\n\n\n\n8.1.6 6️⃣ Ujian Berat (The Ordeal)\nKrisis:\nMid-semester 8: Major project + skripsi proposal defense dalam 1 minggu yang sama.\nOld me: panic, all-nighters, coffee overdose.\nChallenge: Can I deliver both without reverting to destructive patterns?\nThe ordeal: High-stakes dengan new rules (max 6 jam/day, breaks). Testing whether “sustainable productivity” actually works under pressure.\nFailure point: Kalau fail, conclude “hustle is the only way” dan abandon quest.\n\n\n\n8.1.7 7️⃣ Kembali dengan Eliksir (Return with the Elixir)\nKalau berhasil:\nEliksir #1: Proof of Concept Evidence bahwa sustainable approach works even under pressure. Share dengan peers yang struggling.\nEliksir #2: Refined Framework Personal productivity system yang tested dan proven—bukan just theory.\nEliksir #3: Identity Shift Dari “Competent but burnt out” jadi “Effective AND sustainable”. New version yang bisa dimodel untuk others.\nSharing: - Write reflection (blog/LinkedIn) - Share framework dengan juniors - Model behavior: show it’s possible",
+    "crumbs": [
+      "Personal Development",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Kuliah 13: Author Yourself</span>"
+    ]
+  },
+  {
+    "objectID": "My_Story_Kuliah13/index.html#menulis-ulang-narasi-yang-membatasi",
+    "href": "My_Story_Kuliah13/index.html#menulis-ulang-narasi-yang-membatasi",
+    "title": "6  Author Yourself: Masterpiece in Progress",
+    "section": "9.1 Menulis Ulang Narasi yang Membatasi",
+    "text": "9.1 Menulis Ulang Narasi yang Membatasi\n\n9.1.1 🎭 Alat 1: Eksternalisasi\nOld Belief: “Saya gampang distraksi dan mudah berpindah fokus. Saya tidak bisa sustain attention.”\nEksternalisasi: Alih-alih “Saya orang yang ga bisa fokus” → “Saya problem solver yang melawan pengaruh ‘The Jumper’.”\n“The Jumper” adalah karakter yang whisper: - “Task ini boring, switch ke lain” - “Kamu ga akan finish ini” - “Multitasking = productive”\nDengan naming, The Jumper jadi external enemy—bukan inherent flaw.\n\n\n\n9.1.2 ✨ Alat 2: Berburu “Momen Berkilau”\nKapan “The Jumper” bersuara, tapi saya stay focused?\nMomen 1: Magang Redesign Stayed committed to design direction, iterate instead of restart.\nMomen 2: Bug Aftermath Fokus 10 menit straight dan solve. Proof saya BISA focus dengan right conditions.\nMomen 3: Ghost Teammates Ga give up meskipun unfair. Stay committed dan finish.\nMomen 4: SBMPTN Prep 2 bulan sustained focus. Commit dan execute.\nWhat these show: - Saya BISA fokus ketika clear goal + stakes - Saya BISA resist distraction ketika care about outcome - The Jumper bukan all-powerful\n\n\n\n9.1.3 📝 Alat 3: Tulis Ulang Ceritanya\nOld Narrative (Limiting): “Saya gampang distraksi, ga bisa fokus, always berpindah. Ini inherent flaw. Makanya struggle dan harus work harder.”\nNew Narrative (Empowering): “Saya seseorang dengan high cognitive energy yang butuh meaningful engagement. Ketika task meaningless atau approach wrong, ‘The Jumper’ muncul sebagai signal bahwa ada yang perlu adjusted—approach, rest, atau priorities.\nSaya sudah proven bisa sustain focus (SBMPTN, magang, group project). Distraction bukan flaw—itu symptom dari misaligned energy atau insufficient rest.\nChallenge bukan ‘fix distraction’. Challenge adalah manage energy better dan choose battles worth sustained focus.”",
+    "crumbs": [
+      "Personal Development",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Kuliah 13: Author Yourself</span>"
+    ]
+  },
+  {
+    "objectID": "My_Story_Kuliah13/index.html#refleksi-siapa-saya-sebenarnya",
+    "href": "My_Story_Kuliah13/index.html#refleksi-siapa-saya-sebenarnya",
+    "title": "6  Author Yourself: Masterpiece in Progress",
+    "section": "9.2 Refleksi: Siapa Saya Sebenarnya?",
+    "text": "9.2 Refleksi: Siapa Saya Sebenarnya?\nMomen berkilau reveal:\n\nSaya bukan “orang yang ga bisa fokus”—saya fokus secara selektif\nDistraction bukan enemy—distraction adalah signal something is off\nSaya punya capacity untuk sustained effort—proven multiple times\n“The Jumper” paling lemah ketika:\n\nWell-rested\nGoal jelas dan meaningful\nAda accountability\n\nRoot problem bukan attention span—root problem adalah energy management dan meaning alignment\n\nKesimpulan:\nSaya adalah strategic problem solver yang butuh meaningful challenges dan sustainable energy management. Ketika conditions right, saya deliver. Ketika wrong (exhausted, meaningless), “The Jumper” takes over as self-protection.",
+    "crumbs": [
+      "Personal Development",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Kuliah 13: Author Yourself</span>"
+    ]
+  },
+  {
+    "objectID": "My_Story_Kuliah13/index.html#action-plan-tomorrow",
+    "href": "My_Story_Kuliah13/index.html#action-plan-tomorrow",
+    "title": "6  Author Yourself: Masterpiece in Progress",
+    "section": "9.3 Action Plan: Tomorrow",
+    "text": "9.3 Action Plan: Tomorrow\n\n9.3.1 1. Morning Energy Check-in (5 menit)\n\n“Energy level 1-10?”\n“Kalau di bawah 7, adjust apa?”\n\n\n\n9.3.2 2. One Focused Block (90 menit)\nPick satu meaningful task, eliminate distraction, focus.\nWhen “The Jumper” whispers: Acknowledge, tapi stay committed.\n\n\n9.3.3 3. Scheduled Break (Non-negotiable)\nAfter focused block: 15-20 menit break. Walk, stretch, anything except screen.\n\n\n9.3.4 4. Decline One Thing\nFind satu commitment yang not aligned, politely decline.\n\n\n9.3.5 5. Evening Reflection (3 menit)\n\n“When did ‘The Jumper’ show up?”\n“When did I resist successfully?”\n“What made focus easier/harder?”\n\n\nWhy these work:\nSmall enough untuk doable, tapi significant enough untuk shift narrative. Setiap small win adalah evidence against old limiting story.\nAfter 7 days, saya akan punya proof bahwa new narrative bukan wishful thinking—it’s reality in progress.",
+    "crumbs": [
+      "Personal Development",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Kuliah 13: Author Yourself</span>"
+    ]
+  },
+  {
+    "objectID": "My_Story_Kuliah13/index.html#penutup-the-narrative-continues",
+    "href": "My_Story_Kuliah13/index.html#penutup-the-narrative-continues",
+    "title": "6  Author Yourself: Masterpiece in Progress",
+    "section": "9.4 Penutup: The Narrative Continues",
+    "text": "9.4 Penutup: The Narrative Continues\nIni bukan akhir cerita. Ini adalah conscious authoring dari bab berikutnya.\nKey insights: - Vulnerability adalah kekuatan, bukan kelemahan - Energy management lebih penting dari time management - Meaningful engagement beats forcing focus - Sustainable effectiveness is possible\nPortfolio ini adalah work in progress. Begitu juga dengan saya.\n\n“We are the stories we tell ourselves. Choose your narrative wisely.”",
+    "crumbs": [
+      "Personal Development",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Kuliah 13: Author Yourself</span>"
+    ]
+  },
+  {
+    "objectID": "My_Concepts/index.html",
+    "href": "My_Concepts/index.html",
+    "title": "7  UAS-1 My Concepts",
+    "section": "",
+    "text": "Mau hidup epik ? Write your Life Story\nApa itu berkonsep?",
+    "crumbs": [
+      "Ujian Akhir Semester",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>UAS-1 My Concepts</span>"
+    ]
+  },
+  {
+    "objectID": "My_Opinions/index.html",
+    "href": "My_Opinions/index.html",
+    "title": "8  UAS-3 My Opinions",
+    "section": "",
+    "text": "SApa itu beropini? Opini Berpengaruh\nBagiamana menjaadi menarik? Menjadi Menarik",
+    "crumbs": [
+      "Ujian Akhir Semester",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>UAS-2 My Opinions</span>"
+    ]
+  },
+  {
+    "objectID": "My_Knowledge/index.html",
+    "href": "My_Knowledge/index.html",
+    "title": "10  UAS-4 My Knowledge",
+    "section": "",
+    "text": "Cara saya mengkomunikasikan sebuah pengatahuan sebagai petunjuk bagi orang lain 1) saya tulis makalah sebagai bahan utama 2) lalu saya buat transkrip ucapan lisan 3) kemudian saya kembangkan slide pendukung trnsskrip 4) lalu saya memproduksivideo audio visual",
+    "crumbs": [
+      "Ujian Akhir Semester",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-4 My Knowledge</span>"
+    ]
+  },
+  {
+    "objectID": "My_Professional_Reviews/index.html",
+    "href": "My_Professional_Reviews/index.html",
+    "title": "11  UAS-5 My Professional Reviews",
+    "section": "",
+    "text": "Untuk melAkukan review, seperti pada pendekatan AI, kita membutuhkan rubrik",
+    "crumbs": [
+      "Ujian Akhir Semester",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>UAS-5 My Professional Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "12  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  }
+]
