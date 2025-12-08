@@ -1,0 +1,440 @@
+---
+title: "Author Yourself: Masterpiece in Progress"
+subtitle: "Kuliah 13 - Personal Leadership Development"
+author: "Jonathan Wiguna"
+date: "2025-12-08"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+---
+
+## Pengantar
+
+Ini adalah hasil dari latihan "Author Yourself"—sebuah proses menggali pengalaman masa lalu, mengidentifikasi pola naratif, dan merancang masa depan sebagai misi yang bermakna.
+
+Assignment ini terdiri dari tiga tahap:
+1. **Audit Narasi** - Menggali momen-momen kunci dalam "karir" (pengalaman akademik dan magang)
+2. **Hero's Journey** - Merancang masa depan sebagai quest naratif
+3. **Meja Redaksi** - Menulis ulang narasi yang membatasi
+
+---
+
+# TAHAP I: AUDIT NARASI
+
+## Adegan-Adegan Kunci
+
+### 🏆 Titik Puncak (High Point)
+
+**Momen: Presentasi Final Magang Kerja Praktek**
+
+Minggu terakhir magang, saya presentasikan sistem yang saya design selama 2 bulan ke stakeholder. Biasanya presentasi teknis penuh jargon dan stakeholder sering bingung. Tapi kali ini, saya sengaja simplify semua—pakai analogi sederhana, hindari istilah teknis yang njelimet.
+
+Hasilnya? Stakeholder yang biasanya cuma nod-nod sambil bingung, kali ini actually engage. Ada yang tanya, ada yang kasih feedback konkret, ada yang bilang "Oh gitu toh, jadi lebih jelas sekarang."
+
+**Insight:** Komunikasi yang efektif bukan tentang seberapa pintar kita kedengarannya, tapi **seberapa jelas orang lain menangkap maksud kita**.
+
+---
+
+### 💔 Titik Terendah (Low Point)
+
+**Momen: Stuck 6 Jam di Bug yang Sama**
+
+Semester 5, tengah malam, deadline project besok pagi. Semua teman udah tidur. Saya masih di depan laptop, mata merah, kepala pusing, tapi kode masih error.
+
+Yang bikin worse: ini bukan bug yang sulit. Tapi karena exhausted dan brain fog, saya ga bisa think clearly. Saya coba solution A, B, C—semua gagal. Akhirnya give up jam 4 pagi dan tidur dengan perasaan defeated.
+
+Besoknya, dengan kepala fresh, saya fix bug itu dalam **10 menit**.
+
+**Lesson:** Saya terrible at managing energy. Saya push sampai burnout, padahal kadang yang dibutuhkan itu istirahat, bukan kerja lebih keras.
+
+---
+
+### 🔄 Titik Balik (Turning Point)
+
+**Momen: Diterima SBMPTN ITB setelah Ditolak SNMPTN**
+
+(Cerita lengkap ada di UTS-3)
+
+Yang bikin ini turning point bukan cuma "lolos ITB", tapi saya belajar bahwa **failure bukan akhir**. SNMPTN rejection bisa bikin saya give up. Tapi saya tetap try—dan it worked out.
+
+Sejak saat itu, approach saya ke challenge berubah: dari "kalau gagal, berarti saya ga bisa" jadi **"kalau gagal, try again dengan approach berbeda."**
+
+---
+
+### 🧩 Ingatan Masa Kecil Awal
+
+**Momen: Main Lego Sendirian (Umur ~6 tahun)**
+
+Saya punya set Lego kecil—bukan set fancy dengan instruksi, cuma brick-brick random. Saya spent hours bikin "rumah" yang sebenernya lebih mirip abstract sculpture.
+
+Yang paling jelas: **saya happy banget main sendiri**. Ga butuh teman, ga butuh supervision. Cukup saya, Lego, dan imajinasi.
+
+**Insight:** Early sign bahwa saya introvert yang nyaman dengan solitary activities—dan mungkin juga early sign bahwa saya suka **building systems**.
+
+---
+
+### ⚠️ Tantangan Besar (Major Challenge)
+
+**Momen: Group Project dengan Tim yang Ghost**
+
+Classic nightmare: group project semester 6, dari 5 orang cuma 2 yang contribute. Yang 3 sisanya? Ghost.
+
+Saya awalnya try diplomat—reminder halus, offer bantuan. Tapi at some point: **they're not gonna do anything**. So I had to choose: let it fail atau take over and do most of it myself.
+
+Saya pilih option 2. Exhausting? Ya. Unfair? Absolutely.
+
+**Learning:** Kadang dalam team, kamu ga bisa rely on everyone. Kamu harus **adaptasi dan carry the load when needed**. Also, be more selective tentang siapa yang saya mau kerja bareng.
+
+---
+
+### ✨ Kesuksesan Besar (Major Success)
+
+**Momen: Redesign Reporting System di Magang**
+
+Perusahaan punya reporting system yang super clunky. User complain terus karena susah navigate. Saya dikasih task untuk redesign.
+
+Hasil: redesign yang jauh lebih clean. User bisa find data dengan **3 clicks instead of 10**. Feedback overwhelmingly positive. Manager consider implement design saya ke production.
+
+**What made this meaningful:** Ini proof bahwa saya bisa **solve real-world problems dengan user-centered approach**. Dan itu confidence boost yang besar.
+
+---
+
+## Analisis Naratif
+
+### Penebusan vs. Kontaminasi
+
+**Pola dominan: Penebusan**
+
+Hampir semua cerita bergerak dari buruk ke baik atau challenge ke learning:
+- Bug 6 jam → Learning tentang energy management
+- SNMPTN rejection → SBMPTN success  
+- Ghost teammates → Learning tentang adaptability
+
+**Insight:** Saya cenderung frame experiences sebagai **growth opportunities**, even when they suck.
+
+---
+
+### Agensi vs. Pasivitas
+
+**Mixed, tapi lebih ke Agensi**
+
+- **Agensi tinggi:** SBMPTN (choice to keep trying), Magang redesign (proactive), Group project (decision to carry load)
+- **Pasivitas:** Bug stuck (feeling helpless), Early memory (no real agency yet)
+
+**Insight:** When I have **agency**, I feel fulfilled. Situations where things happen **to me** adalah yang bikin frustrated.
+
+---
+
+### Persekutuan vs. Isolasi
+
+**Mixed, dengan preference ke Isolasi**
+
+- **Persekutuan:** Magang (kolaborasi dengan stakeholders)
+- **Isolasi:** Main Lego sendiri, stuck tengah malam sendiri
+
+**Insight:** Saya comfortable working alone, tapi recognize value dari **collaboration when it's effective**. Bad collaboration worse daripada solo.
+
+---
+
+## Deteksi Nilai Inti
+
+### Pada Titik Puncak & Kesuksesan:
+
+1. **Clarity/Kesederhanaan** - Simplify complexity jadi understandable
+2. **Problem-Solving** - Solve real user pain points
+3. **Effectiveness** - Hasil yang work, bukan tampil pintar
+
+### Pada Titik Terendah & Tantangan:
+
+**Bug 6 jam:**
+- Nilai dilanggar: **Balance & Sustainability**
+- Core value: Work-rest equilibrium
+
+**Ghost teammates:**
+- Nilai dilanggar: **Equity & Shared responsibility**  
+- Core value: Fairness & effective collaboration
+
+**SNMPTN rejection:**
+- Nilai dilanggar: **Certainty & Control**
+- Core value: **Resilience & Adaptability**
+
+---
+
+## Blueprint Kepemimpinan Saya
+
+### Nilai-Nilai Inti:
+1. **Clarity & Simplicity** - Make complex things understandable
+2. **Resilience** - Bounce back from setbacks
+3. **Effectiveness over Appearance** - Results > looking smart
+4. **Balance & Sustainability** - Work smart, not just hard
+5. **Adaptability** - Adjust when plans don't work
+
+### Tema Naratif Dominan:
+**Penebusan dengan Agensi**
+
+Cerita saya consistently about overcoming challenges through deliberate action. Even ketika things go wrong, saya tidak stuck di victim mentality—saya find ways to adapt and grow.
+
+**Namun**, ada pola: saya cenderung **push too hard** dan sometimes **carry too much burden sendiri**. Need untuk better boundaries & energy management.
+
+### Kekuatan Naratif:
+1. **Resilience** - Bangkit dari rejection & challenges
+2. **Problem-Solving Mindset** - Redesign systems, simplify jargon
+3. **Self-Awareness** - Recognize introversion & energy issues
+4. **Adaptability** - Adjust approach when plans fail
+5. **User-Centered Thinking** - Focus on understanding, not ego
+
+---
+
+**Blueprint Summary:**
+
+Saya adalah **problem solver introvert** yang thrive pada **clarity and effectiveness**. Kekuatan: **resilience dan kemampuan simplify complexity**. Challenge: **tendency to push too hard dan kurang manage energy**. Moving forward: develop **better balance dan boundaries** tanpa kehilangan drive untuk solve problems.
+
+---
+
+# TAHAP II: HERO'S JOURNEY
+
+## Quest: Becoming Effective AND Sustainable
+
+**Misi:** Menjadi seseorang yang **effective dan sustainable**—bisa deliver results tanpa burnout, bisa lead tanpa sacrificing well-being.
+
+---
+
+### 1️⃣ Dunia Biasa (The Ordinary World)
+
+**Saat ini:**
+
+Saya mahasiswa semester 7 yang **competent tapi chronically stressed**. Saya bisa solve problems, deliver projects, communicate effectively—tapi semuanya dengan cost: **exhaustion, distraction, mental fatigue**.
+
+Pattern: work hard → burnout → barely recover → repeat.
+
+Default mode: **"Hustle harder"** even when clearly not working.
+
+---
+
+### 2️⃣ Panggilan Bertualang (The Call to Adventure)
+
+**Ide yang muncul:**
+
+"What if effectiveness bukan tentang working harder, tapi tentang **working with less friction**?"
+
+Panggilan muncul setelah:
+- Bug 6 jam yang solved dalam 10 menit setelah rest
+- Magang yang show **simplicity = effectiveness**
+- Semester 7 realization: "Kalau terus kayak gini, ga survive sampai wisuda"
+
+**The call:** Transition dari "work harder" ke **"work smarter & sustainably"**.
+
+---
+
+### 3️⃣ Penolakan Panggilan (Refusal of the Call)
+
+**Ketakutan:**
+
+"Kalau slow down, saya akan tertinggal."
+
+Deep fear: **being relaxed = being lazy**. Grew up dengan belief bahwa "success = suffering". Kalau ga struggle, berarti ga trying hard enough.
+
+Plus **imposter syndrome**: "Kalau ga push myself, saya akan exposed sebagai not that smart."
+
+Dan: **saya ga tahu caranya**. How to be effective tanpa exhausting yourself? Feels contradictory.
+
+---
+
+### 4️⃣ Melewati Ambang Batas (Crossing the Threshold)
+
+**Langkah pertama:**
+
+**Decision:** Starting semester 8, commit untuk **experiment dengan sustainable productivity**:
+- Max 6 jam productive work/day (instead of 10-12)
+- Mandatory breaks every 90 menit
+- Say "no" to 2 commitments yang ga align
+- Track energy levels, not just tasks
+
+**Point of no return:** Ketika actually **decline** opportunity yang "prestigious tapi exhausting"—proving saya serious tentang change.
+
+---
+
+### 5️⃣ Ujian, Sekutu, dan Musuh
+
+**Tests (Challenges):**
+- Deadline ketat yang tempt revert ke hustle
+- Peer pressure dari yang "grind 24/7"
+- Internal guilt ketika rest
+
+**Allies:**
+- **Tools:** Time-blocking, Pomodoro, energy journal
+- **People:** Teman yang value balance
+- **Concepts:** Parkinson's Law, Deep Work
+
+**Enemies:**
+- **Inner Critic:** "Kamu lazy" voice
+- **Distraction:** Jump task ke task
+- **Culture:** Glorify burnout as badge
+
+---
+
+### 6️⃣ Ujian Berat (The Ordeal)
+
+**Krisis:**
+
+Mid-semester 8: **Major project + skripsi proposal defense dalam 1 minggu yang sama**.
+
+Old me: panic, all-nighters, coffee overdose.
+
+**Challenge:** Can I deliver both **without reverting to destructive patterns**?
+
+**The ordeal:** High-stakes dengan new rules (max 6 jam/day, breaks). Testing whether "sustainable productivity" actually works under pressure.
+
+**Failure point:** Kalau fail, conclude "hustle is the only way" dan abandon quest.
+
+---
+
+### 7️⃣ Kembali dengan Eliksir (Return with the Elixir)
+
+**Kalau berhasil:**
+
+**Eliksir #1: Proof of Concept**
+Evidence bahwa **sustainable approach works even under pressure**. Share dengan peers yang struggling.
+
+**Eliksir #2: Refined Framework**
+**Personal productivity system** yang tested dan proven—bukan just theory.
+
+**Eliksir #3: Identity Shift**
+Dari **"Competent but burnt out"** jadi **"Effective AND sustainable"**. New version yang bisa dimodel untuk others.
+
+**Sharing:**
+- Write reflection (blog/LinkedIn)
+- Share framework dengan juniors
+- Model behavior: show it's possible
+
+---
+
+# TAHAP III: MEJA REDAKSI
+
+## Menulis Ulang Narasi yang Membatasi
+
+### 🎭 Alat 1: Eksternalisasi
+
+**Old Belief:**
+"Saya gampang distraksi dan mudah berpindah fokus. Saya tidak bisa sustain attention."
+
+**Eksternalisasi:**
+Alih-alih "Saya orang yang ga bisa fokus" → **"Saya problem solver yang melawan pengaruh 'The Jumper'."**
+
+**"The Jumper"** adalah karakter yang whisper:
+- "Task ini boring, switch ke lain"
+- "Kamu ga akan finish ini"
+- "Multitasking = productive"
+
+Dengan naming, **The Jumper** jadi external enemy—bukan inherent flaw.
+
+---
+
+### ✨ Alat 2: Berburu "Momen Berkilau"
+
+**Kapan "The Jumper" bersuara, tapi saya stay focused?**
+
+**Momen 1: Magang Redesign**
+Stayed committed to design direction, iterate instead of restart.
+
+**Momen 2: Bug Aftermath**
+Fokus 10 menit straight dan solve. Proof saya BISA focus dengan right conditions.
+
+**Momen 3: Ghost Teammates**
+Ga give up meskipun unfair. Stay committed dan finish.
+
+**Momen 4: SBMPTN Prep**
+2 bulan sustained focus. Commit dan execute.
+
+**What these show:**
+- Saya BISA fokus ketika **clear goal + stakes**
+- Saya BISA resist distraction ketika **care about outcome**
+- **The Jumper** bukan all-powerful
+
+---
+
+### 📝 Alat 3: Tulis Ulang Ceritanya
+
+**Old Narrative (Limiting):**
+"Saya gampang distraksi, ga bisa fokus, always berpindah. Ini inherent flaw. Makanya struggle dan harus work harder."
+
+**New Narrative (Empowering):**
+"Saya seseorang dengan **high cognitive energy yang butuh meaningful engagement**. Ketika task meaningless atau approach wrong, 'The Jumper' muncul sebagai **signal** bahwa ada yang perlu adjusted—approach, rest, atau priorities.
+
+**Saya sudah proven** bisa sustain focus (SBMPTN, magang, group project). Distraction bukan flaw—itu **symptom dari misaligned energy atau insufficient rest**.
+
+Challenge bukan 'fix distraction'. Challenge adalah **manage energy better** dan **choose battles worth sustained focus**."
+
+---
+
+## Refleksi: Siapa Saya Sebenarnya?
+
+**Momen berkilau reveal:**
+
+1. Saya bukan "orang yang ga bisa fokus"—saya **fokus secara selektif**
+
+2. Distraction bukan enemy—distraction adalah **signal** something is off
+
+3. Saya punya capacity untuk sustained effort—proven multiple times
+
+4. **"The Jumper" paling lemah** ketika:
+   - Well-rested
+   - Goal jelas dan meaningful
+   - Ada accountability
+
+5. Root problem bukan attention span—root problem adalah **energy management** dan **meaning alignment**
+
+**Kesimpulan:**
+
+Saya adalah **strategic problem solver yang butuh meaningful challenges dan sustainable energy management**. Ketika conditions right, saya deliver. Ketika wrong (exhausted, meaningless), "The Jumper" takes over as self-protection.
+
+---
+
+## Action Plan: Tomorrow
+
+### 1. Morning Energy Check-in (5 menit)
+- "Energy level 1-10?"
+- "Kalau di bawah 7, adjust apa?"
+
+### 2. One Focused Block (90 menit)
+Pick satu meaningful task, eliminate distraction, focus.
+
+When "The Jumper" whispers: Acknowledge, tapi stay committed.
+
+### 3. Scheduled Break (Non-negotiable)
+After focused block: **15-20 menit break**. Walk, stretch, anything except screen.
+
+### 4. Decline One Thing
+Find satu commitment yang **not aligned**, politely decline.
+
+### 5. Evening Reflection (3 menit)
+- "When did 'The Jumper' show up?"
+- "When did I resist successfully?"
+- "What made focus easier/harder?"
+
+---
+
+**Why these work:**
+
+Small enough untuk doable, tapi **significant enough** untuk shift narrative. Setiap small win adalah evidence against old limiting story.
+
+After 7 days, saya akan punya **proof** bahwa new narrative bukan wishful thinking—it's reality in progress.
+
+---
+
+## Penutup: The Narrative Continues
+
+Ini bukan akhir cerita. Ini adalah **conscious authoring** dari bab berikutnya.
+
+Key insights:
+- **Vulnerability** adalah kekuatan, bukan kelemahan
+- **Energy management** lebih penting dari time management
+- **Meaningful engagement** beats forcing focus
+- **Sustainable effectiveness** is possible
+
+Portfolio ini adalah work in progress. Begitu juga dengan saya.
+
+---
+
+*"We are the stories we tell ourselves. Choose your narrative wisely."*

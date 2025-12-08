@@ -21,6 +21,10 @@ book:
           file: My_Shapes/index.qmd
         - text: "UTS-5 My Personal Reviews"
           file: My_Personal_Reviews/index.qmd
+    - part: "Personal Development"
+      chapters:
+        - text: "Kuliah 13: Author Yourself"
+          file: My_Story_Kuliah13/index.qmd
     - part: "Ujian Akhir Semester"
       chapters:
         - text: "UAS-1 My Concepts"
