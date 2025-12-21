@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Jonathan Wiguna">
+<meta name="dcterms.date" content="2025-10-18">
 
-<title>10&nbsp; UAS-4 My Knowledge – Jonathan Wiguna</title>
+<title>10&nbsp; My Knowledge: Designing Inclusive Educational Technology – Jonathan Wiguna</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -19,6 +21,41 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -233,22 +270,114 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#pengantar-knowledge-untuk-siapa" id="toc-pengantar-knowledge-untuk-siapa" class="nav-link active" data-scroll-target="#pengantar-knowledge-untuk-siapa"><span class="header-section-number">10.1</span> Pengantar: Knowledge untuk Siapa?</a></li>
+  <li><a href="#part-1-prinsip-dasar-inclusive-edtech-design" id="toc-part-1-prinsip-dasar-inclusive-edtech-design" class="nav-link" data-scroll-target="#part-1-prinsip-dasar-inclusive-edtech-design"><span class="header-section-number">11</span> Part 1: Prinsip Dasar Inclusive Edtech Design</a>
+  <ul class="collapse">
+  <li><a href="#prinsip-1-design-for-the-margins-not-the-average" id="toc-prinsip-1-design-for-the-margins-not-the-average" class="nav-link" data-scroll-target="#prinsip-1-design-for-the-margins-not-the-average"><span class="header-section-number">11.1</span> Prinsip 1: Design for the Margins, Not the Average</a>
+  <ul class="collapse">
+  <li><a href="#apa-artinya" id="toc-apa-artinya" class="nav-link" data-scroll-target="#apa-artinya"><span class="header-section-number">11.1.1</span> Apa Artinya?</a></li>
+  <li><a href="#kenapa-ini-penting" id="toc-kenapa-ini-penting" class="nav-link" data-scroll-target="#kenapa-ini-penting"><span class="header-section-number">11.1.2</span> Kenapa Ini Penting?</a></li>
+  <li><a href="#how-to-apply" id="toc-how-to-apply" class="nav-link" data-scroll-target="#how-to-apply"><span class="header-section-number">11.1.3</span> How to Apply</a></li>
+  </ul></li>
+  <li><a href="#prinsip-2-offline-first-online-enhanced" id="toc-prinsip-2-offline-first-online-enhanced" class="nav-link" data-scroll-target="#prinsip-2-offline-first-online-enhanced"><span class="header-section-number">11.2</span> Prinsip 2: Offline-First, Online-Enhanced</a>
+  <ul class="collapse">
+  <li><a href="#apa-artinya-1" id="toc-apa-artinya-1" class="nav-link" data-scroll-target="#apa-artinya-1"><span class="header-section-number">11.2.1</span> Apa Artinya?</a></li>
+  <li><a href="#kenapa-ini-krusial-untuk-indonesia" id="toc-kenapa-ini-krusial-untuk-indonesia" class="nav-link" data-scroll-target="#kenapa-ini-krusial-untuk-indonesia"><span class="header-section-number">11.2.2</span> Kenapa Ini Krusial untuk Indonesia?</a></li>
+  <li><a href="#how-to-implement" id="toc-how-to-implement" class="nav-link" data-scroll-target="#how-to-implement"><span class="header-section-number">11.2.3</span> How to Implement</a></li>
+  <li><a href="#user-experience-design" id="toc-user-experience-design" class="nav-link" data-scroll-target="#user-experience-design"><span class="header-section-number">11.2.4</span> User Experience Design</a></li>
+  </ul></li>
+  <li><a href="#prinsip-3-progressive-disclosure-dont-overwhelm" id="toc-prinsip-3-progressive-disclosure-dont-overwhelm" class="nav-link" data-scroll-target="#prinsip-3-progressive-disclosure-dont-overwhelm"><span class="header-section-number">11.3</span> Prinsip 3: Progressive Disclosure (Don’t Overwhelm)</a>
+  <ul class="collapse">
+  <li><a href="#apa-artinya-2" id="toc-apa-artinya-2" class="nav-link" data-scroll-target="#apa-artinya-2"><span class="header-section-number">11.3.1</span> Apa Artinya?</a></li>
+  <li><a href="#kenapa-ini-penting-1" id="toc-kenapa-ini-penting-1" class="nav-link" data-scroll-target="#kenapa-ini-penting-1"><span class="header-section-number">11.3.2</span> Kenapa Ini Penting?</a></li>
+  <li><a href="#how-to-apply-1" id="toc-how-to-apply-1" class="nav-link" data-scroll-target="#how-to-apply-1"><span class="header-section-number">11.3.3</span> How to Apply</a></li>
+  </ul></li>
+  <li><a href="#prinsip-4-multi-modal-content-delivery" id="toc-prinsip-4-multi-modal-content-delivery" class="nav-link" data-scroll-target="#prinsip-4-multi-modal-content-delivery"><span class="header-section-number">11.4</span> Prinsip 4: Multi-Modal Content Delivery</a>
+  <ul class="collapse">
+  <li><a href="#apa-artinya-3" id="toc-apa-artinya-3" class="nav-link" data-scroll-target="#apa-artinya-3"><span class="header-section-number">11.4.1</span> Apa Artinya?</a></li>
+  <li><a href="#why-this-matters" id="toc-why-this-matters" class="nav-link" data-scroll-target="#why-this-matters"><span class="header-section-number">11.4.2</span> Why This Matters</a></li>
+  <li><a href="#content-matrix" id="toc-content-matrix" class="nav-link" data-scroll-target="#content-matrix"><span class="header-section-number">11.4.3</span> Content Matrix</a></li>
+  <li><a href="#practical-implementation" id="toc-practical-implementation" class="nav-link" data-scroll-target="#practical-implementation"><span class="header-section-number">11.4.4</span> Practical Implementation</a></li>
+  </ul></li>
+  <li><a href="#prinsip-5-feedback-loop-measure-learn-iterate" id="toc-prinsip-5-feedback-loop-measure-learn-iterate" class="nav-link" data-scroll-target="#prinsip-5-feedback-loop-measure-learn-iterate"><span class="header-section-number">11.5</span> Prinsip 5: Feedback Loop (Measure, Learn, Iterate)</a>
+  <ul class="collapse">
+  <li><a href="#apa-artinya-4" id="toc-apa-artinya-4" class="nav-link" data-scroll-target="#apa-artinya-4"><span class="header-section-number">11.5.1</span> Apa Artinya?</a></li>
+  <li><a href="#what-to-measure" id="toc-what-to-measure" class="nav-link" data-scroll-target="#what-to-measure"><span class="header-section-number">11.5.2</span> What to Measure</a></li>
+  <li><a href="#how-to-collect" id="toc-how-to-collect" class="nav-link" data-scroll-target="#how-to-collect"><span class="header-section-number">11.5.3</span> How to Collect</a></li>
+  <li><a href="#act-on-data" id="toc-act-on-data" class="nav-link" data-scroll-target="#act-on-data"><span class="header-section-number">11.5.4</span> Act on Data</a></li>
+  </ul></li>
+  </ul></li>
+  <li><a href="#part-2-common-pitfalls-dan-cara-menghindarinya" id="toc-part-2-common-pitfalls-dan-cara-menghindarinya" class="nav-link" data-scroll-target="#part-2-common-pitfalls-dan-cara-menghindarinya"><span class="header-section-number">12</span> Part 2: Common Pitfalls dan Cara Menghindarinya</a>
+  <ul class="collapse">
+  <li><a href="#pitfall-1-build-it-and-they-will-come" id="toc-pitfall-1-build-it-and-they-will-come" class="nav-link" data-scroll-target="#pitfall-1-build-it-and-they-will-come"><span class="header-section-number">12.1</span> Pitfall 1: “Build It and They Will Come”</a>
+  <ul class="collapse">
+  <li><a href="#the-mistake" id="toc-the-mistake" class="nav-link" data-scroll-target="#the-mistake"><span class="header-section-number">12.1.1</span> The Mistake</a></li>
+  <li><a href="#barriers-to-adoption" id="toc-barriers-to-adoption" class="nav-link" data-scroll-target="#barriers-to-adoption"><span class="header-section-number">12.1.2</span> Barriers to Adoption</a></li>
+  <li><a href="#how-to-avoid" id="toc-how-to-avoid" class="nav-link" data-scroll-target="#how-to-avoid"><span class="header-section-number">12.1.3</span> How to Avoid</a></li>
+  </ul></li>
+  <li><a href="#pitfall-2-over-engineering" id="toc-pitfall-2-over-engineering" class="nav-link" data-scroll-target="#pitfall-2-over-engineering"><span class="header-section-number">12.2</span> Pitfall 2: Over-Engineering</a>
+  <ul class="collapse">
+  <li><a href="#the-mistake-1" id="toc-the-mistake-1" class="nav-link" data-scroll-target="#the-mistake-1"><span class="header-section-number">12.2.1</span> The Mistake</a></li>
+  <li><a href="#how-to-avoid-1" id="toc-how-to-avoid-1" class="nav-link" data-scroll-target="#how-to-avoid-1"><span class="header-section-number">12.2.2</span> How to Avoid</a></li>
+  <li><a href="#the-8020-rule" id="toc-the-8020-rule" class="nav-link" data-scroll-target="#the-8020-rule"><span class="header-section-number">12.2.3</span> The 80/20 Rule</a></li>
+  </ul></li>
+  <li><a href="#pitfall-3-ignoring-context" id="toc-pitfall-3-ignoring-context" class="nav-link" data-scroll-target="#pitfall-3-ignoring-context"><span class="header-section-number">12.3</span> Pitfall 3: Ignoring Context</a>
+  <ul class="collapse">
+  <li><a href="#the-mistake-2" id="toc-the-mistake-2" class="nav-link" data-scroll-target="#the-mistake-2"><span class="header-section-number">12.3.1</span> The Mistake</a></li>
+  <li><a href="#how-to-avoid-2" id="toc-how-to-avoid-2" class="nav-link" data-scroll-target="#how-to-avoid-2"><span class="header-section-number">12.3.2</span> How to Avoid</a></li>
+  </ul></li>
+  </ul></li>
+  <li><a href="#part-3-evaluation-checklist-untuk-edtech" id="toc-part-3-evaluation-checklist-untuk-edtech" class="nav-link" data-scroll-target="#part-3-evaluation-checklist-untuk-edtech"><span class="header-section-number">13</span> Part 3: Evaluation Checklist untuk Edtech</a>
+  <ul class="collapse">
+  <li><a href="#accessibility-checklist" id="toc-accessibility-checklist" class="nav-link" data-scroll-target="#accessibility-checklist"><span class="header-section-number">13.1</span> Accessibility Checklist</a></li>
+  <li><a href="#pedagogical-quality" id="toc-pedagogical-quality" class="nav-link" data-scroll-target="#pedagogical-quality"><span class="header-section-number">13.2</span> Pedagogical Quality</a></li>
+  <li><a href="#teacher-experience" id="toc-teacher-experience" class="nav-link" data-scroll-target="#teacher-experience"><span class="header-section-number">13.3</span> Teacher Experience</a></li>
+  <li><a href="#data-privacy-security" id="toc-data-privacy-security" class="nav-link" data-scroll-target="#data-privacy-security"><span class="header-section-number">13.4</span> Data Privacy &amp; Security</a></li>
+  <li><a href="#cost-sustainability" id="toc-cost-sustainability" class="nav-link" data-scroll-target="#cost-sustainability"><span class="header-section-number">13.5</span> Cost &amp; Sustainability</a></li>
+  </ul></li>
+  <li><a href="#part-4-real-world-examples" id="toc-part-4-real-world-examples" class="nav-link" data-scroll-target="#part-4-real-world-examples"><span class="header-section-number">14</span> Part 4: Real-World Examples</a>
+  <ul class="collapse">
+  <li><a href="#good-example-khan-academy" id="toc-good-example-khan-academy" class="nav-link" data-scroll-target="#good-example-khan-academy"><span class="header-section-number">14.1</span> Good Example: Khan Academy</a></li>
+  <li><a href="#bad-example-generic-edtech-yang-gagal" id="toc-bad-example-generic-edtech-yang-gagal" class="nav-link" data-scroll-target="#bad-example-generic-edtech-yang-gagal"><span class="header-section-number">14.2</span> Bad Example: (Generic Edtech yang Gagal)</a></li>
+  </ul></li>
+  <li><a href="#conclusion-knowledge-untuk-action" id="toc-conclusion-knowledge-untuk-action" class="nav-link" data-scroll-target="#conclusion-knowledge-untuk-action"><span class="header-section-number">15</span> Conclusion: Knowledge untuk Action</a>
+  <ul class="collapse">
+  <li><a href="#additional-resources" id="toc-additional-resources" class="nav-link" data-scroll-target="#additional-resources"><span class="header-section-number">15.1</span> Additional Resources</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../My_Concepts/index.html">Ujian Akhir Semester</a></li><li class="breadcrumb-item"><a href="../My_Knowledge/index.html"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">UAS-4 My Knowledge</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">UAS-4 My Knowledge</span></h1>
+<h1 class="title"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">My Knowledge: Designing Inclusive Educational Technology</span></h1>
+<p class="subtitle lead">Panduan Praktis untuk Edtech yang Accessible dan Efektif</p>
 </div>
 
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Jonathan Wiguna </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">October 18, 2025</p>
+    </div>
+  </div>
   
     
   </div>
@@ -258,9 +387,443 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Cara saya mengkomunikasikan sebuah pengatahuan sebagai petunjuk bagi orang lain 1) saya tulis <a href="Rekomendasi Presentasi Efektif(Contoh Makalah).pdf">makalah sebagai bahan utama</a> 2) lalu saya buat <a href="Contoh Transkrip Presentasi.pdf">transkrip ucapan lisan</a> 3) kemudian saya kembangkan <a href="Rekomendasi Presentasi (Contoh Slides).pdf">slide pendukung trnsskrip</a> 4) lalu saya memproduksivideo audio visual </p><div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/ZbghfMvnPZc" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div> <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/ZbghfMvnPZc" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div><p></p>
+<section id="pengantar-knowledge-untuk-siapa" class="level2" data-number="10.1">
+<h2 data-number="10.1" class="anchored" data-anchor-id="pengantar-knowledge-untuk-siapa"><span class="header-section-number">10.1</span> Pengantar: Knowledge untuk Siapa?</h2>
+<p>Dokumen ini adalah <strong>public knowledge sharing</strong> tentang bagaimana design educational technology yang truly inclusive, especially untuk context Indonesia.</p>
+<p><strong>Target Audience:</strong> - Educators yang mau adopt technology di kelas - Edtech developers yang mau build untuk Indonesian market - Policymakers yang evaluate edtech solutions - Anyone yang peduli tentang education equity</p>
+<p><strong>Apa yang akan kamu pelajari:</strong> 1. Prinsip dasar inclusive design untuk edtech 2. Common pitfalls dan cara avoid them 3. Practical checklist untuk evaluate edtech 4. Real-world examples (good dan bad)</p>
+<p><strong>Sumber pengetahuan ini:</strong> - Research papers dari UNESCO, World Bank, MIT Media Lab - Case studies dari edtech yang succeed dan fail - Personal observation dari pilot programs - Interview dengan teachers dan students (simulated based on research)</p>
+<hr>
+</section>
+<section id="part-1-prinsip-dasar-inclusive-edtech-design" class="level1" data-number="11">
+<h1 data-number="11"><span class="header-section-number">11</span> Part 1: Prinsip Dasar Inclusive Edtech Design</h1>
+<section id="prinsip-1-design-for-the-margins-not-the-average" class="level2" data-number="11.1">
+<h2 data-number="11.1" class="anchored" data-anchor-id="prinsip-1-design-for-the-margins-not-the-average"><span class="header-section-number">11.1</span> Prinsip 1: Design for the Margins, Not the Average</h2>
+<section id="apa-artinya" class="level3" data-number="11.1.1">
+<h3 data-number="11.1.1" class="anchored" data-anchor-id="apa-artinya"><span class="header-section-number">11.1.1</span> Apa Artinya?</h3>
+<p><strong>Bad Approach (Design for Average):</strong> “Average student di Indonesia punya smartphone Android dengan koneksi 4G.”</p>
+<p><strong>Result:</strong> Platform requires 4G, fail untuk 40% students yang cuma punya 3G atau less.</p>
+<p><strong>Good Approach (Design for Margins):</strong> “Siswa paling marginalized punya feature phone dengan koneksi 2G yang intermittent.”</p>
+<p><strong>Result:</strong> Platform work di 2G, berarti automatically work untuk yang punya 4G juga.</p>
+</section>
+<section id="kenapa-ini-penting" class="level3" data-number="11.1.2">
+<h3 data-number="11.1.2" class="anchored" data-anchor-id="kenapa-ini-penting"><span class="header-section-number">11.1.2</span> Kenapa Ini Penting?</h3>
+<p><strong>The Math:</strong> Kalau kamu design untuk average (50th percentile), kamu exclude bottom 50%. Kalau kamu design untuk margins (10th percentile), kamu include 90% population.</p>
+</section>
+<section id="how-to-apply" class="level3" data-number="11.1.3">
+<h3 data-number="11.1.3" class="anchored" data-anchor-id="how-to-apply"><span class="header-section-number">11.1.3</span> How to Apply</h3>
+<p><strong>Step 1: Identify Your Most Constrained User</strong></p>
+<p>Ask: - Device terlemah apa yang mereka punya? - Koneksi paling lambat gimana? - Waktu tersedia paling sedikit berapa? - Technical literacy paling rendah seberapa?</p>
+<p><strong>Step 2: Design Core Features untuk User Tersebut</strong></p>
+<p><strong>Example:</strong></p>
+<p><strong>User Profile (Most Constrained):</strong> - Device: HP Android jadul (2GB RAM, Android 6.0) - Connectivity: 2G, 1 Mbps, sering putus - Time: 30 min/day max - Literacy: Bisa basic operation (call, SMS, WhatsApp), struggle dengan app kompleks</p>
+<p><strong>Design Requirements:</strong> - App size &lt; 30 MB (bisa di-download dengan data terbatas) - Work offline (core features available tanpa internet) - Simple UI (maksimal 3 tap untuk any action) - Low bandwidth content (text-heavy, gambar compressed)</p>
+<p><strong>Step 3: Add Progressive Enhancement untuk yang Punya Better Resources</strong></p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode javascript code-with-copy"><code class="sourceCode javascript"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co">// Progressive enhancement example</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="cf">if</span> (device<span class="op">.</span><span class="at">ram</span> <span class="op">&gt;</span> <span class="dv">4</span><span class="er">GB</span> <span class="op">&amp;&amp;</span> connection<span class="op">.</span><span class="at">speed</span> <span class="op">&gt;</span> <span class="dv">10</span><span class="er">Mbps</span>) {</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>  <span class="co">// Enable high-quality video</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">enableHDVideo</span>()<span class="op">;</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>} <span class="cf">else</span> <span class="cf">if</span> (device<span class="op">.</span><span class="at">ram</span> <span class="op">&gt;</span> <span class="dv">2</span><span class="er">GB</span> <span class="op">&amp;&amp;</span> connection<span class="op">.</span><span class="at">speed</span> <span class="op">&gt;</span> <span class="dv">5</span><span class="er">Mbps</span>) {</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>  <span class="co">// Enable standard video</span></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>  <span class="fu">enableSDVideo</span>()<span class="op">;</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>} <span class="cf">else</span> {</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>  <span class="co">// Default to text + audio</span></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>  <span class="fu">enableTextMode</span>()<span class="op">;</span></span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>}</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p><strong>Result:</strong> Everyone gets working product. Those dengan better resources get enhanced experience.</p>
+<hr>
+</section>
+</section>
+<section id="prinsip-2-offline-first-online-enhanced" class="level2" data-number="11.2">
+<h2 data-number="11.2" class="anchored" data-anchor-id="prinsip-2-offline-first-online-enhanced"><span class="header-section-number">11.2</span> Prinsip 2: Offline-First, Online-Enhanced</h2>
+<section id="apa-artinya-1" class="level3" data-number="11.2.1">
+<h3 data-number="11.2.1" class="anchored" data-anchor-id="apa-artinya-1"><span class="header-section-number">11.2.1</span> Apa Artinya?</h3>
+<p><strong>Mindset Shift:</strong></p>
+<p><strong>Old (Online-First):</strong> “App butuh internet untuk work. Kalau offline, kasih error message.”</p>
+<p><strong>New (Offline-First):</strong> “App work offline dulu. Internet hanya untuk sync dan update.”</p>
+</section>
+<section id="kenapa-ini-krusial-untuk-indonesia" class="level3" data-number="11.2.2">
+<h3 data-number="11.2.2" class="anchored" data-anchor-id="kenapa-ini-krusial-untuk-indonesia"><span class="header-section-number">11.2.2</span> Kenapa Ini Krusial untuk Indonesia?</h3>
+<p><strong>Data (Kemkominfo, 2023):</strong> - 60% area Indonesia: Internet intermittent atau slow - 40% students: Tidak punya internet di rumah - 70% students: Depend on mobile data (bukan WiFi)</p>
+<p><strong>Kalau edtech kamu butuh internet terus-menerus, kamu automatically exclude majority.</strong></p>
+</section>
+<section id="how-to-implement" class="level3" data-number="11.2.3">
+<h3 data-number="11.2.3" class="anchored" data-anchor-id="how-to-implement"><span class="header-section-number">11.2.3</span> How to Implement</h3>
+<p><strong>Technical Stack:</strong></p>
+<p><strong>a) Service Workers (untuk web app)</strong></p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="sourceCode javascript code-with-copy"><code class="sourceCode javascript"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="co">// Register service worker</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="cf">if</span> (<span class="st">'serviceWorker'</span> <span class="kw">in</span> <span class="bu">navigator</span>) {</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>  <span class="bu">navigator</span><span class="op">.</span><span class="at">serviceWorker</span><span class="op">.</span><span class="fu">register</span>(<span class="st">'/sw.js'</span>)</span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>    <span class="op">.</span><span class="fu">then</span>(() <span class="kw">=&gt;</span> <span class="bu">console</span><span class="op">.</span><span class="fu">log</span>(<span class="st">'Offline capability enabled'</span>))<span class="op">;</span></span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>}</span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a><span class="co">// In sw.js: Cache important assets</span></span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a>self<span class="op">.</span><span class="fu">addEventListener</span>(<span class="st">'install'</span><span class="op">,</span> (<span class="bu">event</span>) <span class="kw">=&gt;</span> {</span>
+<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a>  <span class="bu">event</span><span class="op">.</span><span class="fu">waitUntil</span>(</span>
+<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a>    caches<span class="op">.</span><span class="fu">open</span>(<span class="st">'app-v1'</span>)<span class="op">.</span><span class="fu">then</span>((cache) <span class="kw">=&gt;</span> {</span>
+<span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a>      <span class="cf">return</span> cache<span class="op">.</span><span class="fu">addAll</span>([</span>
+<span id="cb2-12"><a href="#cb2-12" aria-hidden="true" tabindex="-1"></a>        <span class="st">'/'</span><span class="op">,</span></span>
+<span id="cb2-13"><a href="#cb2-13" aria-hidden="true" tabindex="-1"></a>        <span class="st">'/styles.css'</span><span class="op">,</span></span>
+<span id="cb2-14"><a href="#cb2-14" aria-hidden="true" tabindex="-1"></a>        <span class="st">'/script.js'</span><span class="op">,</span></span>
+<span id="cb2-15"><a href="#cb2-15" aria-hidden="true" tabindex="-1"></a>        <span class="st">'/content/module1.html'</span><span class="op">,</span></span>
+<span id="cb2-16"><a href="#cb2-16" aria-hidden="true" tabindex="-1"></a>        <span class="co">// Cache critical content</span></span>
+<span id="cb2-17"><a href="#cb2-17" aria-hidden="true" tabindex="-1"></a>      ])<span class="op">;</span></span>
+<span id="cb2-18"><a href="#cb2-18" aria-hidden="true" tabindex="-1"></a>    })</span>
+<span id="cb2-19"><a href="#cb2-19" aria-hidden="true" tabindex="-1"></a>  )<span class="op">;</span></span>
+<span id="cb2-20"><a href="#cb2-20" aria-hidden="true" tabindex="-1"></a>})<span class="op">;</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p><strong>b) Local Storage untuk Progress</strong></p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3"><pre class="sourceCode javascript code-with-copy"><code class="sourceCode javascript"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="co">// Save progress locally</span></span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="kw">function</span> <span class="fu">saveProgress</span>(moduleId<span class="op">,</span> progress) {</span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>  localStorage<span class="op">.</span><span class="fu">setItem</span>(</span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a>    <span class="vs">`module_</span><span class="sc">${</span>moduleId<span class="sc">}</span><span class="vs">`</span><span class="op">,</span></span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a>    <span class="bu">JSON</span><span class="op">.</span><span class="fu">stringify</span>({</span>
+<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a>      <span class="dt">progress</span><span class="op">:</span> progress<span class="op">,</span></span>
+<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a>      <span class="dt">timestamp</span><span class="op">:</span> <span class="bu">Date</span><span class="op">.</span><span class="fu">now</span>()<span class="op">,</span></span>
+<span id="cb3-8"><a href="#cb3-8" aria-hidden="true" tabindex="-1"></a>      <span class="dt">synced</span><span class="op">:</span> <span class="kw">false</span></span>
+<span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a>    })</span>
+<span id="cb3-10"><a href="#cb3-10" aria-hidden="true" tabindex="-1"></a>  )<span class="op">;</span></span>
+<span id="cb3-11"><a href="#cb3-11" aria-hidden="true" tabindex="-1"></a>}</span>
+<span id="cb3-12"><a href="#cb3-12" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-13"><a href="#cb3-13" aria-hidden="true" tabindex="-1"></a><span class="co">// Sync when online</span></span>
+<span id="cb3-14"><a href="#cb3-14" aria-hidden="true" tabindex="-1"></a><span class="bu">window</span><span class="op">.</span><span class="fu">addEventListener</span>(<span class="st">'online'</span><span class="op">,</span> () <span class="kw">=&gt;</span> {</span>
+<span id="cb3-15"><a href="#cb3-15" aria-hidden="true" tabindex="-1"></a>  <span class="fu">syncAllProgress</span>()<span class="op">;</span></span>
+<span id="cb3-16"><a href="#cb3-16" aria-hidden="true" tabindex="-1"></a>})<span class="op">;</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p><strong>c) Smart Content Strategy</strong></p>
+<p><strong>Essential Content (Always Cached):</strong> - Current week’s modules - In-progress modules - Core UI assets</p>
+<p><strong>Nice-to-Have Content (Fetch when online):</strong> - Next week’s modules - Supplementary materials - High-res images</p>
+</section>
+<section id="user-experience-design" class="level3" data-number="11.2.4">
+<h3 data-number="11.2.4" class="anchored" data-anchor-id="user-experience-design"><span class="header-section-number">11.2.4</span> User Experience Design</h3>
+<p><strong>Visual Indicators:</strong></p>
+<pre><code>🟢 Connected: Latest content, instant sync
+🟡 Offline: Using cached content, will sync later
+🔴 No content cached: Please connect to download</code></pre>
+<p><strong>Graceful Degradation:</strong></p>
+<p><strong>Feature</strong> | <strong>Online</strong> | <strong>Offline</strong> Video lectures | Stream HD | Play downloaded SD version Live quiz | Real-time leaderboard | Solo mode, sync later Discussion forum | Post immediately | Draft saved, post when online Progress tracking | Instant sync | Sync next connection</p>
+<hr>
+</section>
+</section>
+<section id="prinsip-3-progressive-disclosure-dont-overwhelm" class="level2" data-number="11.3">
+<h2 data-number="11.3" class="anchored" data-anchor-id="prinsip-3-progressive-disclosure-dont-overwhelm"><span class="header-section-number">11.3</span> Prinsip 3: Progressive Disclosure (Don’t Overwhelm)</h2>
+<section id="apa-artinya-2" class="level3" data-number="11.3.1">
+<h3 data-number="11.3.1" class="anchored" data-anchor-id="apa-artinya-2"><span class="header-section-number">11.3.1</span> Apa Artinya?</h3>
+<p><strong>Bad UX:</strong> Open app → Immediately bombarded dengan 20 buttons, 5 menu, 10 notifications.</p>
+<p><strong>Good UX:</strong> Open app → See one clear action: “Continue where you left off” → One button.</p>
+</section>
+<section id="kenapa-ini-penting-1" class="level3" data-number="11.3.2">
+<h3 data-number="11.3.2" class="anchored" data-anchor-id="kenapa-ini-penting-1"><span class="header-section-number">11.3.2</span> Kenapa Ini Penting?</h3>
+<p><strong>Cognitive Load Theory:</strong> Working memory manusia limited. Kalau kamu present too many options sekaligus, users freeze (decision paralysis).</p>
+<p><strong>For Low-Literacy Users:</strong> Complex interface = intimidating = abandoned app.</p>
+</section>
+<section id="how-to-apply-1" class="level3" data-number="11.3.3">
+<h3 data-number="11.3.3" class="anchored" data-anchor-id="how-to-apply-1"><span class="header-section-number">11.3.3</span> How to Apply</h3>
+<p><strong>Step-by-Step Revelation:</strong></p>
+<p><strong>First Open:</strong></p>
+<pre><code>Welcome to EduBridge!
+Let's set up your learning journey.
+
+[Start Setup] (One button only)</code></pre>
+<p><strong>After Setup:</strong></p>
+<pre><code>Today's Lesson: Pythagoras Theorem
+Module 1 of 4
+
+[Start Learning] (Primary action)
+[View Progress] (Secondary, less prominent)</code></pre>
+<p><strong>After 1 Week of Use:</strong></p>
+<pre><code>Continue: Module 3 of 4
+
+Quick Stats:
+✓ 2 modules completed
+⏱ 45 min learned this week
+
+[Continue] [Explore More Topics]</code></pre>
+<p><strong>Progressive Features Unlock:</strong></p>
+<p><strong>Week 1:</strong> Basic learning flow <strong>Week 2:</strong> Unlock progress tracking <strong>Week 3:</strong> Unlock achievements/badges <strong>Week 4:</strong> Unlock community features</p>
+<p><strong>Users learn interface gradually, not overwhelmed.</strong></p>
+<hr>
+</section>
+</section>
+<section id="prinsip-4-multi-modal-content-delivery" class="level2" data-number="11.4">
+<h2 data-number="11.4" class="anchored" data-anchor-id="prinsip-4-multi-modal-content-delivery"><span class="header-section-number">11.4</span> Prinsip 4: Multi-Modal Content Delivery</h2>
+<section id="apa-artinya-3" class="level3" data-number="11.4.1">
+<h3 data-number="11.4.1" class="anchored" data-anchor-id="apa-artinya-3"><span class="header-section-number">11.4.1</span> Apa Artinya?</h3>
+<p><strong>Same content, different formats</strong> untuk accommodate berbagai learning styles, devices, dan connectivity.</p>
+</section>
+<section id="why-this-matters" class="level3" data-number="11.4.2">
+<h3 data-number="11.4.2" class="anchored" data-anchor-id="why-this-matters"><span class="header-section-number">11.4.2</span> Why This Matters</h3>
+<p><strong>Different Students, Different Needs:</strong></p>
+<p><strong>Student A:</strong> Visual learner, punya laptop, WiFi → prefer video <strong>Student B:</strong> Auditory learner, commute 2 jam → prefer audio podcast <strong>Student C:</strong> Limited data, basic phone → prefer text <strong>Student D:</strong> Deaf → need subtitles/transcript</p>
+<p><strong>One format = exclude some students.</strong></p>
+</section>
+<section id="content-matrix" class="level3" data-number="11.4.3">
+<h3 data-number="11.4.3" class="anchored" data-anchor-id="content-matrix"><span class="header-section-number">11.4.3</span> Content Matrix</h3>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 36%">
+<col style="width: 13%">
+<col style="width: 13%">
+<col style="width: 11%">
+<col style="width: 25%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Learning Objective</th>
+<th>Video</th>
+<th>Audio</th>
+<th>Text</th>
+<th>Interactive</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Explain concept</td>
+<td>✅ Lecture</td>
+<td>✅ Narration</td>
+<td>✅ Article</td>
+<td>✅ Simulation</td>
+</tr>
+<tr class="even">
+<td>Demonstrate process</td>
+<td>✅ Tutorial</td>
+<td>✅ Step-by-step guide</td>
+<td>✅ Illustrated guide</td>
+<td>✅ Practice tool</td>
+</tr>
+<tr class="odd">
+<td>Practice skill</td>
+<td>✅ Worked examples</td>
+<td>✅ Guided practice</td>
+<td>✅ Problem sets</td>
+<td>✅ Adaptive quiz</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="practical-implementation" class="level3" data-number="11.4.4">
+<h3 data-number="11.4.4" class="anchored" data-anchor-id="practical-implementation"><span class="header-section-number">11.4.4</span> Practical Implementation</h3>
+<p><strong>Example: Teaching Pythagoras Theorem</strong></p>
+<p><strong>Format 1: Video (10 min, 50 MB)</strong> - Visual explanation dengan animated triangle - Voiceover narration - On-screen text (subtitles) - <strong>For:</strong> Students dengan good device &amp; connectivity</p>
+<p><strong>Format 2: Audio + Static Images (10 min, 5 MB)</strong> - Audio narration (same as video) - Downloadable image set (diagram) - <strong>For:</strong> Students dengan limited connectivity</p>
+<p><strong>Format 3: Text Article (2000 words, 500 KB)</strong> - Written explanation - Embedded diagrams - Example problems - <strong>For:</strong> Students prefer reading, or very limited data</p>
+<p><strong>Format 4: Interactive Tool (30 MB, web-based)</strong> - Drag triangle sides, see calculation - Immediate feedback - <strong>For:</strong> Kinesthetic learners, hands-on practice</p>
+<p><strong>Key:</strong> Student choose format yang cocok untuk mereka.</p>
+<hr>
+</section>
+</section>
+<section id="prinsip-5-feedback-loop-measure-learn-iterate" class="level2" data-number="11.5">
+<h2 data-number="11.5" class="anchored" data-anchor-id="prinsip-5-feedback-loop-measure-learn-iterate"><span class="header-section-number">11.5</span> Prinsip 5: Feedback Loop (Measure, Learn, Iterate)</h2>
+<section id="apa-artinya-4" class="level3" data-number="11.5.1">
+<h3 data-number="11.5.1" class="anchored" data-anchor-id="apa-artinya-4"><span class="header-section-number">11.5.1</span> Apa Artinya?</h3>
+<p><strong>Build → Test → Get Feedback → Improve → Repeat</strong></p>
+<p>Edtech bukan “build once, done”. It’s continuous improvement based on real user data.</p>
+</section>
+<section id="what-to-measure" class="level3" data-number="11.5.2">
+<h3 data-number="11.5.2" class="anchored" data-anchor-id="what-to-measure"><span class="header-section-number">11.5.2</span> What to Measure</h3>
+<p><strong>Quantitative Metrics:</strong> 1. <strong>Engagement:</strong> Active users, session duration, frequency 2. <strong>Completion:</strong> % students yang finish modules 3. <strong>Performance:</strong> Pre-test vs post-test scores 4. <strong>Technical:</strong> App crashes, loading time, error rate</p>
+<p><strong>Qualitative Feedback:</strong> 1. <strong>User Interviews:</strong> What works? What frustrates? 2. <strong>Teacher Observations:</strong> How students actually use the app? 3. <strong>Support Tickets:</strong> Common problems?</p>
+</section>
+<section id="how-to-collect" class="level3" data-number="11.5.3">
+<h3 data-number="11.5.3" class="anchored" data-anchor-id="how-to-collect"><span class="header-section-number">11.5.3</span> How to Collect</h3>
+<p><strong>In-App Analytics:</strong></p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb8"><pre class="sourceCode javascript code-with-copy"><code class="sourceCode javascript"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="co">// Track key events</span></span>
+<span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a>analytics<span class="op">.</span><span class="fu">track</span>(<span class="st">'module_completed'</span><span class="op">,</span> {</span>
+<span id="cb8-3"><a href="#cb8-3" aria-hidden="true" tabindex="-1"></a>  <span class="dt">module_id</span><span class="op">:</span> <span class="st">'pythagoras_101'</span><span class="op">,</span></span>
+<span id="cb8-4"><a href="#cb8-4" aria-hidden="true" tabindex="-1"></a>  <span class="dt">time_spent</span><span class="op">:</span> <span class="dv">1200</span><span class="op">,</span> <span class="co">// seconds</span></span>
+<span id="cb8-5"><a href="#cb8-5" aria-hidden="true" tabindex="-1"></a>  <span class="dt">score</span><span class="op">:</span> <span class="dv">85</span><span class="op">,</span></span>
+<span id="cb8-6"><a href="#cb8-6" aria-hidden="true" tabindex="-1"></a>  <span class="dt">attempts</span><span class="op">:</span> <span class="dv">2</span></span>
+<span id="cb8-7"><a href="#cb8-7" aria-hidden="true" tabindex="-1"></a>})<span class="op">;</span></span>
+<span id="cb8-8"><a href="#cb8-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-9"><a href="#cb8-9" aria-hidden="true" tabindex="-1"></a>analytics<span class="op">.</span><span class="fu">track</span>(<span class="st">'app_error'</span><span class="op">,</span> {</span>
+<span id="cb8-10"><a href="#cb8-10" aria-hidden="true" tabindex="-1"></a>  <span class="dt">error_type</span><span class="op">:</span> <span class="st">'video_failed_to_load'</span><span class="op">,</span></span>
+<span id="cb8-11"><a href="#cb8-11" aria-hidden="true" tabindex="-1"></a>  <span class="dt">device</span><span class="op">:</span> <span class="st">'Android 6.0'</span><span class="op">,</span></span>
+<span id="cb8-12"><a href="#cb8-12" aria-hidden="true" tabindex="-1"></a>  <span class="dt">connection</span><span class="op">:</span> <span class="st">'2G'</span></span>
+<span id="cb8-13"><a href="#cb8-13" aria-hidden="true" tabindex="-1"></a>})<span class="op">;</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p><strong>Feedback Prompt (Non-Intrusive):</strong></p>
+<pre><code>After 5 modules completed:
+"Quick question: How helpful is this module? 
+ 👍 Very helpful | 😐 Okay | 👎 Not helpful"
+
+If 👎 selected:
+"What can we improve?"
+[Free text, optional]</code></pre>
+</section>
+<section id="act-on-data" class="level3" data-number="11.5.4">
+<h3 data-number="11.5.4" class="anchored" data-anchor-id="act-on-data"><span class="header-section-number">11.5.4</span> Act on Data</h3>
+<p><strong>Example Insight:</strong></p>
+<p><strong>Data:</strong> 60% students drop off di Module 3 (Algebra)</p>
+<p><strong>Investigation:</strong> - Check time spent: Average 45 min (vs 20 min untuk other modules) - Check attempts: Average 3.5 attempts (vs 1.5) - <strong>Hypothesis:</strong> Module too hard, missing prerequisites</p>
+<p><strong>Action:</strong> 1. Add prerequisite module (Basic Arithmetic Review) 2. Break Module 3 into 2 smaller modules 3. Add more worked examples</p>
+<p><strong>Result:</strong> Drop-off reduced to 30%, completion increased.</p>
+<p><strong>This is continuous improvement in action.</strong></p>
+<hr>
+</section>
+</section>
+</section>
+<section id="part-2-common-pitfalls-dan-cara-menghindarinya" class="level1" data-number="12">
+<h1 data-number="12"><span class="header-section-number">12</span> Part 2: Common Pitfalls dan Cara Menghindarinya</h1>
+<section id="pitfall-1-build-it-and-they-will-come" class="level2" data-number="12.1">
+<h2 data-number="12.1" class="anchored" data-anchor-id="pitfall-1-build-it-and-they-will-come"><span class="header-section-number">12.1</span> Pitfall 1: “Build It and They Will Come”</h2>
+<section id="the-mistake" class="level3" data-number="12.1.1">
+<h3 data-number="12.1.1" class="anchored" data-anchor-id="the-mistake"><span class="header-section-number">12.1.1</span> The Mistake</h3>
+<p>Assume kalau kamu build great product, users akan automatically adopt.</p>
+<p><strong>Reality:</strong> Adoption butuh effort. Especially di education, banyak barriers.</p>
+</section>
+<section id="barriers-to-adoption" class="level3" data-number="12.1.2">
+<h3 data-number="12.1.2" class="anchored" data-anchor-id="barriers-to-adoption"><span class="header-section-number">12.1.2</span> Barriers to Adoption</h3>
+<ol type="1">
+<li><strong>Tech Literacy:</strong> Teachers/students tidak familiar dengan technology</li>
+<li><strong>Trust:</strong> “Ini app baru, reliable tidak?”</li>
+<li><strong>Integration:</strong> “Gimana integrate dengan kurikulum existing?”</li>
+<li><strong>Cost:</strong> “Gratis atau bayar? Berapa?”</li>
+</ol>
+</section>
+<section id="how-to-avoid" class="level3" data-number="12.1.3">
+<h3 data-number="12.1.3" class="anchored" data-anchor-id="how-to-avoid"><span class="header-section-number">12.1.3</span> How to Avoid</h3>
+<p><strong>a) Onboarding yang Gentle</strong></p>
+<p><strong>Bad Onboarding:</strong></p>
+<pre><code>Sign up → 10-field form → Video tutorial 20 menit → Start</code></pre>
+<p><strong>Good Onboarding:</strong></p>
+<pre><code>Sign up → 3 fields (nama, kelas, HP) → One-sentence intro → 
+Interactive walkthrough (2 menit) → Start immediately</code></pre>
+<p><strong>b) Build Trust via Pilot Programs</strong></p>
+<p>Before mass launch: 1. Run pilot di 5-10 sekolah 2. Get testimonials dari teachers/students 3. Show data: “78% students improved scores” 4. Use social proof untuk wider adoption</p>
+<p><strong>c) Curriculum Integration Guide</strong></p>
+<p>Provide clear documentation: - How modules map to national curriculum - Suggested timeline untuk teachers - Assessment rubrics</p>
+<p><strong>d) Freemium Model</strong></p>
+<ul>
+<li>Core features free (remove cost barrier)</li>
+<li>Premium features for those yang mau</li>
+<li>School/government license for scale</li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="pitfall-2-over-engineering" class="level2" data-number="12.2">
+<h2 data-number="12.2" class="anchored" data-anchor-id="pitfall-2-over-engineering"><span class="header-section-number">12.2</span> Pitfall 2: Over-Engineering</h2>
+<section id="the-mistake-1" class="level3" data-number="12.2.1">
+<h3 data-number="12.2.1" class="anchored" data-anchor-id="the-mistake-1"><span class="header-section-number">12.2.1</span> The Mistake</h3>
+<p>Build platform dengan 50 features, tapi 90% users cuma pakai 5 features.</p>
+<p><strong>Result:</strong> Complex, slow, confusing, expensive to maintain.</p>
+</section>
+<section id="how-to-avoid-1" class="level3" data-number="12.2.2">
+<h3 data-number="12.2.2" class="anchored" data-anchor-id="how-to-avoid-1"><span class="header-section-number">12.2.2</span> How to Avoid</h3>
+<p><strong>Start with MVP (Minimum Viable Product):</strong></p>
+<p><strong>Phase 1: Core Learning Flow</strong> - Student profile - Adaptive content recommendation - Progress tracking - Basic quiz <strong>That’s it.</strong> Launch this first.</p>
+<p><strong>Phase 2: Teacher Tools (after 3 months)</strong> - Teacher dashboard - Class management - Intervention tools</p>
+<p><strong>Phase 3: Community Features (after 6 months)</strong> - Discussion forum - Peer learning - Leaderboards</p>
+<p><strong>Build incrementally based on user feedback, bukan build everything upfront.</strong></p>
+</section>
+<section id="the-8020-rule" class="level3" data-number="12.2.3">
+<h3 data-number="12.2.3" class="anchored" data-anchor-id="the-8020-rule"><span class="header-section-number">12.2.3</span> The 80/20 Rule</h3>
+<p><strong>80% of value comes from 20% of features.</strong></p>
+<p>Focus on that 20%.</p>
+<hr>
+</section>
+</section>
+<section id="pitfall-3-ignoring-context" class="level2" data-number="12.3">
+<h2 data-number="12.3" class="anchored" data-anchor-id="pitfall-3-ignoring-context"><span class="header-section-number">12.3</span> Pitfall 3: Ignoring Context</h2>
+<section id="the-mistake-2" class="level3" data-number="12.3.1">
+<h3 data-number="12.3.1" class="anchored" data-anchor-id="the-mistake-2"><span class="header-section-number">12.3.1</span> The Mistake</h3>
+<p>Copy-paste edtech model dari US/Europe tanpa adapt untuk Indonesian context.</p>
+<p><strong>Example of Failure:</strong></p>
+<p><strong>US Model:</strong> - Assume all students punya laptop - Assume broadband internet - Assume English proficiency - Assume credit card untuk payment</p>
+<p><strong>Indonesian Reality:</strong> - 70% students cuma punya smartphone - 40% tidak punya stable internet - Bahasa Indonesia primary language - Cash/pulsa payment dominant</p>
+<p><strong>Result:</strong> Platform tidak relevan, tidak adopted.</p>
+</section>
+<section id="how-to-avoid-2" class="level3" data-number="12.3.2">
+<h3 data-number="12.3.2" class="anchored" data-anchor-id="how-to-avoid-2"><span class="header-section-number">12.3.2</span> How to Avoid</h3>
+<p><strong>Conduct Local Research:</strong></p>
+<p><strong>Before building, understand:</strong> 1. Device ownership: HP/laptop/tablet? 2. Connectivity: Speed, stability, cost? 3. Language: Bahasa Indonesia, English, atau local language? 4. Payment: Credit card, pulsa, bank transfer? 5. Education system: Kurikulum nasional atau international?</p>
+<p><strong>Adapt Your Design:</strong></p>
+<p><strong>Example Adaptations untuk Indonesia:</strong> - Mobile-first design (bukan laptop-first) - Offline capability (bukan assume always online) - Bahasa Indonesia interface dengan optional English - Pulsa payment option (selain credit card) - Align dengan Kurikulum Merdeka</p>
+<hr>
+</section>
+</section>
+</section>
+<section id="part-3-evaluation-checklist-untuk-edtech" class="level1" data-number="13">
+<h1 data-number="13"><span class="header-section-number">13</span> Part 3: Evaluation Checklist untuk Edtech</h1>
+<p>Kalau kamu educator/policymaker yang mau evaluate edtech solution, gunakan checklist ini:</p>
+<section id="accessibility-checklist" class="level2" data-number="13.1">
+<h2 data-number="13.1" class="anchored" data-anchor-id="accessibility-checklist"><span class="header-section-number">13.1</span> Accessibility Checklist</h2>
+<p><strong>Device Compatibility:</strong> - [ ] Work di Android low-end (2GB RAM)? - [ ] Work di iOS? - [ ] Work di feature phone (minimal)? - [ ] App size &lt; 50 MB?</p>
+<p><strong>Connectivity:</strong> - [ ] Core features work offline? - [ ] Graceful degradation kalau slow internet? - [ ] Content available dalam multiple quality (HD/SD/LD)? - [ ] Sync when online?</p>
+<p><strong>Inclusivity:</strong> - [ ] Support multiple languages? - [ ] Accessible untuk visual impairment (screen reader compatible)? - [ ] Accessible untuk hearing impairment (subtitles)? - [ ] Adjustable font size?</p>
+</section>
+<section id="pedagogical-quality" class="level2" data-number="13.2">
+<h2 data-number="13.2" class="anchored" data-anchor-id="pedagogical-quality"><span class="header-section-number">13.2</span> Pedagogical Quality</h2>
+<p><strong>Content:</strong> - [ ] Align dengan curriculum? - [ ] Accurate dan up-to-date? - [ ] Engaging (bukan just text dump)? - [ ] Multiple formats (video/audio/text)?</p>
+<p><strong>Personalization:</strong> - [ ] Adapt to student level? - [ ] Recommend appropriate content? - [ ] Track progress individually? - [ ] Provide feedback?</p>
+<p><strong>Assessment:</strong> - [ ] Formative assessment (ongoing)? - [ ] Summative assessment (end-of-module)? - [ ] Adaptive difficulty? - [ ] Immediate feedback?</p>
+</section>
+<section id="teacher-experience" class="level2" data-number="13.3">
+<h2 data-number="13.3" class="anchored" data-anchor-id="teacher-experience"><span class="header-section-number">13.3</span> Teacher Experience</h2>
+<p><strong>Dashboard:</strong> - [ ] Easy to see class progress? - [ ] Identify struggling students? - [ ] Intervention tools available? - [ ] Export reports?</p>
+<p><strong>Integration:</strong> - [ ] Easy to integrate dengan existing teaching? - [ ] Documentation clear? - [ ] Training provided? - [ ] Support available?</p>
+</section>
+<section id="data-privacy-security" class="level2" data-number="13.4">
+<h2 data-number="13.4" class="anchored" data-anchor-id="data-privacy-security"><span class="header-section-number">13.4</span> Data Privacy &amp; Security</h2>
+<p><strong>Privacy:</strong> - [ ] Clear privacy policy? - [ ] Student data encrypted? - [ ] No selling data ke third-party? - [ ] Compliant dengan regulation (e.g., GDPR, Indonesian UU PDP)?</p>
+<p><strong>Security:</strong> - [ ] Secure authentication? - [ ] Regular security audits? - [ ] Data backup?</p>
+</section>
+<section id="cost-sustainability" class="level2" data-number="13.5">
+<h2 data-number="13.5" class="anchored" data-anchor-id="cost-sustainability"><span class="header-section-number">13.5</span> Cost &amp; Sustainability</h2>
+<p><strong>Pricing:</strong> - [ ] Free tier available? - [ ] Pricing transparent? - [ ] No hidden costs? - [ ] Affordable untuk target demographic?</p>
+<p><strong>Sustainability:</strong> - [ ] Company financially stable? - [ ] Regular updates? - [ ] Long-term roadmap? - [ ] Local support team?</p>
+<hr>
+</section>
+</section>
+<section id="part-4-real-world-examples" class="level1" data-number="14">
+<h1 data-number="14"><span class="header-section-number">14</span> Part 4: Real-World Examples</h1>
+<section id="good-example-khan-academy" class="level2" data-number="14.1">
+<h2 data-number="14.1" class="anchored" data-anchor-id="good-example-khan-academy"><span class="header-section-number">14.1</span> Good Example: Khan Academy</h2>
+<p><strong>What They Did Right:</strong></p>
+<ol type="1">
+<li><strong>Content Quality:</strong> High-quality videos, clear explanations</li>
+<li><strong>Accessibility:</strong> Free untuk semua, no paywall</li>
+<li><strong>Personalization:</strong> Adaptive practice, track progress</li>
+<li><strong>Offline:</strong> Mobile app dengan download capability</li>
+<li><strong>Multi-language:</strong> Available dalam 40+ languages</li>
+</ol>
+<p><strong>Result:</strong> 120 juta users worldwide, proven impact.</p>
+<p><strong>Lesson:</strong> Focus on quality content + accessibility = mass adoption.</p>
+<hr>
+</section>
+<section id="bad-example-generic-edtech-yang-gagal" class="level2" data-number="14.2">
+<h2 data-number="14.2" class="anchored" data-anchor-id="bad-example-generic-edtech-yang-gagal"><span class="header-section-number">14.2</span> Bad Example: (Generic Edtech yang Gagal)</h2>
+<p><strong>What Went Wrong:</strong></p>
+<ol type="1">
+<li><strong>Too Complex:</strong> 50 features, overwhelming interface</li>
+<li><strong>Expensive:</strong> $20/month (tidak affordable untuk majority)</li>
+<li><strong>Requires High-Speed Internet:</strong> Fail untuk users dengan limited connectivity</li>
+<li><strong>No Teacher Tools:</strong> Teachers tidak tau how to integrate</li>
+<li><strong>Generic Content:</strong> Not aligned dengan local curriculum</li>
+</ol>
+<p><strong>Result:</strong> Low adoption, high churn, company shut down.</p>
+<p><strong>Lesson:</strong> Feature bloat + price + ignore context = failure.</p>
+<hr>
+</section>
+</section>
+<section id="conclusion-knowledge-untuk-action" class="level1" data-number="15">
+<h1 data-number="15"><span class="header-section-number">15</span> Conclusion: Knowledge untuk Action</h1>
+<p>Ini bukan theoretical knowledge. Ini adalah <strong>practical guide</strong> yang bisa kamu gunakan besok untuk:</p>
+<p><strong>Kalau kamu educator:</strong> - Evaluate edtech sebelum adopt - Advocate untuk inclusive design - Give feedback ke developers</p>
+<p><strong>Kalau kamu developer:</strong> - Design dengan prinsip inclusive dari awal - Test dengan real users (bukan just internal team) - Iterate based on feedback</p>
+<p><strong>Kalau kamu policymaker:</strong> - Set standards untuk edtech procurement - Prioritize solutions yang proven inclusive - Fund pilot programs untuk validate impact</p>
+<p><strong>Final Thoughts:</strong></p>
+<p>Technology bukan silver bullet untuk education inequality. Tapi <strong>well-designed, inclusive technology</strong> bisa jadi powerful tool untuk bridge the gap.</p>
+<p>The key is: <strong>Design untuk those who need it most, not those who can afford it most.</strong></p>
+<hr>
+<section id="additional-resources" class="level2" data-number="15.1">
+<h2 data-number="15.1" class="anchored" data-anchor-id="additional-resources"><span class="header-section-number">15.1</span> Additional Resources</h2>
+<p><strong>Further Reading:</strong> 1. UNESCO: “Technology and Education: A Framework for Policy-Makers” 2. World Bank: “Learning to Realize Education’s Promise” 3. MIT Media Lab: “Design for Low-Resource Settings”</p>
+<p><strong>Online Tools:</strong> - Web.dev: Test PWA capability - Google Lighthouse: Audit performance - WAVE: Check accessibility</p>
+<p><strong>Communities:</strong> - EdTech Indonesia Forum - Global Learning XPRIZE - Open Education Consortium</p>
+<hr>
+<p><em>Knowledge is most valuable when shared. Feel free to use, adapt, and distribute this guide untuk advance inclusive education.</em></p>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
