@@ -15,6 +15,18 @@ UAS-5 ini adalah **professional review** terhadap masterpiece yang telah saya bu
 
 Berbeda dengan UTS-5 yang kasual dan reflective, UAS-5 ini lebih **professional dan objective**, menggunakan rubrik yang telah ditetapkan untuk menilai kualitas karya.
 
+---
+
+## 📊 Dokumen Penilaian Resmi
+
+Hasil penilaian lengkap dapat diunduh di sini:
+
+⬇️ **Download: [18222019_penilaianUAS.xlsx](./18222019_penilaianUAS.xlsx)**
+
+File berisi breakdown skor detail untuk setiap komponen UAS berdasarkan rubrik CPMK.
+
+---
+
 **Struktur Review:**
 1. Metodologi assessment
 2. Review detail per UAS (1-4) berdasarkan rubrik
@@ -399,21 +411,10 @@ Level: Professional development material, workshop-ready
 
 ---
 
-### 📊 Dokumen Penilaian Resmi
+## CSV Export untuk Dokumentasi (Alternative Format)
 
-Hasil penilaian lengkap dapat diunduh di sini:
+**Download Assessment Results:**
 
-⬇️ **Download: [18222019_penilaianUAS.xlsx](./18222019_penilaianUAS.xlsx)**
-
-File berisi breakdown skor detail untuk setiap komponen UAS berdasarkan rubrik CPMK.
-
----
-
-## CSV Export untuk Dokumentasi
-
-**Download Assessment Results (Alternative Format):**
-
-**Option 1: CSV Format (Generated)**  
 [📊 Download Assessment CSV](./UAS_SelfAssessment_JonathanWiguna.csv)
 
 *CSV file contains detailed scores, justifications, dan improvement recommendations untuk each criterion.*
