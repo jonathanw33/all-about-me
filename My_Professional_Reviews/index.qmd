@@ -403,9 +403,13 @@ Level: Professional development material, workshop-ready
 
 **Download Assessment Results:**
 
+**Option 1: CSV Format (Generated)**
 [📊 Download Assessment CSV](./UAS_SelfAssessment_JonathanWiguna.csv)
 
-*File will contain detailed scores, justifications, dan improvement recommendations untuk each criterion.*
+**Option 2: Excel Format (Official)**
+[📊 Download Assessment Excel](./18222019_penilaianUAS.xlsx)
+
+*Files contain detailed scores, justifications, dan improvement recommendations untuk each criterion.*
 
 ---
 
