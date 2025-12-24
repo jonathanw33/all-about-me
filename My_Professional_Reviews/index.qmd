@@ -399,17 +399,24 @@ Level: Professional development material, workshop-ready
 
 ---
 
+### 📊 Dokumen Penilaian Resmi
+
+Hasil penilaian lengkap dapat diunduh di sini:
+
+⬇️ **Download: [18222019_penilaianUAS.xlsx](./18222019_penilaianUAS.xlsx)**
+
+File berisi breakdown skor detail untuk setiap komponen UAS berdasarkan rubrik CPMK.
+
+---
+
 ## CSV Export untuk Dokumentasi
 
-**Download Assessment Results:**
+**Download Assessment Results (Alternative Format):**
 
-**Option 1: CSV Format (Generated)**
+**Option 1: CSV Format (Generated)**  
 [📊 Download Assessment CSV](./UAS_SelfAssessment_JonathanWiguna.csv)
 
-**Option 2: Excel Format (Official)**
-[📊 Download Assessment Excel](./18222019_penilaianUAS.xlsx)
-
-*Files contain detailed scores, justifications, dan improvement recommendations untuk each criterion.*
+*CSV file contains detailed scores, justifications, dan improvement recommendations untuk each criterion.*
 
 ---
 
